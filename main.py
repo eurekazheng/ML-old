@@ -62,11 +62,17 @@ def train(**kwargs):
                 acc = np.matrix.trace(cm.value()) / np.sum(cm.value())
                 viz.plot('Train Accuracy', acc)
                 viz.plotcm(cm.value(), prefix='Train')
-        eval(model, eval_dataloader)
+                print(('epoch {e} batch {b}: ' +
+                      'Train Loss: {tl}, Train Accuracy: {ta}').format(
+                          e = epoch,
+                          b = i,
+                          tl = lm.value()[0],
+                          ta = acc))
+        eval(model, eval_dataloader, epoch)
         #  model.save()
 
 
-def eval(model, eval_dataloader):
+def eval(model, eval_dataloader, epoch):
     model.eval()
     eval_lm.reset()
     eval_cm.reset()
@@ -79,9 +85,15 @@ def eval(model, eval_dataloader):
         eval_cm.add(eval_output.data, eval_target.data)
         if i % opt.print_freq == opt.print_freq - 1:
             viz.plot('Evaluation Loss', eval_lm.value()[0])
-            acc = np.matrix.trace(eval_cm.value()) / np.sum(eval_cm.value())
-            viz.plot('Evaluation Accuracy', acc)
+            eval_acc = np.matrix.trace(eval_cm.value()) / np.sum(eval_cm.value())
+            viz.plot('Evaluation Accuracy', eval_acc)
             viz.plotcm(eval_cm.value(), prefix='Eval')
+            print(('epoch {e} batch {b}: ' +
+                  'Eval Loss: {el}, Eval Accuracy: {ea}').format(
+                      e = epoch,
+                      b = i,
+                      el = eval_lm.value()[0],
+                      ea = eval_acc))
     model.train()
 
 
