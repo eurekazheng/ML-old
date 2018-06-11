@@ -49,11 +49,11 @@ def selectSample():
         T.CenterCrop(512),
     ])
     num = (100, 25)
-    with open(os.path.join('C:\\Users\\HU SHIHE\\Desktop\\trainLabels.csv'), 'r') as csvfile:
+    with open(os.path.join('C:\\Users\\HU SHIHE\\ML\\data\\dataset\\trainLabels.csv'), 'r') as csvfile:
         data = list(csv.reader(csvfile, delimiter=','))
         csvfile.close()
     for i, mode in enumerate(('train', 'eval')):
-        with open(os.path.join('C:\\Users\\HU SHIHE\\Desktop\\', mode + '.csv'), 'w', newline='') as writefile:
+        with open(os.path.join('C:\\Users\\HU SHIHE\\ML\\data\\dataset\\', mode + '.csv'), 'w', newline='') as writefile:
             writer = csv.writer(writefile, delimiter=',')
             for j in range(5):
                 img_fn = list(filter(lambda x: int(x[1]) == j, data))
