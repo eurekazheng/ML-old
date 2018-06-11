@@ -1,7 +1,9 @@
 import os
 from skimage import io
 import torchvision.datasets.mnist as mnist
-
+from torchvision import transforms as T
+from PIL import Image
+import csv
 
 def fashionDatasetPrep(root):
     train_set = (
@@ -23,3 +25,19 @@ def fashionDatasetPrep(root):
                 img_path = os.path.join(data_path, str(i) + '.jpg')
                 io.imsave(img_path, img.numpy())
                 f.write(img_path + ' ' + str(label.item()) + '\n')
+
+def diaretDatasetPrep():
+    for mode in ('train', 'eval'):
+        with open('C:\\Users\\HU SHIHE\\Desktop\\' + mode + '.csv') as csvfile:
+            data = csv.reader(csvfile, delimiter=',')
+            for line in data:
+                img = Image.open(os.path.join('C:\\Users\\HU SHIHE\\Downloads\\train', line[0] + '.jpeg'))
+                trans = T.Compose([
+                    T.Grayscale(),
+                    T.Resize(512),
+                    T.CenterCrop(512),
+                ])
+                img = trans(img)
+                img.save(os.path.join('C:\\Users\\HU SHIHE\\ML\\data\\dataset\\' + mode, line[0] + '.jpeg'))
+
+# diaretDatasetPrep()
