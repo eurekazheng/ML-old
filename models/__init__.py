@@ -1,2 +1,2 @@
-from .FashionNet import FashionNet
+from .DiaretNet import DiaretNet
 from .BasicModule import BasicModule

@@ -3,10 +3,10 @@ import warnings
 
 class DefaultConfig(object):
     env = 'main'  # visdom 环境
-    model = 'FashionNet'  # 使用的模型，名字必须与models/__init__.py中的名字一致
+    model = 'DiaretNet'  # 使用的模型，名字必须与models/__init__.py中的名字一致
 
-    data_root = 'data/dataset/'
-    label_root = 'data/dataset/'
+    img_root = 'C:\\Users\\HU SHIHE\\Downloads\\'
+    label_root = 'C:\\Users\\HU SHIHE\\Desktop\\'
     load_model_path = None  # 'checkpoints/model.pth'  加载预训练的模型的路径，为None代表不加载
 
     batch_size = 64  # batch size

@@ -3,12 +3,12 @@ import torch.nn as nn
 import torchvision.models.alexnet
 
 
-class FashionNet(BasicModule):
+class DiaretNet(BasicModule):
 
     def __init__(self):
-        super(FashionNet, self).__init__()
+        super(DiaretNet, self).__init__()
         self.conv1 = nn.Sequential(
-            nn.Conv2d(3, 32, 3, 1, 1),
+            nn.Conv2d(1, 32, 3, 1, 1),
             nn.ReLU(),
             nn.MaxPool2d(2)
         )
@@ -25,7 +25,7 @@ class FashionNet(BasicModule):
         self.dense = nn.Sequential(
             nn.Linear(64 * 3 * 3, 128),
             nn.ReLU(),
-            nn.Linear(128, 10)
+            nn.Linear(128, 5)
         )
     
     def forward(self, x):

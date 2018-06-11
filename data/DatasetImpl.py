@@ -6,13 +6,14 @@ from torch.utils.data import Dataset, DataLoader
 from PIL import Image
 
 
-class FashionDataset(Dataset):
+class DiaretDataset(Dataset):
 
-    def __init__(self, root, transforms=None, mode='train'):
-        with open(os.path.join(root, mode + '.csv')) as csvfile:
-            data = csv.reader(csvfile, delimiter=' ')
-            imgs = [(line[0], int(line[1])) for line in data]
-        imgs = sorted(imgs, key=lambda x: x[0].split('.')[-2])
+    def __init__(self, img_root, label_root, transforms=None, mode='train'):
+        with open(os.path.join(label_root, mode + '.csv')) as csvfile:
+            data = csv.reader(csvfile, delimiter=',')
+            imgs = [(os.path.join(img_root, mode, line[0] + '.jpeg'),
+                     int(line[1])) for line in data]
+        imgs = sorted(imgs, key=lambda x: x[0].split('_')[-2])
         self.mode = mode
         self.imgs = imgs
         if transforms is None:

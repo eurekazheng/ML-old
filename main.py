@@ -1,12 +1,13 @@
 import models
 from config import DefaultConfig
 from data import DatasetPrep
-from data.DatasetImpl import FashionDataset
+from data.DatasetImpl import DiaretDataset
 from utils import Visualizer
 import numpy as np
 import torch as t
 from torch.utils.data import DataLoader
 from torch.autograd import Variable
+from torchvision import transforms as T
 from torchnet import meter
 
 opt = DefaultConfig()
@@ -15,7 +16,7 @@ viz = Visualizer(opt.env)
 assert viz.check_connection()
 viz.close()
 lm = eval_lm = meter.AverageValueMeter()
-cm = eval_cm = meter.ConfusionMeter(10)
+cm = eval_cm = meter.ConfusionMeter(5)
 criterion = t.nn.CrossEntropyLoss()
 
 def train(**kwargs):
@@ -28,11 +29,19 @@ def train(**kwargs):
     if opt.load_model_path:
         model.load(opt.load_model_path)
     #  Instantialize train and eval dataset and dataloader
-    train_data = FashionDataset(root=opt.data_root, mode='train')
+    trans = T.Compose([
+        T.Grayscale(),
+        T.Resize(512),
+        T.CenterCrop(512),
+        T.ToTensor()
+    ])
+    train_data = DiaretDataset(img_root=opt.img_root, label_root=opt.label_root,
+                               transforms=trans, mode='train')
     train_dataloader = DataLoader(train_data, opt.batch_size,
                                   shuffle=True,
                                   num_workers=opt.num_workers)
-    eval_data = FashionDataset(root=opt.data_root, mode='eval')
+    eval_data = DiaretDataset(img_root=opt.img_root, label_root=opt.label_root,
+                              transforms=trans, mode='eval')
     eval_dataloader = DataLoader(eval_data, opt.batch_size,
                                  shuffle=True,
                                  num_workers=opt.num_workers)
