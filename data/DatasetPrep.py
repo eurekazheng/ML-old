@@ -48,17 +48,24 @@ def selectSample():
         T.Resize(512),
         T.CenterCrop(512),
     ])
-    for mode in ('train', 'eval'):
-        with open(os.path.join('data/dataset/', mode + '.csv')) as csvfile:
-            data = list(csv.reader(csvfile, delimiter=','))
-            num = 100
-            img_path = []
-            for i in range(5):
-                img_path = list(filter(lambda x: int(x[1]) == i, data))[:num][0]
-                for path in img_path:
-                    img = Image.open(os.path.join('C:\\Users\\HU SHIHE\\Downloads\\train', path + '.jpeg'))
+    num = (100, 25)
+    with open(os.path.join('C:\\Users\\HU SHIHE\\Desktop\\trainLabels.csv'), 'r') as csvfile:
+        data = list(csv.reader(csvfile, delimiter=','))
+        csvfile.close()
+    for i, mode in enumerate(('train', 'eval')):
+        with open(os.path.join('C:\\Users\\HU SHIHE\\Desktop\\', mode + '.csv'), 'w', newline='') as writefile:
+            writer = csv.writer(writefile, delimiter=',')
+            for j in range(5):
+                img_fn = list(filter(lambda x: int(x[1]) == j, data))
+                upper = min(num[i], len(img_fn))
+                img_fn = img_fn[: (1-2*i)*upper : 1-2*i]
+                for l in img_fn:
+                    writer.writerow(l)
+                img_fn = [l[0] for l in img_fn]
+                for fn in img_fn:
+                    img = Image.open(os.path.join('C:\\Users\\HU SHIHE\\Downloads\\train', fn + '.jpeg'))
                     img = trans(img)
-                    img.save(os.path.join('C:\\Users\\HU SHIHE\\ML\\data\\dataset\\' + mode, path + '.jpeg')) 
+                    img.save(os.path.join('C:\\Users\\HU SHIHE\\ML\\data\\dataset\\' + mode, fn + '.jpeg'))
 
 
 selectSample()

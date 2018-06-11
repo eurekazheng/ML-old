@@ -80,7 +80,7 @@ def train(**kwargs):
                           tl = lm.value()[0],
                           ta = acc))
         eval(model, eval_dataloader, epoch)
-        model.save()
+        #  model.save()
 
 
 def eval(model, eval_dataloader, epoch):
