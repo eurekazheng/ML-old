@@ -19,6 +19,7 @@ lm = eval_lm = meter.AverageValueMeter()
 cm = eval_cm = meter.ConfusionMeter(5)
 criterion = t.nn.CrossEntropyLoss()
 
+
 def train(**kwargs):
     opt.parse(kwargs)
     #  Instantialize model
@@ -56,6 +57,7 @@ def train(**kwargs):
         lm.reset()
         cm.reset()
         for i, (img, label) in enumerate(train_dataloader):
+            print('Batch {b}'.format(b=i))
             input = Variable(img)
             target = Variable(label)
             optimizer.zero_grad()

@@ -1,3825 +1,3000 @@
-data/dataset/train/0.jpg 9
-data/dataset/train/1.jpg 2
-data/dataset/train/2.jpg 1
-data/dataset/train/3.jpg 1
-data/dataset/train/4.jpg 6
-data/dataset/train/5.jpg 1
-data/dataset/train/6.jpg 4
-data/dataset/train/7.jpg 6
-data/dataset/train/8.jpg 5
-data/dataset/train/9.jpg 7
-data/dataset/train/10.jpg 4
-data/dataset/train/11.jpg 5
-data/dataset/train/12.jpg 7
-data/dataset/train/13.jpg 3
-data/dataset/train/14.jpg 4
-data/dataset/train/15.jpg 1
-data/dataset/train/16.jpg 2
-data/dataset/train/17.jpg 4
-data/dataset/train/18.jpg 8
-data/dataset/train/19.jpg 0
-data/dataset/train/20.jpg 2
-data/dataset/train/21.jpg 5
-data/dataset/train/22.jpg 7
-data/dataset/train/23.jpg 9
-data/dataset/train/24.jpg 1
-data/dataset/train/25.jpg 4
-data/dataset/train/26.jpg 6
-data/dataset/train/27.jpg 0
-data/dataset/train/28.jpg 9
-data/dataset/train/29.jpg 3
-data/dataset/train/30.jpg 8
-data/dataset/train/31.jpg 8
-data/dataset/train/32.jpg 3
-data/dataset/train/33.jpg 3
-data/dataset/train/34.jpg 8
-data/dataset/train/35.jpg 0
-data/dataset/train/36.jpg 7
-data/dataset/train/37.jpg 5
-data/dataset/train/38.jpg 7
-data/dataset/train/39.jpg 9
-data/dataset/train/40.jpg 6
-data/dataset/train/41.jpg 1
-data/dataset/train/42.jpg 3
-data/dataset/train/43.jpg 7
-data/dataset/train/44.jpg 6
-data/dataset/train/45.jpg 7
-data/dataset/train/46.jpg 2
-data/dataset/train/47.jpg 1
-data/dataset/train/48.jpg 2
-data/dataset/train/49.jpg 2
-data/dataset/train/50.jpg 4
-data/dataset/train/51.jpg 4
-data/dataset/train/52.jpg 5
-data/dataset/train/53.jpg 8
-data/dataset/train/54.jpg 2
-data/dataset/train/55.jpg 2
-data/dataset/train/56.jpg 8
-data/dataset/train/57.jpg 4
-data/dataset/train/58.jpg 8
-data/dataset/train/59.jpg 0
-data/dataset/train/60.jpg 7
-data/dataset/train/61.jpg 7
-data/dataset/train/62.jpg 8
-data/dataset/train/63.jpg 5
-data/dataset/train/64.jpg 1
-data/dataset/train/65.jpg 1
-data/dataset/train/66.jpg 2
-data/dataset/train/67.jpg 3
-data/dataset/train/68.jpg 9
-data/dataset/train/69.jpg 8
-data/dataset/train/70.jpg 7
-data/dataset/train/71.jpg 0
-data/dataset/train/72.jpg 2
-data/dataset/train/73.jpg 6
-data/dataset/train/74.jpg 2
-data/dataset/train/75.jpg 3
-data/dataset/train/76.jpg 1
-data/dataset/train/77.jpg 2
-data/dataset/train/78.jpg 8
-data/dataset/train/79.jpg 4
-data/dataset/train/80.jpg 1
-data/dataset/train/81.jpg 8
-data/dataset/train/82.jpg 5
-data/dataset/train/83.jpg 9
-data/dataset/train/84.jpg 5
-data/dataset/train/85.jpg 0
-data/dataset/train/86.jpg 3
-data/dataset/train/87.jpg 2
-data/dataset/train/88.jpg 0
-data/dataset/train/89.jpg 6
-data/dataset/train/90.jpg 5
-data/dataset/train/91.jpg 3
-data/dataset/train/92.jpg 6
-data/dataset/train/93.jpg 7
-data/dataset/train/94.jpg 1
-data/dataset/train/95.jpg 8
-data/dataset/train/96.jpg 0
-data/dataset/train/97.jpg 1
-data/dataset/train/98.jpg 4
-data/dataset/train/99.jpg 2
-data/dataset/train/100.jpg 3
-data/dataset/train/101.jpg 6
-data/dataset/train/102.jpg 7
-data/dataset/train/103.jpg 2
-data/dataset/train/104.jpg 7
-data/dataset/train/105.jpg 8
-data/dataset/train/106.jpg 5
-data/dataset/train/107.jpg 9
-data/dataset/train/108.jpg 9
-data/dataset/train/109.jpg 4
-data/dataset/train/110.jpg 2
-data/dataset/train/111.jpg 5
-data/dataset/train/112.jpg 7
-data/dataset/train/113.jpg 0
-data/dataset/train/114.jpg 5
-data/dataset/train/115.jpg 2
-data/dataset/train/116.jpg 8
-data/dataset/train/117.jpg 6
-data/dataset/train/118.jpg 7
-data/dataset/train/119.jpg 8
-data/dataset/train/120.jpg 0
-data/dataset/train/121.jpg 0
-data/dataset/train/122.jpg 9
-data/dataset/train/123.jpg 9
-data/dataset/train/124.jpg 3
-data/dataset/train/125.jpg 0
-data/dataset/train/126.jpg 8
-data/dataset/train/127.jpg 4
-data/dataset/train/128.jpg 1
-data/dataset/train/129.jpg 5
-data/dataset/train/130.jpg 4
-data/dataset/train/131.jpg 1
-data/dataset/train/132.jpg 9
-data/dataset/train/133.jpg 1
-data/dataset/train/134.jpg 8
-data/dataset/train/135.jpg 6
-data/dataset/train/136.jpg 2
-data/dataset/train/137.jpg 1
-data/dataset/train/138.jpg 2
-data/dataset/train/139.jpg 5
-data/dataset/train/140.jpg 1
-data/dataset/train/141.jpg 0
-data/dataset/train/142.jpg 0
-data/dataset/train/143.jpg 0
-data/dataset/train/144.jpg 1
-data/dataset/train/145.jpg 6
-data/dataset/train/146.jpg 1
-data/dataset/train/147.jpg 6
-data/dataset/train/148.jpg 2
-data/dataset/train/149.jpg 2
-data/dataset/train/150.jpg 4
-data/dataset/train/151.jpg 4
-data/dataset/train/152.jpg 1
-data/dataset/train/153.jpg 4
-data/dataset/train/154.jpg 5
-data/dataset/train/155.jpg 0
-data/dataset/train/156.jpg 4
-data/dataset/train/157.jpg 7
-data/dataset/train/158.jpg 9
-data/dataset/train/159.jpg 3
-data/dataset/train/160.jpg 7
-data/dataset/train/161.jpg 2
-data/dataset/train/162.jpg 3
-data/dataset/train/163.jpg 9
-data/dataset/train/164.jpg 0
-data/dataset/train/165.jpg 9
-data/dataset/train/166.jpg 4
-data/dataset/train/167.jpg 7
-data/dataset/train/168.jpg 4
-data/dataset/train/169.jpg 2
-data/dataset/train/170.jpg 0
-data/dataset/train/171.jpg 5
-data/dataset/train/172.jpg 2
-data/dataset/train/173.jpg 1
-data/dataset/train/174.jpg 2
-data/dataset/train/175.jpg 1
-data/dataset/train/176.jpg 3
-data/dataset/train/177.jpg 0
-data/dataset/train/178.jpg 9
-data/dataset/train/179.jpg 1
-data/dataset/train/180.jpg 0
-data/dataset/train/181.jpg 9
-data/dataset/train/182.jpg 3
-data/dataset/train/183.jpg 6
-data/dataset/train/184.jpg 7
-data/dataset/train/185.jpg 9
-data/dataset/train/186.jpg 9
-data/dataset/train/187.jpg 4
-data/dataset/train/188.jpg 4
-data/dataset/train/189.jpg 7
-data/dataset/train/190.jpg 1
-data/dataset/train/191.jpg 2
-data/dataset/train/192.jpg 1
-data/dataset/train/193.jpg 6
-data/dataset/train/194.jpg 3
-data/dataset/train/195.jpg 2
-data/dataset/train/196.jpg 8
-data/dataset/train/197.jpg 3
-data/dataset/train/198.jpg 6
-data/dataset/train/199.jpg 1
-data/dataset/train/200.jpg 1
-data/dataset/train/201.jpg 0
-data/dataset/train/202.jpg 2
-data/dataset/train/203.jpg 9
-data/dataset/train/204.jpg 2
-data/dataset/train/205.jpg 4
-data/dataset/train/206.jpg 0
-data/dataset/train/207.jpg 7
-data/dataset/train/208.jpg 9
-data/dataset/train/209.jpg 8
-data/dataset/train/210.jpg 4
-data/dataset/train/211.jpg 1
-data/dataset/train/212.jpg 8
-data/dataset/train/213.jpg 4
-data/dataset/train/214.jpg 1
-data/dataset/train/215.jpg 3
-data/dataset/train/216.jpg 1
-data/dataset/train/217.jpg 6
-data/dataset/train/218.jpg 7
-data/dataset/train/219.jpg 2
-data/dataset/train/220.jpg 8
-data/dataset/train/221.jpg 5
-data/dataset/train/222.jpg 2
-data/dataset/train/223.jpg 0
-data/dataset/train/224.jpg 7
-data/dataset/train/225.jpg 7
-data/dataset/train/226.jpg 6
-data/dataset/train/227.jpg 2
-data/dataset/train/228.jpg 7
-data/dataset/train/229.jpg 0
-data/dataset/train/230.jpg 7
-data/dataset/train/231.jpg 8
-data/dataset/train/232.jpg 9
-data/dataset/train/233.jpg 2
-data/dataset/train/234.jpg 9
-data/dataset/train/235.jpg 0
-data/dataset/train/236.jpg 5
-data/dataset/train/237.jpg 1
-data/dataset/train/238.jpg 4
-data/dataset/train/239.jpg 4
-data/dataset/train/240.jpg 5
-data/dataset/train/241.jpg 6
-data/dataset/train/242.jpg 9
-data/dataset/train/243.jpg 2
-data/dataset/train/244.jpg 6
-data/dataset/train/245.jpg 8
-data/dataset/train/246.jpg 6
-data/dataset/train/247.jpg 4
-data/dataset/train/248.jpg 2
-data/dataset/train/249.jpg 2
-data/dataset/train/250.jpg 9
-data/dataset/train/251.jpg 7
-data/dataset/train/252.jpg 6
-data/dataset/train/253.jpg 5
-data/dataset/train/254.jpg 5
-data/dataset/train/255.jpg 2
-data/dataset/train/256.jpg 8
-data/dataset/train/257.jpg 5
-data/dataset/train/258.jpg 2
-data/dataset/train/259.jpg 3
-data/dataset/train/260.jpg 0
-data/dataset/train/261.jpg 4
-data/dataset/train/262.jpg 8
-data/dataset/train/263.jpg 0
-data/dataset/train/264.jpg 0
-data/dataset/train/265.jpg 6
-data/dataset/train/266.jpg 3
-data/dataset/train/267.jpg 8
-data/dataset/train/268.jpg 9
-data/dataset/train/269.jpg 6
-data/dataset/train/270.jpg 1
-data/dataset/train/271.jpg 3
-data/dataset/train/272.jpg 0
-data/dataset/train/273.jpg 2
-data/dataset/train/274.jpg 3
-data/dataset/train/275.jpg 0
-data/dataset/train/276.jpg 8
-data/dataset/train/277.jpg 3
-data/dataset/train/278.jpg 7
-data/dataset/train/279.jpg 4
-data/dataset/train/280.jpg 0
-data/dataset/train/281.jpg 1
-data/dataset/train/282.jpg 6
-data/dataset/train/283.jpg 3
-data/dataset/train/284.jpg 0
-data/dataset/train/285.jpg 6
-data/dataset/train/286.jpg 6
-data/dataset/train/287.jpg 7
-data/dataset/train/288.jpg 5
-data/dataset/train/289.jpg 4
-data/dataset/train/290.jpg 5
-data/dataset/train/291.jpg 9
-data/dataset/train/292.jpg 5
-data/dataset/train/293.jpg 6
-data/dataset/train/294.jpg 5
-data/dataset/train/295.jpg 5
-data/dataset/train/296.jpg 1
-data/dataset/train/297.jpg 9
-data/dataset/train/298.jpg 8
-data/dataset/train/299.jpg 8
-data/dataset/train/300.jpg 3
-data/dataset/train/301.jpg 3
-data/dataset/train/302.jpg 6
-data/dataset/train/303.jpg 8
-data/dataset/train/304.jpg 0
-data/dataset/train/305.jpg 0
-data/dataset/train/306.jpg 2
-data/dataset/train/307.jpg 9
-data/dataset/train/308.jpg 7
-data/dataset/train/309.jpg 7
-data/dataset/train/310.jpg 1
-data/dataset/train/311.jpg 3
-data/dataset/train/312.jpg 6
-data/dataset/train/313.jpg 4
-data/dataset/train/314.jpg 2
-data/dataset/train/315.jpg 4
-data/dataset/train/316.jpg 9
-data/dataset/train/317.jpg 1
-data/dataset/train/318.jpg 6
-data/dataset/train/319.jpg 4
-data/dataset/train/320.jpg 8
-data/dataset/train/321.jpg 2
-data/dataset/train/322.jpg 6
-data/dataset/train/323.jpg 5
-data/dataset/train/324.jpg 4
-data/dataset/train/325.jpg 6
-data/dataset/train/326.jpg 7
-data/dataset/train/327.jpg 7
-data/dataset/train/328.jpg 7
-data/dataset/train/329.jpg 3
-data/dataset/train/330.jpg 3
-data/dataset/train/331.jpg 7
-data/dataset/train/332.jpg 0
-data/dataset/train/333.jpg 7
-data/dataset/train/334.jpg 1
-data/dataset/train/335.jpg 3
-data/dataset/train/336.jpg 7
-data/dataset/train/337.jpg 2
-data/dataset/train/338.jpg 2
-data/dataset/train/339.jpg 3
-data/dataset/train/340.jpg 4
-data/dataset/train/341.jpg 0
-data/dataset/train/342.jpg 3
-data/dataset/train/343.jpg 1
-data/dataset/train/344.jpg 6
-data/dataset/train/345.jpg 1
-data/dataset/train/346.jpg 9
-data/dataset/train/347.jpg 4
-data/dataset/train/348.jpg 9
-data/dataset/train/349.jpg 9
-data/dataset/train/350.jpg 1
-data/dataset/train/351.jpg 7
-data/dataset/train/352.jpg 8
-data/dataset/train/353.jpg 3
-data/dataset/train/354.jpg 6
-data/dataset/train/355.jpg 0
-data/dataset/train/356.jpg 2
-data/dataset/train/357.jpg 4
-data/dataset/train/358.jpg 8
-data/dataset/train/359.jpg 0
-data/dataset/train/360.jpg 1
-data/dataset/train/361.jpg 2
-data/dataset/train/362.jpg 2
-data/dataset/train/363.jpg 4
-data/dataset/train/364.jpg 4
-data/dataset/train/365.jpg 7
-data/dataset/train/366.jpg 3
-data/dataset/train/367.jpg 2
-data/dataset/train/368.jpg 2
-data/dataset/train/369.jpg 5
-data/dataset/train/370.jpg 0
-data/dataset/train/371.jpg 7
-data/dataset/train/372.jpg 9
-data/dataset/train/373.jpg 4
-data/dataset/train/374.jpg 0
-data/dataset/train/375.jpg 9
-data/dataset/train/376.jpg 3
-data/dataset/train/377.jpg 9
-data/dataset/train/378.jpg 4
-data/dataset/train/379.jpg 2
-data/dataset/train/380.jpg 5
-data/dataset/train/381.jpg 0
-data/dataset/train/382.jpg 2
-data/dataset/train/383.jpg 3
-data/dataset/train/384.jpg 5
-data/dataset/train/385.jpg 8
-data/dataset/train/386.jpg 1
-data/dataset/train/387.jpg 6
-data/dataset/train/388.jpg 2
-data/dataset/train/389.jpg 6
-data/dataset/train/390.jpg 6
-data/dataset/train/391.jpg 4
-data/dataset/train/392.jpg 9
-data/dataset/train/393.jpg 5
-data/dataset/train/394.jpg 2
-data/dataset/train/395.jpg 0
-data/dataset/train/396.jpg 4
-data/dataset/train/397.jpg 6
-data/dataset/train/398.jpg 1
-data/dataset/train/399.jpg 2
-data/dataset/train/400.jpg 0
-data/dataset/train/401.jpg 9
-data/dataset/train/402.jpg 7
-data/dataset/train/403.jpg 0
-data/dataset/train/404.jpg 4
-data/dataset/train/405.jpg 4
-data/dataset/train/406.jpg 6
-data/dataset/train/407.jpg 6
-data/dataset/train/408.jpg 2
-data/dataset/train/409.jpg 1
-data/dataset/train/410.jpg 0
-data/dataset/train/411.jpg 6
-data/dataset/train/412.jpg 7
-data/dataset/train/413.jpg 2
-data/dataset/train/414.jpg 9
-data/dataset/train/415.jpg 4
-data/dataset/train/416.jpg 2
-data/dataset/train/417.jpg 1
-data/dataset/train/418.jpg 5
-data/dataset/train/419.jpg 4
-data/dataset/train/420.jpg 5
-data/dataset/train/421.jpg 3
-data/dataset/train/422.jpg 8
-data/dataset/train/423.jpg 5
-data/dataset/train/424.jpg 8
-data/dataset/train/425.jpg 4
-data/dataset/train/426.jpg 4
-data/dataset/train/427.jpg 8
-data/dataset/train/428.jpg 9
-data/dataset/train/429.jpg 8
-data/dataset/train/430.jpg 6
-data/dataset/train/431.jpg 2
-data/dataset/train/432.jpg 4
-data/dataset/train/433.jpg 4
-data/dataset/train/434.jpg 2
-data/dataset/train/435.jpg 4
-data/dataset/train/436.jpg 1
-data/dataset/train/437.jpg 6
-data/dataset/train/438.jpg 1
-data/dataset/train/439.jpg 3
-data/dataset/train/440.jpg 0
-data/dataset/train/441.jpg 9
-data/dataset/train/442.jpg 8
-data/dataset/train/443.jpg 8
-data/dataset/train/444.jpg 6
-data/dataset/train/445.jpg 5
-data/dataset/train/446.jpg 3
-data/dataset/train/447.jpg 1
-data/dataset/train/448.jpg 9
-data/dataset/train/449.jpg 5
-data/dataset/train/450.jpg 3
-data/dataset/train/451.jpg 3
-data/dataset/train/452.jpg 0
-data/dataset/train/453.jpg 1
-data/dataset/train/454.jpg 0
-data/dataset/train/455.jpg 2
-data/dataset/train/456.jpg 9
-data/dataset/train/457.jpg 2
-data/dataset/train/458.jpg 0
-data/dataset/train/459.jpg 6
-data/dataset/train/460.jpg 3
-data/dataset/train/461.jpg 4
-data/dataset/train/462.jpg 2
-data/dataset/train/463.jpg 0
-data/dataset/train/464.jpg 0
-data/dataset/train/465.jpg 3
-data/dataset/train/466.jpg 3
-data/dataset/train/467.jpg 8
-data/dataset/train/468.jpg 2
-data/dataset/train/469.jpg 8
-data/dataset/train/470.jpg 9
-data/dataset/train/471.jpg 4
-data/dataset/train/472.jpg 0
-data/dataset/train/473.jpg 7
-data/dataset/train/474.jpg 6
-data/dataset/train/475.jpg 4
-data/dataset/train/476.jpg 4
-data/dataset/train/477.jpg 9
-data/dataset/train/478.jpg 2
-data/dataset/train/479.jpg 9
-data/dataset/train/480.jpg 5
-data/dataset/train/481.jpg 9
-data/dataset/train/482.jpg 3
-data/dataset/train/483.jpg 7
-data/dataset/train/484.jpg 5
-data/dataset/train/485.jpg 7
-data/dataset/train/486.jpg 8
-data/dataset/train/487.jpg 1
-data/dataset/train/488.jpg 0
-data/dataset/train/489.jpg 0
-data/dataset/train/490.jpg 3
-data/dataset/train/491.jpg 4
-data/dataset/train/492.jpg 8
-data/dataset/train/493.jpg 9
-data/dataset/train/494.jpg 7
-data/dataset/train/495.jpg 9
-data/dataset/train/496.jpg 1
-data/dataset/train/497.jpg 2
-data/dataset/train/498.jpg 7
-data/dataset/train/499.jpg 0
-data/dataset/train/500.jpg 2
-data/dataset/train/501.jpg 0
-data/dataset/train/502.jpg 5
-data/dataset/train/503.jpg 7
-data/dataset/train/504.jpg 1
-data/dataset/train/505.jpg 8
-data/dataset/train/506.jpg 2
-data/dataset/train/507.jpg 2
-data/dataset/train/508.jpg 2
-data/dataset/train/509.jpg 2
-data/dataset/train/510.jpg 4
-data/dataset/train/511.jpg 2
-data/dataset/train/512.jpg 6
-data/dataset/train/513.jpg 1
-data/dataset/train/514.jpg 9
-data/dataset/train/515.jpg 8
-data/dataset/train/516.jpg 5
-data/dataset/train/517.jpg 1
-data/dataset/train/518.jpg 9
-data/dataset/train/519.jpg 1
-data/dataset/train/520.jpg 2
-data/dataset/train/521.jpg 8
-data/dataset/train/522.jpg 3
-data/dataset/train/523.jpg 8
-data/dataset/train/524.jpg 9
-data/dataset/train/525.jpg 2
-data/dataset/train/526.jpg 4
-data/dataset/train/527.jpg 2
-data/dataset/train/528.jpg 8
-data/dataset/train/529.jpg 8
-data/dataset/train/530.jpg 2
-data/dataset/train/531.jpg 0
-data/dataset/train/532.jpg 5
-data/dataset/train/533.jpg 8
-data/dataset/train/534.jpg 8
-data/dataset/train/535.jpg 5
-data/dataset/train/536.jpg 3
-data/dataset/train/537.jpg 9
-data/dataset/train/538.jpg 4
-data/dataset/train/539.jpg 3
-data/dataset/train/540.jpg 4
-data/dataset/train/541.jpg 4
-data/dataset/train/542.jpg 5
-data/dataset/train/543.jpg 1
-data/dataset/train/544.jpg 0
-data/dataset/train/545.jpg 1
-data/dataset/train/546.jpg 2
-data/dataset/train/547.jpg 0
-data/dataset/train/548.jpg 6
-data/dataset/train/549.jpg 9
-data/dataset/train/550.jpg 6
-data/dataset/train/551.jpg 1
-data/dataset/train/552.jpg 5
-data/dataset/train/553.jpg 1
-data/dataset/train/554.jpg 1
-data/dataset/train/555.jpg 1
-data/dataset/train/556.jpg 9
-data/dataset/train/557.jpg 3
-data/dataset/train/558.jpg 4
-data/dataset/train/559.jpg 5
-data/dataset/train/560.jpg 3
-data/dataset/train/561.jpg 6
-data/dataset/train/562.jpg 6
-data/dataset/train/563.jpg 6
-data/dataset/train/564.jpg 4
-data/dataset/train/565.jpg 6
-data/dataset/train/566.jpg 0
-data/dataset/train/567.jpg 5
-data/dataset/train/568.jpg 8
-data/dataset/train/569.jpg 3
-data/dataset/train/570.jpg 3
-data/dataset/train/571.jpg 4
-data/dataset/train/572.jpg 6
-data/dataset/train/573.jpg 7
-data/dataset/train/574.jpg 7
-data/dataset/train/575.jpg 8
-data/dataset/train/576.jpg 9
-data/dataset/train/577.jpg 0
-data/dataset/train/578.jpg 3
-data/dataset/train/579.jpg 8
-data/dataset/train/580.jpg 7
-data/dataset/train/581.jpg 6
-data/dataset/train/582.jpg 7
-data/dataset/train/583.jpg 9
-data/dataset/train/584.jpg 3
-data/dataset/train/585.jpg 4
-data/dataset/train/586.jpg 6
-data/dataset/train/587.jpg 6
-data/dataset/train/588.jpg 5
-data/dataset/train/589.jpg 0
-data/dataset/train/590.jpg 1
-data/dataset/train/591.jpg 1
-data/dataset/train/592.jpg 5
-data/dataset/train/593.jpg 9
-data/dataset/train/594.jpg 4
-data/dataset/train/595.jpg 6
-data/dataset/train/596.jpg 5
-data/dataset/train/597.jpg 7
-data/dataset/train/598.jpg 8
-data/dataset/train/599.jpg 1
-data/dataset/train/600.jpg 2
-data/dataset/train/601.jpg 9
-data/dataset/train/602.jpg 7
-data/dataset/train/603.jpg 7
-data/dataset/train/604.jpg 1
-data/dataset/train/605.jpg 0
-data/dataset/train/606.jpg 9
-data/dataset/train/607.jpg 3
-data/dataset/train/608.jpg 2
-data/dataset/train/609.jpg 9
-data/dataset/train/610.jpg 0
-data/dataset/train/611.jpg 7
-data/dataset/train/612.jpg 6
-data/dataset/train/613.jpg 8
-data/dataset/train/614.jpg 2
-data/dataset/train/615.jpg 7
-data/dataset/train/616.jpg 0
-data/dataset/train/617.jpg 2
-data/dataset/train/618.jpg 3
-data/dataset/train/619.jpg 8
-data/dataset/train/620.jpg 2
-data/dataset/train/621.jpg 2
-data/dataset/train/622.jpg 6
-data/dataset/train/623.jpg 9
-data/dataset/train/624.jpg 3
-data/dataset/train/625.jpg 0
-data/dataset/train/626.jpg 7
-data/dataset/train/627.jpg 8
-data/dataset/train/628.jpg 6
-data/dataset/train/629.jpg 2
-data/dataset/train/630.jpg 9
-data/dataset/train/631.jpg 4
-data/dataset/train/632.jpg 2
-data/dataset/train/633.jpg 6
-data/dataset/train/634.jpg 6
-data/dataset/train/635.jpg 8
-data/dataset/train/636.jpg 0
-data/dataset/train/637.jpg 4
-data/dataset/train/638.jpg 4
-data/dataset/train/639.jpg 4
-data/dataset/train/640.jpg 7
-data/dataset/train/641.jpg 5
-data/dataset/train/642.jpg 8
-data/dataset/train/643.jpg 4
-data/dataset/train/644.jpg 9
-data/dataset/train/645.jpg 1
-data/dataset/train/646.jpg 0
-data/dataset/train/647.jpg 5
-data/dataset/train/648.jpg 4
-data/dataset/train/649.jpg 4
-data/dataset/train/650.jpg 4
-data/dataset/train/651.jpg 0
-data/dataset/train/652.jpg 0
-data/dataset/train/653.jpg 4
-data/dataset/train/654.jpg 5
-data/dataset/train/655.jpg 6
-data/dataset/train/656.jpg 0
-data/dataset/train/657.jpg 4
-data/dataset/train/658.jpg 5
-data/dataset/train/659.jpg 4
-data/dataset/train/660.jpg 1
-data/dataset/train/661.jpg 3
-data/dataset/train/662.jpg 1
-data/dataset/train/663.jpg 1
-data/dataset/train/664.jpg 6
-data/dataset/train/665.jpg 4
-data/dataset/train/666.jpg 3
-data/dataset/train/667.jpg 8
-data/dataset/train/668.jpg 2
-data/dataset/train/669.jpg 8
-data/dataset/train/670.jpg 2
-data/dataset/train/671.jpg 7
-data/dataset/train/672.jpg 0
-data/dataset/train/673.jpg 4
-data/dataset/train/674.jpg 0
-data/dataset/train/675.jpg 8
-data/dataset/train/676.jpg 5
-data/dataset/train/677.jpg 0
-data/dataset/train/678.jpg 8
-data/dataset/train/679.jpg 2
-data/dataset/train/680.jpg 9
-data/dataset/train/681.jpg 0
-data/dataset/train/682.jpg 8
-data/dataset/train/683.jpg 9
-data/dataset/train/684.jpg 6
-data/dataset/train/685.jpg 4
-data/dataset/train/686.jpg 2
-data/dataset/train/687.jpg 9
-data/dataset/train/688.jpg 3
-data/dataset/train/689.jpg 4
-data/dataset/train/690.jpg 5
-data/dataset/train/691.jpg 0
-data/dataset/train/692.jpg 9
-data/dataset/train/693.jpg 5
-data/dataset/train/694.jpg 3
-data/dataset/train/695.jpg 6
-data/dataset/train/696.jpg 6
-data/dataset/train/697.jpg 8
-data/dataset/train/698.jpg 3
-data/dataset/train/699.jpg 3
-data/dataset/train/700.jpg 8
-data/dataset/train/701.jpg 1
-data/dataset/train/702.jpg 4
-data/dataset/train/703.jpg 0
-data/dataset/train/704.jpg 9
-data/dataset/train/705.jpg 7
-data/dataset/train/706.jpg 9
-data/dataset/train/707.jpg 4
-data/dataset/train/708.jpg 8
-data/dataset/train/709.jpg 9
-data/dataset/train/710.jpg 1
-data/dataset/train/711.jpg 6
-data/dataset/train/712.jpg 7
-data/dataset/train/713.jpg 3
-data/dataset/train/714.jpg 0
-data/dataset/train/715.jpg 2
-data/dataset/train/716.jpg 6
-data/dataset/train/717.jpg 7
-data/dataset/train/718.jpg 1
-data/dataset/train/719.jpg 0
-data/dataset/train/720.jpg 0
-data/dataset/train/721.jpg 8
-data/dataset/train/722.jpg 5
-data/dataset/train/723.jpg 2
-data/dataset/train/724.jpg 6
-data/dataset/train/725.jpg 6
-data/dataset/train/726.jpg 6
-data/dataset/train/727.jpg 4
-data/dataset/train/728.jpg 1
-data/dataset/train/729.jpg 5
-data/dataset/train/730.jpg 9
-data/dataset/train/731.jpg 0
-data/dataset/train/732.jpg 2
-data/dataset/train/733.jpg 1
-data/dataset/train/734.jpg 6
-data/dataset/train/735.jpg 5
-data/dataset/train/736.jpg 0
-data/dataset/train/737.jpg 0
-data/dataset/train/738.jpg 3
-data/dataset/train/739.jpg 3
-data/dataset/train/740.jpg 3
-data/dataset/train/741.jpg 8
-data/dataset/train/742.jpg 1
-data/dataset/train/743.jpg 1
-data/dataset/train/744.jpg 8
-data/dataset/train/745.jpg 5
-data/dataset/train/746.jpg 7
-data/dataset/train/747.jpg 7
-data/dataset/train/748.jpg 8
-data/dataset/train/749.jpg 7
-data/dataset/train/750.jpg 2
-data/dataset/train/751.jpg 0
-data/dataset/train/752.jpg 7
-data/dataset/train/753.jpg 3
-data/dataset/train/754.jpg 8
-data/dataset/train/755.jpg 0
-data/dataset/train/756.jpg 9
-data/dataset/train/757.jpg 7
-data/dataset/train/758.jpg 6
-data/dataset/train/759.jpg 1
-data/dataset/train/760.jpg 2
-data/dataset/train/761.jpg 6
-data/dataset/train/762.jpg 4
-data/dataset/train/763.jpg 8
-data/dataset/train/764.jpg 0
-data/dataset/train/765.jpg 6
-data/dataset/train/766.jpg 3
-data/dataset/train/767.jpg 6
-data/dataset/train/768.jpg 8
-data/dataset/train/769.jpg 4
-data/dataset/train/770.jpg 0
-data/dataset/train/771.jpg 8
-data/dataset/train/772.jpg 9
-data/dataset/train/773.jpg 2
-data/dataset/train/774.jpg 4
-data/dataset/train/775.jpg 5
-data/dataset/train/776.jpg 9
-data/dataset/train/777.jpg 1
-data/dataset/train/778.jpg 4
-data/dataset/train/779.jpg 4
-data/dataset/train/780.jpg 9
-data/dataset/train/781.jpg 2
-data/dataset/train/782.jpg 1
-data/dataset/train/783.jpg 7
-data/dataset/train/784.jpg 9
-data/dataset/train/785.jpg 5
-data/dataset/train/786.jpg 8
-data/dataset/train/787.jpg 1
-data/dataset/train/788.jpg 7
-data/dataset/train/789.jpg 7
-data/dataset/train/790.jpg 1
-data/dataset/train/791.jpg 1
-data/dataset/train/792.jpg 1
-data/dataset/train/793.jpg 6
-data/dataset/train/794.jpg 9
-data/dataset/train/795.jpg 5
-data/dataset/train/796.jpg 3
-data/dataset/train/797.jpg 8
-data/dataset/train/798.jpg 4
-data/dataset/train/799.jpg 2
-data/dataset/train/800.jpg 7
-data/dataset/train/801.jpg 4
-data/dataset/train/802.jpg 8
-data/dataset/train/803.jpg 3
-data/dataset/train/804.jpg 2
-data/dataset/train/805.jpg 4
-data/dataset/train/806.jpg 4
-data/dataset/train/807.jpg 7
-data/dataset/train/808.jpg 1
-data/dataset/train/809.jpg 4
-data/dataset/train/810.jpg 9
-data/dataset/train/811.jpg 3
-data/dataset/train/812.jpg 5
-data/dataset/train/813.jpg 8
-data/dataset/train/814.jpg 5
-data/dataset/train/815.jpg 4
-data/dataset/train/816.jpg 7
-data/dataset/train/817.jpg 2
-data/dataset/train/818.jpg 8
-data/dataset/train/819.jpg 5
-data/dataset/train/820.jpg 9
-data/dataset/train/821.jpg 3
-data/dataset/train/822.jpg 3
-data/dataset/train/823.jpg 6
-data/dataset/train/824.jpg 7
-data/dataset/train/825.jpg 1
-data/dataset/train/826.jpg 7
-data/dataset/train/827.jpg 3
-data/dataset/train/828.jpg 5
-data/dataset/train/829.jpg 4
-data/dataset/train/830.jpg 4
-data/dataset/train/831.jpg 5
-data/dataset/train/832.jpg 8
-data/dataset/train/833.jpg 3
-data/dataset/train/834.jpg 7
-data/dataset/train/835.jpg 1
-data/dataset/train/836.jpg 2
-data/dataset/train/837.jpg 6
-data/dataset/train/838.jpg 1
-data/dataset/train/839.jpg 9
-data/dataset/train/840.jpg 8
-data/dataset/train/841.jpg 2
-data/dataset/train/842.jpg 7
-data/dataset/train/843.jpg 1
-data/dataset/train/844.jpg 3
-data/dataset/train/845.jpg 7
-data/dataset/train/846.jpg 5
-data/dataset/train/847.jpg 9
-data/dataset/train/848.jpg 9
-data/dataset/train/849.jpg 1
-data/dataset/train/850.jpg 8
-data/dataset/train/851.jpg 2
-data/dataset/train/852.jpg 5
-data/dataset/train/853.jpg 7
-data/dataset/train/854.jpg 1
-data/dataset/train/855.jpg 9
-data/dataset/train/856.jpg 8
-data/dataset/train/857.jpg 1
-data/dataset/train/858.jpg 0
-data/dataset/train/859.jpg 0
-data/dataset/train/860.jpg 6
-data/dataset/train/861.jpg 1
-data/dataset/train/862.jpg 7
-data/dataset/train/863.jpg 1
-data/dataset/train/864.jpg 1
-data/dataset/train/865.jpg 5
-data/dataset/train/866.jpg 7
-data/dataset/train/867.jpg 1
-data/dataset/train/868.jpg 5
-data/dataset/train/869.jpg 2
-data/dataset/train/870.jpg 2
-data/dataset/train/871.jpg 3
-data/dataset/train/872.jpg 3
-data/dataset/train/873.jpg 1
-data/dataset/train/874.jpg 1
-data/dataset/train/875.jpg 4
-data/dataset/train/876.jpg 9
-data/dataset/train/877.jpg 4
-data/dataset/train/878.jpg 3
-data/dataset/train/879.jpg 7
-data/dataset/train/880.jpg 7
-data/dataset/train/881.jpg 0
-data/dataset/train/882.jpg 8
-data/dataset/train/883.jpg 9
-data/dataset/train/884.jpg 9
-data/dataset/train/885.jpg 6
-data/dataset/train/886.jpg 1
-data/dataset/train/887.jpg 3
-data/dataset/train/888.jpg 4
-data/dataset/train/889.jpg 0
-data/dataset/train/890.jpg 0
-data/dataset/train/891.jpg 5
-data/dataset/train/892.jpg 9
-data/dataset/train/893.jpg 2
-data/dataset/train/894.jpg 0
-data/dataset/train/895.jpg 5
-data/dataset/train/896.jpg 5
-data/dataset/train/897.jpg 1
-data/dataset/train/898.jpg 5
-data/dataset/train/899.jpg 7
-data/dataset/train/900.jpg 8
-data/dataset/train/901.jpg 7
-data/dataset/train/902.jpg 5
-data/dataset/train/903.jpg 3
-data/dataset/train/904.jpg 6
-data/dataset/train/905.jpg 4
-data/dataset/train/906.jpg 0
-data/dataset/train/907.jpg 4
-data/dataset/train/908.jpg 0
-data/dataset/train/909.jpg 6
-data/dataset/train/910.jpg 0
-data/dataset/train/911.jpg 2
-data/dataset/train/912.jpg 5
-data/dataset/train/913.jpg 5
-data/dataset/train/914.jpg 1
-data/dataset/train/915.jpg 2
-data/dataset/train/916.jpg 0
-data/dataset/train/917.jpg 9
-data/dataset/train/918.jpg 3
-data/dataset/train/919.jpg 7
-data/dataset/train/920.jpg 8
-data/dataset/train/921.jpg 6
-data/dataset/train/922.jpg 8
-data/dataset/train/923.jpg 3
-data/dataset/train/924.jpg 4
-data/dataset/train/925.jpg 7
-data/dataset/train/926.jpg 0
-data/dataset/train/927.jpg 7
-data/dataset/train/928.jpg 4
-data/dataset/train/929.jpg 8
-data/dataset/train/930.jpg 0
-data/dataset/train/931.jpg 3
-data/dataset/train/932.jpg 4
-data/dataset/train/933.jpg 4
-data/dataset/train/934.jpg 3
-data/dataset/train/935.jpg 4
-data/dataset/train/936.jpg 9
-data/dataset/train/937.jpg 0
-data/dataset/train/938.jpg 6
-data/dataset/train/939.jpg 4
-data/dataset/train/940.jpg 9
-data/dataset/train/941.jpg 1
-data/dataset/train/942.jpg 8
-data/dataset/train/943.jpg 1
-data/dataset/train/944.jpg 7
-data/dataset/train/945.jpg 5
-data/dataset/train/946.jpg 5
-data/dataset/train/947.jpg 6
-data/dataset/train/948.jpg 0
-data/dataset/train/949.jpg 2
-data/dataset/train/950.jpg 1
-data/dataset/train/951.jpg 0
-data/dataset/train/952.jpg 5
-data/dataset/train/953.jpg 4
-data/dataset/train/954.jpg 0
-data/dataset/train/955.jpg 0
-data/dataset/train/956.jpg 6
-data/dataset/train/957.jpg 7
-data/dataset/train/958.jpg 5
-data/dataset/train/959.jpg 0
-data/dataset/train/960.jpg 3
-data/dataset/train/961.jpg 5
-data/dataset/train/962.jpg 9
-data/dataset/train/963.jpg 6
-data/dataset/train/964.jpg 8
-data/dataset/train/965.jpg 0
-data/dataset/train/966.jpg 6
-data/dataset/train/967.jpg 4
-data/dataset/train/968.jpg 6
-data/dataset/train/969.jpg 2
-data/dataset/train/970.jpg 9
-data/dataset/train/971.jpg 6
-data/dataset/train/972.jpg 7
-data/dataset/train/973.jpg 7
-data/dataset/train/974.jpg 1
-data/dataset/train/975.jpg 4
-data/dataset/train/976.jpg 2
-data/dataset/train/977.jpg 6
-data/dataset/train/978.jpg 5
-data/dataset/train/979.jpg 3
-data/dataset/train/980.jpg 9
-data/dataset/train/981.jpg 9
-data/dataset/train/982.jpg 8
-data/dataset/train/983.jpg 8
-data/dataset/train/984.jpg 3
-data/dataset/train/985.jpg 0
-data/dataset/train/986.jpg 2
-data/dataset/train/987.jpg 4
-data/dataset/train/988.jpg 6
-data/dataset/train/989.jpg 6
-data/dataset/train/990.jpg 3
-data/dataset/train/991.jpg 2
-data/dataset/train/992.jpg 3
-data/dataset/train/993.jpg 5
-data/dataset/train/994.jpg 4
-data/dataset/train/995.jpg 9
-data/dataset/train/996.jpg 3
-data/dataset/train/997.jpg 4
-data/dataset/train/998.jpg 7
-data/dataset/train/999.jpg 7
-data/dataset/train/1000.jpg 0
-data/dataset/train/1001.jpg 3
-data/dataset/train/1002.jpg 5
-data/dataset/train/1003.jpg 5
-data/dataset/train/1004.jpg 6
-data/dataset/train/1005.jpg 0
-data/dataset/train/1006.jpg 5
-data/dataset/train/1007.jpg 9
-data/dataset/train/1008.jpg 6
-data/dataset/train/1009.jpg 3
-data/dataset/train/1010.jpg 7
-data/dataset/train/1011.jpg 5
-data/dataset/train/1012.jpg 1
-data/dataset/train/1013.jpg 9
-data/dataset/train/1014.jpg 8
-data/dataset/train/1015.jpg 8
-data/dataset/train/1016.jpg 9
-data/dataset/train/1017.jpg 9
-data/dataset/train/1018.jpg 2
-data/dataset/train/1019.jpg 7
-data/dataset/train/1020.jpg 2
-data/dataset/train/1021.jpg 2
-data/dataset/train/1022.jpg 3
-data/dataset/train/1023.jpg 8
-data/dataset/train/1024.jpg 7
-data/dataset/train/1025.jpg 6
-data/dataset/train/1026.jpg 4
-data/dataset/train/1027.jpg 5
-data/dataset/train/1028.jpg 4
-data/dataset/train/1029.jpg 3
-data/dataset/train/1030.jpg 6
-data/dataset/train/1031.jpg 1
-data/dataset/train/1032.jpg 4
-data/dataset/train/1033.jpg 9
-data/dataset/train/1034.jpg 3
-data/dataset/train/1035.jpg 1
-data/dataset/train/1036.jpg 6
-data/dataset/train/1037.jpg 5
-data/dataset/train/1038.jpg 0
-data/dataset/train/1039.jpg 5
-data/dataset/train/1040.jpg 7
-data/dataset/train/1041.jpg 5
-data/dataset/train/1042.jpg 2
-data/dataset/train/1043.jpg 3
-data/dataset/train/1044.jpg 3
-data/dataset/train/1045.jpg 9
-data/dataset/train/1046.jpg 6
-data/dataset/train/1047.jpg 3
-data/dataset/train/1048.jpg 6
-data/dataset/train/1049.jpg 0
-data/dataset/train/1050.jpg 4
-data/dataset/train/1051.jpg 5
-data/dataset/train/1052.jpg 0
-data/dataset/train/1053.jpg 4
-data/dataset/train/1054.jpg 9
-data/dataset/train/1055.jpg 4
-data/dataset/train/1056.jpg 6
-data/dataset/train/1057.jpg 3
-data/dataset/train/1058.jpg 6
-data/dataset/train/1059.jpg 7
-data/dataset/train/1060.jpg 0
-data/dataset/train/1061.jpg 2
-data/dataset/train/1062.jpg 1
-data/dataset/train/1063.jpg 1
-data/dataset/train/1064.jpg 4
-data/dataset/train/1065.jpg 4
-data/dataset/train/1066.jpg 8
-data/dataset/train/1067.jpg 5
-data/dataset/train/1068.jpg 9
-data/dataset/train/1069.jpg 0
-data/dataset/train/1070.jpg 1
-data/dataset/train/1071.jpg 6
-data/dataset/train/1072.jpg 5
-data/dataset/train/1073.jpg 1
-data/dataset/train/1074.jpg 4
-data/dataset/train/1075.jpg 4
-data/dataset/train/1076.jpg 8
-data/dataset/train/1077.jpg 4
-data/dataset/train/1078.jpg 7
-data/dataset/train/1079.jpg 7
-data/dataset/train/1080.jpg 3
-data/dataset/train/1081.jpg 8
-data/dataset/train/1082.jpg 1
-data/dataset/train/1083.jpg 1
-data/dataset/train/1084.jpg 9
-data/dataset/train/1085.jpg 8
-data/dataset/train/1086.jpg 1
-data/dataset/train/1087.jpg 3
-data/dataset/train/1088.jpg 3
-data/dataset/train/1089.jpg 7
-data/dataset/train/1090.jpg 5
-data/dataset/train/1091.jpg 1
-data/dataset/train/1092.jpg 5
-data/dataset/train/1093.jpg 7
-data/dataset/train/1094.jpg 8
-data/dataset/train/1095.jpg 9
-data/dataset/train/1096.jpg 6
-data/dataset/train/1097.jpg 3
-data/dataset/train/1098.jpg 5
-data/dataset/train/1099.jpg 8
-data/dataset/train/1100.jpg 4
-data/dataset/train/1101.jpg 4
-data/dataset/train/1102.jpg 3
-data/dataset/train/1103.jpg 8
-data/dataset/train/1104.jpg 4
-data/dataset/train/1105.jpg 5
-data/dataset/train/1106.jpg 5
-data/dataset/train/1107.jpg 6
-data/dataset/train/1108.jpg 7
-data/dataset/train/1109.jpg 1
-data/dataset/train/1110.jpg 5
-data/dataset/train/1111.jpg 0
-data/dataset/train/1112.jpg 5
-data/dataset/train/1113.jpg 4
-data/dataset/train/1114.jpg 8
-data/dataset/train/1115.jpg 6
-data/dataset/train/1116.jpg 2
-data/dataset/train/1117.jpg 1
-data/dataset/train/1118.jpg 1
-data/dataset/train/1119.jpg 7
-data/dataset/train/1120.jpg 9
-data/dataset/train/1121.jpg 6
-data/dataset/train/1122.jpg 2
-data/dataset/train/1123.jpg 7
-data/dataset/train/1124.jpg 0
-data/dataset/train/1125.jpg 4
-data/dataset/train/1126.jpg 8
-data/dataset/train/1127.jpg 2
-data/dataset/train/1128.jpg 2
-data/dataset/train/1129.jpg 6
-data/dataset/train/1130.jpg 6
-data/dataset/train/1131.jpg 6
-data/dataset/train/1132.jpg 4
-data/dataset/train/1133.jpg 9
-data/dataset/train/1134.jpg 6
-data/dataset/train/1135.jpg 8
-data/dataset/train/1136.jpg 4
-data/dataset/train/1137.jpg 5
-data/dataset/train/1138.jpg 9
-data/dataset/train/1139.jpg 0
-data/dataset/train/1140.jpg 3
-data/dataset/train/1141.jpg 9
-data/dataset/train/1142.jpg 4
-data/dataset/train/1143.jpg 9
-data/dataset/train/1144.jpg 8
-data/dataset/train/1145.jpg 7
-data/dataset/train/1146.jpg 4
-data/dataset/train/1147.jpg 2
-data/dataset/train/1148.jpg 2
-data/dataset/train/1149.jpg 5
-data/dataset/train/1150.jpg 3
-data/dataset/train/1151.jpg 7
-data/dataset/train/1152.jpg 6
-data/dataset/train/1153.jpg 7
-data/dataset/train/1154.jpg 2
-data/dataset/train/1155.jpg 9
-data/dataset/train/1156.jpg 3
-data/dataset/train/1157.jpg 7
-data/dataset/train/1158.jpg 0
-data/dataset/train/1159.jpg 9
-data/dataset/train/1160.jpg 4
-data/dataset/train/1161.jpg 8
-data/dataset/train/1162.jpg 6
-data/dataset/train/1163.jpg 4
-data/dataset/train/1164.jpg 7
-data/dataset/train/1165.jpg 6
-data/dataset/train/1166.jpg 4
-data/dataset/train/1167.jpg 6
-data/dataset/train/1168.jpg 2
-data/dataset/train/1169.jpg 0
-data/dataset/train/1170.jpg 7
-data/dataset/train/1171.jpg 8
-data/dataset/train/1172.jpg 4
-data/dataset/train/1173.jpg 2
-data/dataset/train/1174.jpg 6
-data/dataset/train/1175.jpg 5
-data/dataset/train/1176.jpg 5
-data/dataset/train/1177.jpg 6
-data/dataset/train/1178.jpg 4
-data/dataset/train/1179.jpg 5
-data/dataset/train/1180.jpg 5
-data/dataset/train/1181.jpg 8
-data/dataset/train/1182.jpg 1
-data/dataset/train/1183.jpg 1
-data/dataset/train/1184.jpg 7
-data/dataset/train/1185.jpg 4
-data/dataset/train/1186.jpg 6
-data/dataset/train/1187.jpg 9
-data/dataset/train/1188.jpg 6
-data/dataset/train/1189.jpg 8
-data/dataset/train/1190.jpg 7
-data/dataset/train/1191.jpg 2
-data/dataset/train/1192.jpg 2
-data/dataset/train/1193.jpg 1
-data/dataset/train/1194.jpg 2
-data/dataset/train/1195.jpg 7
-data/dataset/train/1196.jpg 7
-data/dataset/train/1197.jpg 6
-data/dataset/train/1198.jpg 9
-data/dataset/train/1199.jpg 8
-data/dataset/train/1200.jpg 5
-data/dataset/train/1201.jpg 1
-data/dataset/train/1202.jpg 1
-data/dataset/train/1203.jpg 0
-data/dataset/train/1204.jpg 2
-data/dataset/train/1205.jpg 0
-data/dataset/train/1206.jpg 9
-data/dataset/train/1207.jpg 0
-data/dataset/train/1208.jpg 1
-data/dataset/train/1209.jpg 9
-data/dataset/train/1210.jpg 6
-data/dataset/train/1211.jpg 5
-data/dataset/train/1212.jpg 5
-data/dataset/train/1213.jpg 2
-data/dataset/train/1214.jpg 0
-data/dataset/train/1215.jpg 7
-data/dataset/train/1216.jpg 0
-data/dataset/train/1217.jpg 2
-data/dataset/train/1218.jpg 0
-data/dataset/train/1219.jpg 1
-data/dataset/train/1220.jpg 3
-data/dataset/train/1221.jpg 1
-data/dataset/train/1222.jpg 3
-data/dataset/train/1223.jpg 4
-data/dataset/train/1224.jpg 7
-data/dataset/train/1225.jpg 2
-data/dataset/train/1226.jpg 4
-data/dataset/train/1227.jpg 9
-data/dataset/train/1228.jpg 5
-data/dataset/train/1229.jpg 2
-data/dataset/train/1230.jpg 9
-data/dataset/train/1231.jpg 0
-data/dataset/train/1232.jpg 3
-data/dataset/train/1233.jpg 4
-data/dataset/train/1234.jpg 4
-data/dataset/train/1235.jpg 6
-data/dataset/train/1236.jpg 6
-data/dataset/train/1237.jpg 5
-data/dataset/train/1238.jpg 2
-data/dataset/train/1239.jpg 2
-data/dataset/train/1240.jpg 5
-data/dataset/train/1241.jpg 6
-data/dataset/train/1242.jpg 1
-data/dataset/train/1243.jpg 4
-data/dataset/train/1244.jpg 2
-data/dataset/train/1245.jpg 5
-data/dataset/train/1246.jpg 4
-data/dataset/train/1247.jpg 4
-data/dataset/train/1248.jpg 8
-data/dataset/train/1249.jpg 0
-data/dataset/train/1250.jpg 2
-data/dataset/train/1251.jpg 4
-data/dataset/train/1252.jpg 0
-data/dataset/train/1253.jpg 6
-data/dataset/train/1254.jpg 2
-data/dataset/train/1255.jpg 6
-data/dataset/train/1256.jpg 8
-data/dataset/train/1257.jpg 3
-data/dataset/train/1258.jpg 8
-data/dataset/train/1259.jpg 2
-data/dataset/train/1260.jpg 0
-data/dataset/train/1261.jpg 4
-data/dataset/train/1262.jpg 4
-data/dataset/train/1263.jpg 8
-data/dataset/train/1264.jpg 8
-data/dataset/train/1265.jpg 4
-data/dataset/train/1266.jpg 5
-data/dataset/train/1267.jpg 2
-data/dataset/train/1268.jpg 2
-data/dataset/train/1269.jpg 3
-data/dataset/train/1270.jpg 0
-data/dataset/train/1271.jpg 1
-data/dataset/train/1272.jpg 9
-data/dataset/train/1273.jpg 0
-data/dataset/train/1274.jpg 9
-data/dataset/train/1275.jpg 1
-data/dataset/train/1276.jpg 9
-data/dataset/train/1277.jpg 6
-data/dataset/train/1278.jpg 5
-data/dataset/train/1279.jpg 2
-data/dataset/train/1280.jpg 2
-data/dataset/train/1281.jpg 7
-data/dataset/train/1282.jpg 3
-data/dataset/train/1283.jpg 8
-data/dataset/train/1284.jpg 5
-data/dataset/train/1285.jpg 0
-data/dataset/train/1286.jpg 8
-data/dataset/train/1287.jpg 0
-data/dataset/train/1288.jpg 7
-data/dataset/train/1289.jpg 5
-data/dataset/train/1290.jpg 5
-data/dataset/train/1291.jpg 9
-data/dataset/train/1292.jpg 5
-data/dataset/train/1293.jpg 0
-data/dataset/train/1294.jpg 6
-data/dataset/train/1295.jpg 0
-data/dataset/train/1296.jpg 3
-data/dataset/train/1297.jpg 4
-data/dataset/train/1298.jpg 4
-data/dataset/train/1299.jpg 4
-data/dataset/train/1300.jpg 8
-data/dataset/train/1301.jpg 7
-data/dataset/train/1302.jpg 1
-data/dataset/train/1303.jpg 3
-data/dataset/train/1304.jpg 4
-data/dataset/train/1305.jpg 0
-data/dataset/train/1306.jpg 6
-data/dataset/train/1307.jpg 5
-data/dataset/train/1308.jpg 1
-data/dataset/train/1309.jpg 6
-data/dataset/train/1310.jpg 7
-data/dataset/train/1311.jpg 3
-data/dataset/train/1312.jpg 4
-data/dataset/train/1313.jpg 8
-data/dataset/train/1314.jpg 8
-data/dataset/train/1315.jpg 2
-data/dataset/train/1316.jpg 8
-data/dataset/train/1317.jpg 9
-data/dataset/train/1318.jpg 4
-data/dataset/train/1319.jpg 1
-data/dataset/train/1320.jpg 6
-data/dataset/train/1321.jpg 5
-data/dataset/train/1322.jpg 2
-data/dataset/train/1323.jpg 7
-data/dataset/train/1324.jpg 8
-data/dataset/train/1325.jpg 5
-data/dataset/train/1326.jpg 3
-data/dataset/train/1327.jpg 8
-data/dataset/train/1328.jpg 5
-data/dataset/train/1329.jpg 4
-data/dataset/train/1330.jpg 2
-data/dataset/train/1331.jpg 8
-data/dataset/train/1332.jpg 9
-data/dataset/train/1333.jpg 8
-data/dataset/train/1334.jpg 4
-data/dataset/train/1335.jpg 3
-data/dataset/train/1336.jpg 3
-data/dataset/train/1337.jpg 8
-data/dataset/train/1338.jpg 8
-data/dataset/train/1339.jpg 2
-data/dataset/train/1340.jpg 0
-data/dataset/train/1341.jpg 9
-data/dataset/train/1342.jpg 4
-data/dataset/train/1343.jpg 4
-data/dataset/train/1344.jpg 8
-data/dataset/train/1345.jpg 1
-data/dataset/train/1346.jpg 3
-data/dataset/train/1347.jpg 6
-data/dataset/train/1348.jpg 1
-data/dataset/train/1349.jpg 9
-data/dataset/train/1350.jpg 2
-data/dataset/train/1351.jpg 1
-data/dataset/train/1352.jpg 6
-data/dataset/train/1353.jpg 2
-data/dataset/train/1354.jpg 7
-data/dataset/train/1355.jpg 9
-data/dataset/train/1356.jpg 4
-data/dataset/train/1357.jpg 6
-data/dataset/train/1358.jpg 0
-data/dataset/train/1359.jpg 4
-data/dataset/train/1360.jpg 4
-data/dataset/train/1361.jpg 2
-data/dataset/train/1362.jpg 4
-data/dataset/train/1363.jpg 5
-data/dataset/train/1364.jpg 0
-data/dataset/train/1365.jpg 2
-data/dataset/train/1366.jpg 8
-data/dataset/train/1367.jpg 3
-data/dataset/train/1368.jpg 7
-data/dataset/train/1369.jpg 6
-data/dataset/train/1370.jpg 4
-data/dataset/train/1371.jpg 0
-data/dataset/train/1372.jpg 0
-data/dataset/train/1373.jpg 5
-data/dataset/train/1374.jpg 2
-data/dataset/train/1375.jpg 8
-data/dataset/train/1376.jpg 2
-data/dataset/train/1377.jpg 4
-data/dataset/train/1378.jpg 3
-data/dataset/train/1379.jpg 0
-data/dataset/train/1380.jpg 2
-data/dataset/train/1381.jpg 1
-data/dataset/train/1382.jpg 7
-data/dataset/train/1383.jpg 7
-data/dataset/train/1384.jpg 5
-data/dataset/train/1385.jpg 4
-data/dataset/train/1386.jpg 7
-data/dataset/train/1387.jpg 2
-data/dataset/train/1388.jpg 4
-data/dataset/train/1389.jpg 7
-data/dataset/train/1390.jpg 3
-data/dataset/train/1391.jpg 3
-data/dataset/train/1392.jpg 1
-data/dataset/train/1393.jpg 3
-data/dataset/train/1394.jpg 3
-data/dataset/train/1395.jpg 6
-data/dataset/train/1396.jpg 6
-data/dataset/train/1397.jpg 1
-data/dataset/train/1398.jpg 7
-data/dataset/train/1399.jpg 0
-data/dataset/train/1400.jpg 4
-data/dataset/train/1401.jpg 7
-data/dataset/train/1402.jpg 1
-data/dataset/train/1403.jpg 0
-data/dataset/train/1404.jpg 6
-data/dataset/train/1405.jpg 5
-data/dataset/train/1406.jpg 8
-data/dataset/train/1407.jpg 4
-data/dataset/train/1408.jpg 4
-data/dataset/train/1409.jpg 7
-data/dataset/train/1410.jpg 9
-data/dataset/train/1411.jpg 5
-data/dataset/train/1412.jpg 0
-data/dataset/train/1413.jpg 7
-data/dataset/train/1414.jpg 9
-data/dataset/train/1415.jpg 5
-data/dataset/train/1416.jpg 1
-data/dataset/train/1417.jpg 2
-data/dataset/train/1418.jpg 9
-data/dataset/train/1419.jpg 5
-data/dataset/train/1420.jpg 5
-data/dataset/train/1421.jpg 3
-data/dataset/train/1422.jpg 9
-data/dataset/train/1423.jpg 9
-data/dataset/train/1424.jpg 1
-data/dataset/train/1425.jpg 2
-data/dataset/train/1426.jpg 7
-data/dataset/train/1427.jpg 8
-data/dataset/train/1428.jpg 0
-data/dataset/train/1429.jpg 1
-data/dataset/train/1430.jpg 7
-data/dataset/train/1431.jpg 2
-data/dataset/train/1432.jpg 7
-data/dataset/train/1433.jpg 1
-data/dataset/train/1434.jpg 1
-data/dataset/train/1435.jpg 5
-data/dataset/train/1436.jpg 5
-data/dataset/train/1437.jpg 6
-data/dataset/train/1438.jpg 4
-data/dataset/train/1439.jpg 5
-data/dataset/train/1440.jpg 9
-data/dataset/train/1441.jpg 5
-data/dataset/train/1442.jpg 5
-data/dataset/train/1443.jpg 2
-data/dataset/train/1444.jpg 3
-data/dataset/train/1445.jpg 9
-data/dataset/train/1446.jpg 3
-data/dataset/train/1447.jpg 8
-data/dataset/train/1448.jpg 5
-data/dataset/train/1449.jpg 2
-data/dataset/train/1450.jpg 0
-data/dataset/train/1451.jpg 0
-data/dataset/train/1452.jpg 0
-data/dataset/train/1453.jpg 5
-data/dataset/train/1454.jpg 7
-data/dataset/train/1455.jpg 8
-data/dataset/train/1456.jpg 5
-data/dataset/train/1457.jpg 2
-data/dataset/train/1458.jpg 6
-data/dataset/train/1459.jpg 4
-data/dataset/train/1460.jpg 4
-data/dataset/train/1461.jpg 7
-data/dataset/train/1462.jpg 4
-data/dataset/train/1463.jpg 0
-data/dataset/train/1464.jpg 5
-data/dataset/train/1465.jpg 1
-data/dataset/train/1466.jpg 7
-data/dataset/train/1467.jpg 2
-data/dataset/train/1468.jpg 3
-data/dataset/train/1469.jpg 6
-data/dataset/train/1470.jpg 8
-data/dataset/train/1471.jpg 9
-data/dataset/train/1472.jpg 8
-data/dataset/train/1473.jpg 7
-data/dataset/train/1474.jpg 1
-data/dataset/train/1475.jpg 2
-data/dataset/train/1476.jpg 3
-data/dataset/train/1477.jpg 2
-data/dataset/train/1478.jpg 9
-data/dataset/train/1479.jpg 7
-data/dataset/train/1480.jpg 5
-data/dataset/train/1481.jpg 6
-data/dataset/train/1482.jpg 1
-data/dataset/train/1483.jpg 0
-data/dataset/train/1484.jpg 7
-data/dataset/train/1485.jpg 1
-data/dataset/train/1486.jpg 2
-data/dataset/train/1487.jpg 6
-data/dataset/train/1488.jpg 9
-data/dataset/train/1489.jpg 3
-data/dataset/train/1490.jpg 6
-data/dataset/train/1491.jpg 4
-data/dataset/train/1492.jpg 4
-data/dataset/train/1493.jpg 3
-data/dataset/train/1494.jpg 0
-data/dataset/train/1495.jpg 0
-data/dataset/train/1496.jpg 6
-data/dataset/train/1497.jpg 3
-data/dataset/train/1498.jpg 6
-data/dataset/train/1499.jpg 1
-data/dataset/train/1500.jpg 3
-data/dataset/train/1501.jpg 5
-data/dataset/train/1502.jpg 6
-data/dataset/train/1503.jpg 5
-data/dataset/train/1504.jpg 0
-data/dataset/train/1505.jpg 9
-data/dataset/train/1506.jpg 1
-data/dataset/train/1507.jpg 1
-data/dataset/train/1508.jpg 8
-data/dataset/train/1509.jpg 2
-data/dataset/train/1510.jpg 9
-data/dataset/train/1511.jpg 5
-data/dataset/train/1512.jpg 0
-data/dataset/train/1513.jpg 5
-data/dataset/train/1514.jpg 4
-data/dataset/train/1515.jpg 6
-data/dataset/train/1516.jpg 7
-data/dataset/train/1517.jpg 1
-data/dataset/train/1518.jpg 1
-data/dataset/train/1519.jpg 5
-data/dataset/train/1520.jpg 3
-data/dataset/train/1521.jpg 8
-data/dataset/train/1522.jpg 9
-data/dataset/train/1523.jpg 8
-data/dataset/train/1524.jpg 3
-data/dataset/train/1525.jpg 8
-data/dataset/train/1526.jpg 9
-data/dataset/train/1527.jpg 2
-data/dataset/train/1528.jpg 6
-data/dataset/train/1529.jpg 1
-data/dataset/train/1530.jpg 1
-data/dataset/train/1531.jpg 3
-data/dataset/train/1532.jpg 5
-data/dataset/train/1533.jpg 2
-data/dataset/train/1534.jpg 7
-data/dataset/train/1535.jpg 1
-data/dataset/train/1536.jpg 9
-data/dataset/train/1537.jpg 9
-data/dataset/train/1538.jpg 2
-data/dataset/train/1539.jpg 2
-data/dataset/train/1540.jpg 7
-data/dataset/train/1541.jpg 0
-data/dataset/train/1542.jpg 1
-data/dataset/train/1543.jpg 3
-data/dataset/train/1544.jpg 9
-data/dataset/train/1545.jpg 6
-data/dataset/train/1546.jpg 3
-data/dataset/train/1547.jpg 7
-data/dataset/train/1548.jpg 2
-data/dataset/train/1549.jpg 8
-data/dataset/train/1550.jpg 1
-data/dataset/train/1551.jpg 8
-data/dataset/train/1552.jpg 0
-data/dataset/train/1553.jpg 7
-data/dataset/train/1554.jpg 9
-data/dataset/train/1555.jpg 8
-data/dataset/train/1556.jpg 5
-data/dataset/train/1557.jpg 8
-data/dataset/train/1558.jpg 2
-data/dataset/train/1559.jpg 6
-data/dataset/train/1560.jpg 4
-data/dataset/train/1561.jpg 0
-data/dataset/train/1562.jpg 6
-data/dataset/train/1563.jpg 5
-data/dataset/train/1564.jpg 8
-data/dataset/train/1565.jpg 3
-data/dataset/train/1566.jpg 8
-data/dataset/train/1567.jpg 7
-data/dataset/train/1568.jpg 5
-data/dataset/train/1569.jpg 7
-data/dataset/train/1570.jpg 3
-data/dataset/train/1571.jpg 7
-data/dataset/train/1572.jpg 0
-data/dataset/train/1573.jpg 7
-data/dataset/train/1574.jpg 0
-data/dataset/train/1575.jpg 2
-data/dataset/train/1576.jpg 2
-data/dataset/train/1577.jpg 5
-data/dataset/train/1578.jpg 3
-data/dataset/train/1579.jpg 5
-data/dataset/train/1580.jpg 1
-data/dataset/train/1581.jpg 1
-data/dataset/train/1582.jpg 7
-data/dataset/train/1583.jpg 7
-data/dataset/train/1584.jpg 6
-data/dataset/train/1585.jpg 3
-data/dataset/train/1586.jpg 0
-data/dataset/train/1587.jpg 4
-data/dataset/train/1588.jpg 2
-data/dataset/train/1589.jpg 8
-data/dataset/train/1590.jpg 6
-data/dataset/train/1591.jpg 3
-data/dataset/train/1592.jpg 1
-data/dataset/train/1593.jpg 4
-data/dataset/train/1594.jpg 9
-data/dataset/train/1595.jpg 9
-data/dataset/train/1596.jpg 4
-data/dataset/train/1597.jpg 5
-data/dataset/train/1598.jpg 2
-data/dataset/train/1599.jpg 2
-data/dataset/train/1600.jpg 7
-data/dataset/train/1601.jpg 8
-data/dataset/train/1602.jpg 0
-data/dataset/train/1603.jpg 7
-data/dataset/train/1604.jpg 9
-data/dataset/train/1605.jpg 1
-data/dataset/train/1606.jpg 2
-data/dataset/train/1607.jpg 9
-data/dataset/train/1608.jpg 4
-data/dataset/train/1609.jpg 7
-data/dataset/train/1610.jpg 3
-data/dataset/train/1611.jpg 4
-data/dataset/train/1612.jpg 3
-data/dataset/train/1613.jpg 3
-data/dataset/train/1614.jpg 1
-data/dataset/train/1615.jpg 8
-data/dataset/train/1616.jpg 8
-data/dataset/train/1617.jpg 5
-data/dataset/train/1618.jpg 3
-data/dataset/train/1619.jpg 8
-data/dataset/train/1620.jpg 6
-data/dataset/train/1621.jpg 3
-data/dataset/train/1622.jpg 4
-data/dataset/train/1623.jpg 3
-data/dataset/train/1624.jpg 2
-data/dataset/train/1625.jpg 0
-data/dataset/train/1626.jpg 2
-data/dataset/train/1627.jpg 7
-data/dataset/train/1628.jpg 3
-data/dataset/train/1629.jpg 6
-data/dataset/train/1630.jpg 8
-data/dataset/train/1631.jpg 3
-data/dataset/train/1632.jpg 9
-data/dataset/train/1633.jpg 7
-data/dataset/train/1634.jpg 3
-data/dataset/train/1635.jpg 1
-data/dataset/train/1636.jpg 7
-data/dataset/train/1637.jpg 5
-data/dataset/train/1638.jpg 8
-data/dataset/train/1639.jpg 8
-data/dataset/train/1640.jpg 2
-data/dataset/train/1641.jpg 0
-data/dataset/train/1642.jpg 6
-data/dataset/train/1643.jpg 6
-data/dataset/train/1644.jpg 4
-data/dataset/train/1645.jpg 6
-data/dataset/train/1646.jpg 5
-data/dataset/train/1647.jpg 7
-data/dataset/train/1648.jpg 0
-data/dataset/train/1649.jpg 6
-data/dataset/train/1650.jpg 6
-data/dataset/train/1651.jpg 7
-data/dataset/train/1652.jpg 7
-data/dataset/train/1653.jpg 3
-data/dataset/train/1654.jpg 9
-data/dataset/train/1655.jpg 2
-data/dataset/train/1656.jpg 5
-data/dataset/train/1657.jpg 9
-data/dataset/train/1658.jpg 7
-data/dataset/train/1659.jpg 1
-data/dataset/train/1660.jpg 7
-data/dataset/train/1661.jpg 2
-data/dataset/train/1662.jpg 4
-data/dataset/train/1663.jpg 5
-data/dataset/train/1664.jpg 1
-data/dataset/train/1665.jpg 3
-data/dataset/train/1666.jpg 5
-data/dataset/train/1667.jpg 4
-data/dataset/train/1668.jpg 5
-data/dataset/train/1669.jpg 0
-data/dataset/train/1670.jpg 4
-data/dataset/train/1671.jpg 4
-data/dataset/train/1672.jpg 1
-data/dataset/train/1673.jpg 4
-data/dataset/train/1674.jpg 4
-data/dataset/train/1675.jpg 8
-data/dataset/train/1676.jpg 4
-data/dataset/train/1677.jpg 5
-data/dataset/train/1678.jpg 9
-data/dataset/train/1679.jpg 4
-data/dataset/train/1680.jpg 1
-data/dataset/train/1681.jpg 1
-data/dataset/train/1682.jpg 7
-data/dataset/train/1683.jpg 2
-data/dataset/train/1684.jpg 3
-data/dataset/train/1685.jpg 5
-data/dataset/train/1686.jpg 0
-data/dataset/train/1687.jpg 3
-data/dataset/train/1688.jpg 9
-data/dataset/train/1689.jpg 7
-data/dataset/train/1690.jpg 5
-data/dataset/train/1691.jpg 3
-data/dataset/train/1692.jpg 8
-data/dataset/train/1693.jpg 8
-data/dataset/train/1694.jpg 8
-data/dataset/train/1695.jpg 9
-data/dataset/train/1696.jpg 1
-data/dataset/train/1697.jpg 1
-data/dataset/train/1698.jpg 6
-data/dataset/train/1699.jpg 3
-data/dataset/train/1700.jpg 1
-data/dataset/train/1701.jpg 6
-data/dataset/train/1702.jpg 3
-data/dataset/train/1703.jpg 4
-data/dataset/train/1704.jpg 9
-data/dataset/train/1705.jpg 9
-data/dataset/train/1706.jpg 6
-data/dataset/train/1707.jpg 0
-data/dataset/train/1708.jpg 6
-data/dataset/train/1709.jpg 9
-data/dataset/train/1710.jpg 4
-data/dataset/train/1711.jpg 9
-data/dataset/train/1712.jpg 6
-data/dataset/train/1713.jpg 6
-data/dataset/train/1714.jpg 1
-data/dataset/train/1715.jpg 8
-data/dataset/train/1716.jpg 9
-data/dataset/train/1717.jpg 2
-data/dataset/train/1718.jpg 9
-data/dataset/train/1719.jpg 4
-data/dataset/train/1720.jpg 8
-data/dataset/train/1721.jpg 0
-data/dataset/train/1722.jpg 7
-data/dataset/train/1723.jpg 2
-data/dataset/train/1724.jpg 3
-data/dataset/train/1725.jpg 6
-data/dataset/train/1726.jpg 2
-data/dataset/train/1727.jpg 5
-data/dataset/train/1728.jpg 6
-data/dataset/train/1729.jpg 1
-data/dataset/train/1730.jpg 9
-data/dataset/train/1731.jpg 0
-data/dataset/train/1732.jpg 2
-data/dataset/train/1733.jpg 2
-data/dataset/train/1734.jpg 9
-data/dataset/train/1735.jpg 9
-data/dataset/train/1736.jpg 0
-data/dataset/train/1737.jpg 8
-data/dataset/train/1738.jpg 3
-data/dataset/train/1739.jpg 6
-data/dataset/train/1740.jpg 6
-data/dataset/train/1741.jpg 6
-data/dataset/train/1742.jpg 0
-data/dataset/train/1743.jpg 2
-data/dataset/train/1744.jpg 6
-data/dataset/train/1745.jpg 6
-data/dataset/train/1746.jpg 6
-data/dataset/train/1747.jpg 5
-data/dataset/train/1748.jpg 0
-data/dataset/train/1749.jpg 2
-data/dataset/train/1750.jpg 7
-data/dataset/train/1751.jpg 8
-data/dataset/train/1752.jpg 7
-data/dataset/train/1753.jpg 4
-data/dataset/train/1754.jpg 6
-data/dataset/train/1755.jpg 6
-data/dataset/train/1756.jpg 6
-data/dataset/train/1757.jpg 5
-data/dataset/train/1758.jpg 2
-data/dataset/train/1759.jpg 4
-data/dataset/train/1760.jpg 2
-data/dataset/train/1761.jpg 9
-data/dataset/train/1762.jpg 5
-data/dataset/train/1763.jpg 2
-data/dataset/train/1764.jpg 6
-data/dataset/train/1765.jpg 7
-data/dataset/train/1766.jpg 0
-data/dataset/train/1767.jpg 1
-data/dataset/train/1768.jpg 9
-data/dataset/train/1769.jpg 5
-data/dataset/train/1770.jpg 5
-data/dataset/train/1771.jpg 6
-data/dataset/train/1772.jpg 7
-data/dataset/train/1773.jpg 7
-data/dataset/train/1774.jpg 5
-data/dataset/train/1775.jpg 0
-data/dataset/train/1776.jpg 5
-data/dataset/train/1777.jpg 0
-data/dataset/train/1778.jpg 8
-data/dataset/train/1779.jpg 4
-data/dataset/train/1780.jpg 7
-data/dataset/train/1781.jpg 9
-data/dataset/train/1782.jpg 8
-data/dataset/train/1783.jpg 2
-data/dataset/train/1784.jpg 4
-data/dataset/train/1785.jpg 7
-data/dataset/train/1786.jpg 3
-data/dataset/train/1787.jpg 3
-data/dataset/train/1788.jpg 7
-data/dataset/train/1789.jpg 7
-data/dataset/train/1790.jpg 7
-data/dataset/train/1791.jpg 8
-data/dataset/train/1792.jpg 4
-data/dataset/train/1793.jpg 9
-data/dataset/train/1794.jpg 5
-data/dataset/train/1795.jpg 7
-data/dataset/train/1796.jpg 6
-data/dataset/train/1797.jpg 5
-data/dataset/train/1798.jpg 7
-data/dataset/train/1799.jpg 5
-data/dataset/train/1800.jpg 1
-data/dataset/train/1801.jpg 3
-data/dataset/train/1802.jpg 0
-data/dataset/train/1803.jpg 4
-data/dataset/train/1804.jpg 9
-data/dataset/train/1805.jpg 9
-data/dataset/train/1806.jpg 8
-data/dataset/train/1807.jpg 3
-data/dataset/train/1808.jpg 7
-data/dataset/train/1809.jpg 0
-data/dataset/train/1810.jpg 3
-data/dataset/train/1811.jpg 4
-data/dataset/train/1812.jpg 9
-data/dataset/train/1813.jpg 3
-data/dataset/train/1814.jpg 4
-data/dataset/train/1815.jpg 1
-data/dataset/train/1816.jpg 7
-data/dataset/train/1817.jpg 9
-data/dataset/train/1818.jpg 1
-data/dataset/train/1819.jpg 5
-data/dataset/train/1820.jpg 7
-data/dataset/train/1821.jpg 2
-data/dataset/train/1822.jpg 7
-data/dataset/train/1823.jpg 6
-data/dataset/train/1824.jpg 5
-data/dataset/train/1825.jpg 5
-data/dataset/train/1826.jpg 3
-data/dataset/train/1827.jpg 7
-data/dataset/train/1828.jpg 5
-data/dataset/train/1829.jpg 5
-data/dataset/train/1830.jpg 4
-data/dataset/train/1831.jpg 0
-data/dataset/train/1832.jpg 7
-data/dataset/train/1833.jpg 3
-data/dataset/train/1834.jpg 3
-data/dataset/train/1835.jpg 2
-data/dataset/train/1836.jpg 0
-data/dataset/train/1837.jpg 2
-data/dataset/train/1838.jpg 9
-data/dataset/train/1839.jpg 9
-data/dataset/train/1840.jpg 0
-data/dataset/train/1841.jpg 3
-data/dataset/train/1842.jpg 0
-data/dataset/train/1843.jpg 8
-data/dataset/train/1844.jpg 3
-data/dataset/train/1845.jpg 8
-data/dataset/train/1846.jpg 8
-data/dataset/train/1847.jpg 4
-data/dataset/train/1848.jpg 4
-data/dataset/train/1849.jpg 1
-data/dataset/train/1850.jpg 8
-data/dataset/train/1851.jpg 2
-data/dataset/train/1852.jpg 3
-data/dataset/train/1853.jpg 5
-data/dataset/train/1854.jpg 0
-data/dataset/train/1855.jpg 4
-data/dataset/train/1856.jpg 4
-data/dataset/train/1857.jpg 3
-data/dataset/train/1858.jpg 0
-data/dataset/train/1859.jpg 0
-data/dataset/train/1860.jpg 1
-data/dataset/train/1861.jpg 0
-data/dataset/train/1862.jpg 8
-data/dataset/train/1863.jpg 4
-data/dataset/train/1864.jpg 9
-data/dataset/train/1865.jpg 0
-data/dataset/train/1866.jpg 7
-data/dataset/train/1867.jpg 0
-data/dataset/train/1868.jpg 7
-data/dataset/train/1869.jpg 7
-data/dataset/train/1870.jpg 1
-data/dataset/train/1871.jpg 5
-data/dataset/train/1872.jpg 8
-data/dataset/train/1873.jpg 7
-data/dataset/train/1874.jpg 2
-data/dataset/train/1875.jpg 9
-data/dataset/train/1876.jpg 9
-data/dataset/train/1877.jpg 1
-data/dataset/train/1878.jpg 2
-data/dataset/train/1879.jpg 4
-data/dataset/train/1880.jpg 1
-data/dataset/train/1881.jpg 1
-data/dataset/train/1882.jpg 1
-data/dataset/train/1883.jpg 8
-data/dataset/train/1884.jpg 8
-data/dataset/train/1885.jpg 1
-data/dataset/train/1886.jpg 3
-data/dataset/train/1887.jpg 7
-data/dataset/train/1888.jpg 5
-data/dataset/train/1889.jpg 2
-data/dataset/train/1890.jpg 0
-data/dataset/train/1891.jpg 8
-data/dataset/train/1892.jpg 4
-data/dataset/train/1893.jpg 8
-data/dataset/train/1894.jpg 9
-data/dataset/train/1895.jpg 4
-data/dataset/train/1896.jpg 1
-data/dataset/train/1897.jpg 3
-data/dataset/train/1898.jpg 1
-data/dataset/train/1899.jpg 9
-data/dataset/train/1900.jpg 8
-data/dataset/train/1901.jpg 1
-data/dataset/train/1902.jpg 1
-data/dataset/train/1903.jpg 1
-data/dataset/train/1904.jpg 8
-data/dataset/train/1905.jpg 0
-data/dataset/train/1906.jpg 9
-data/dataset/train/1907.jpg 9
-data/dataset/train/1908.jpg 7
-data/dataset/train/1909.jpg 6
-data/dataset/train/1910.jpg 0
-data/dataset/train/1911.jpg 4
-data/dataset/train/1912.jpg 2
-data/dataset/train/1913.jpg 1
-data/dataset/train/1914.jpg 1
-data/dataset/train/1915.jpg 7
-data/dataset/train/1916.jpg 9
-data/dataset/train/1917.jpg 4
-data/dataset/train/1918.jpg 2
-data/dataset/train/1919.jpg 0
-data/dataset/train/1920.jpg 3
-data/dataset/train/1921.jpg 6
-data/dataset/train/1922.jpg 6
-data/dataset/train/1923.jpg 8
-data/dataset/train/1924.jpg 1
-data/dataset/train/1925.jpg 7
-data/dataset/train/1926.jpg 2
-data/dataset/train/1927.jpg 4
-data/dataset/train/1928.jpg 2
-data/dataset/train/1929.jpg 2
-data/dataset/train/1930.jpg 3
-data/dataset/train/1931.jpg 8
-data/dataset/train/1932.jpg 7
-data/dataset/train/1933.jpg 1
-data/dataset/train/1934.jpg 8
-data/dataset/train/1935.jpg 5
-data/dataset/train/1936.jpg 5
-data/dataset/train/1937.jpg 7
-data/dataset/train/1938.jpg 7
-data/dataset/train/1939.jpg 6
-data/dataset/train/1940.jpg 6
-data/dataset/train/1941.jpg 2
-data/dataset/train/1942.jpg 9
-data/dataset/train/1943.jpg 6
-data/dataset/train/1944.jpg 6
-data/dataset/train/1945.jpg 0
-data/dataset/train/1946.jpg 5
-data/dataset/train/1947.jpg 5
-data/dataset/train/1948.jpg 0
-data/dataset/train/1949.jpg 2
-data/dataset/train/1950.jpg 1
-data/dataset/train/1951.jpg 0
-data/dataset/train/1952.jpg 3
-data/dataset/train/1953.jpg 5
-data/dataset/train/1954.jpg 9
-data/dataset/train/1955.jpg 1
-data/dataset/train/1956.jpg 7
-data/dataset/train/1957.jpg 2
-data/dataset/train/1958.jpg 5
-data/dataset/train/1959.jpg 7
-data/dataset/train/1960.jpg 9
-data/dataset/train/1961.jpg 8
-data/dataset/train/1962.jpg 9
-data/dataset/train/1963.jpg 1
-data/dataset/train/1964.jpg 2
-data/dataset/train/1965.jpg 8
-data/dataset/train/1966.jpg 3
-data/dataset/train/1967.jpg 2
-data/dataset/train/1968.jpg 3
-data/dataset/train/1969.jpg 6
-data/dataset/train/1970.jpg 0
-data/dataset/train/1971.jpg 8
-data/dataset/train/1972.jpg 3
-data/dataset/train/1973.jpg 8
-data/dataset/train/1974.jpg 6
-data/dataset/train/1975.jpg 8
-data/dataset/train/1976.jpg 6
-data/dataset/train/1977.jpg 0
-data/dataset/train/1978.jpg 8
-data/dataset/train/1979.jpg 8
-data/dataset/train/1980.jpg 8
-data/dataset/train/1981.jpg 2
-data/dataset/train/1982.jpg 9
-data/dataset/train/1983.jpg 3
-data/dataset/train/1984.jpg 2
-data/dataset/train/1985.jpg 0
-data/dataset/train/1986.jpg 8
-data/dataset/train/1987.jpg 5
-data/dataset/train/1988.jpg 7
-data/dataset/train/1989.jpg 0
-data/dataset/train/1990.jpg 1
-data/dataset/train/1991.jpg 1
-data/dataset/train/1992.jpg 1
-data/dataset/train/1993.jpg 9
-data/dataset/train/1994.jpg 5
-data/dataset/train/1995.jpg 1
-data/dataset/train/1996.jpg 3
-data/dataset/train/1997.jpg 3
-data/dataset/train/1998.jpg 6
-data/dataset/train/1999.jpg 0
-data/dataset/train/2000.jpg 8
-data/dataset/train/2001.jpg 2
-data/dataset/train/2002.jpg 1
-data/dataset/train/2003.jpg 3
-data/dataset/train/2004.jpg 8
-data/dataset/train/2005.jpg 8
-data/dataset/train/2006.jpg 6
-data/dataset/train/2007.jpg 7
-data/dataset/train/2008.jpg 5
-data/dataset/train/2009.jpg 6
-data/dataset/train/2010.jpg 6
-data/dataset/train/2011.jpg 7
-data/dataset/train/2012.jpg 3
-data/dataset/train/2013.jpg 3
-data/dataset/train/2014.jpg 2
-data/dataset/train/2015.jpg 4
-data/dataset/train/2016.jpg 6
-data/dataset/train/2017.jpg 5
-data/dataset/train/2018.jpg 5
-data/dataset/train/2019.jpg 4
-data/dataset/train/2020.jpg 2
-data/dataset/train/2021.jpg 3
-data/dataset/train/2022.jpg 7
-data/dataset/train/2023.jpg 1
-data/dataset/train/2024.jpg 1
-data/dataset/train/2025.jpg 7
-data/dataset/train/2026.jpg 3
-data/dataset/train/2027.jpg 8
-data/dataset/train/2028.jpg 7
-data/dataset/train/2029.jpg 2
-data/dataset/train/2030.jpg 2
-data/dataset/train/2031.jpg 9
-data/dataset/train/2032.jpg 3
-data/dataset/train/2033.jpg 9
-data/dataset/train/2034.jpg 9
-data/dataset/train/2035.jpg 0
-data/dataset/train/2036.jpg 1
-data/dataset/train/2037.jpg 5
-data/dataset/train/2038.jpg 1
-data/dataset/train/2039.jpg 2
-data/dataset/train/2040.jpg 8
-data/dataset/train/2041.jpg 1
-data/dataset/train/2042.jpg 4
-data/dataset/train/2043.jpg 9
-data/dataset/train/2044.jpg 3
-data/dataset/train/2045.jpg 4
-data/dataset/train/2046.jpg 0
-data/dataset/train/2047.jpg 0
-data/dataset/train/2048.jpg 7
-data/dataset/train/2049.jpg 6
-data/dataset/train/2050.jpg 9
-data/dataset/train/2051.jpg 9
-data/dataset/train/2052.jpg 5
-data/dataset/train/2053.jpg 5
-data/dataset/train/2054.jpg 7
-data/dataset/train/2055.jpg 0
-data/dataset/train/2056.jpg 9
-data/dataset/train/2057.jpg 3
-data/dataset/train/2058.jpg 3
-data/dataset/train/2059.jpg 6
-data/dataset/train/2060.jpg 9
-data/dataset/train/2061.jpg 8
-data/dataset/train/2062.jpg 4
-data/dataset/train/2063.jpg 2
-data/dataset/train/2064.jpg 2
-data/dataset/train/2065.jpg 3
-data/dataset/train/2066.jpg 9
-data/dataset/train/2067.jpg 4
-data/dataset/train/2068.jpg 3
-data/dataset/train/2069.jpg 6
-data/dataset/train/2070.jpg 7
-data/dataset/train/2071.jpg 3
-data/dataset/train/2072.jpg 0
-data/dataset/train/2073.jpg 4
-data/dataset/train/2074.jpg 8
-data/dataset/train/2075.jpg 1
-data/dataset/train/2076.jpg 8
-data/dataset/train/2077.jpg 7
-data/dataset/train/2078.jpg 3
-data/dataset/train/2079.jpg 4
-data/dataset/train/2080.jpg 5
-data/dataset/train/2081.jpg 2
-data/dataset/train/2082.jpg 2
-data/dataset/train/2083.jpg 9
-data/dataset/train/2084.jpg 1
-data/dataset/train/2085.jpg 9
-data/dataset/train/2086.jpg 4
-data/dataset/train/2087.jpg 9
-data/dataset/train/2088.jpg 1
-data/dataset/train/2089.jpg 6
-data/dataset/train/2090.jpg 2
-data/dataset/train/2091.jpg 8
-data/dataset/train/2092.jpg 8
-data/dataset/train/2093.jpg 7
-data/dataset/train/2094.jpg 7
-data/dataset/train/2095.jpg 7
-data/dataset/train/2096.jpg 7
-data/dataset/train/2097.jpg 2
-data/dataset/train/2098.jpg 6
-data/dataset/train/2099.jpg 0
-data/dataset/train/2100.jpg 7
-data/dataset/train/2101.jpg 5
-data/dataset/train/2102.jpg 8
-data/dataset/train/2103.jpg 5
-data/dataset/train/2104.jpg 6
-data/dataset/train/2105.jpg 0
-data/dataset/train/2106.jpg 2
-data/dataset/train/2107.jpg 4
-data/dataset/train/2108.jpg 9
-data/dataset/train/2109.jpg 2
-data/dataset/train/2110.jpg 6
-data/dataset/train/2111.jpg 1
-data/dataset/train/2112.jpg 1
-data/dataset/train/2113.jpg 9
-data/dataset/train/2114.jpg 3
-data/dataset/train/2115.jpg 1
-data/dataset/train/2116.jpg 2
-data/dataset/train/2117.jpg 2
-data/dataset/train/2118.jpg 2
-data/dataset/train/2119.jpg 3
-data/dataset/train/2120.jpg 7
-data/dataset/train/2121.jpg 5
-data/dataset/train/2122.jpg 7
-data/dataset/train/2123.jpg 4
-data/dataset/train/2124.jpg 4
-data/dataset/train/2125.jpg 4
-data/dataset/train/2126.jpg 1
-data/dataset/train/2127.jpg 2
-data/dataset/train/2128.jpg 3
-data/dataset/train/2129.jpg 5
-data/dataset/train/2130.jpg 4
-data/dataset/train/2131.jpg 2
-data/dataset/train/2132.jpg 9
-data/dataset/train/2133.jpg 1
-data/dataset/train/2134.jpg 5
-data/dataset/train/2135.jpg 9
-data/dataset/train/2136.jpg 3
-data/dataset/train/2137.jpg 6
-data/dataset/train/2138.jpg 6
-data/dataset/train/2139.jpg 4
-data/dataset/train/2140.jpg 0
-data/dataset/train/2141.jpg 1
-data/dataset/train/2142.jpg 7
-data/dataset/train/2143.jpg 7
-data/dataset/train/2144.jpg 4
-data/dataset/train/2145.jpg 6
-data/dataset/train/2146.jpg 7
-data/dataset/train/2147.jpg 7
-data/dataset/train/2148.jpg 3
-data/dataset/train/2149.jpg 0
-data/dataset/train/2150.jpg 4
-data/dataset/train/2151.jpg 3
-data/dataset/train/2152.jpg 2
-data/dataset/train/2153.jpg 7
-data/dataset/train/2154.jpg 8
-data/dataset/train/2155.jpg 7
-data/dataset/train/2156.jpg 2
-data/dataset/train/2157.jpg 8
-data/dataset/train/2158.jpg 0
-data/dataset/train/2159.jpg 8
-data/dataset/train/2160.jpg 7
-data/dataset/train/2161.jpg 4
-data/dataset/train/2162.jpg 6
-data/dataset/train/2163.jpg 2
-data/dataset/train/2164.jpg 7
-data/dataset/train/2165.jpg 0
-data/dataset/train/2166.jpg 9
-data/dataset/train/2167.jpg 9
-data/dataset/train/2168.jpg 3
-data/dataset/train/2169.jpg 1
-data/dataset/train/2170.jpg 5
-data/dataset/train/2171.jpg 9
-data/dataset/train/2172.jpg 3
-data/dataset/train/2173.jpg 1
-data/dataset/train/2174.jpg 0
-data/dataset/train/2175.jpg 3
-data/dataset/train/2176.jpg 3
-data/dataset/train/2177.jpg 5
-data/dataset/train/2178.jpg 9
-data/dataset/train/2179.jpg 7
-data/dataset/train/2180.jpg 9
-data/dataset/train/2181.jpg 8
-data/dataset/train/2182.jpg 3
-data/dataset/train/2183.jpg 5
-data/dataset/train/2184.jpg 9
-data/dataset/train/2185.jpg 3
-data/dataset/train/2186.jpg 7
-data/dataset/train/2187.jpg 9
-data/dataset/train/2188.jpg 3
-data/dataset/train/2189.jpg 4
-data/dataset/train/2190.jpg 6
-data/dataset/train/2191.jpg 6
-data/dataset/train/2192.jpg 5
-data/dataset/train/2193.jpg 7
-data/dataset/train/2194.jpg 7
-data/dataset/train/2195.jpg 6
-data/dataset/train/2196.jpg 3
-data/dataset/train/2197.jpg 5
-data/dataset/train/2198.jpg 3
-data/dataset/train/2199.jpg 1
-data/dataset/train/2200.jpg 1
-data/dataset/train/2201.jpg 9
-data/dataset/train/2202.jpg 4
-data/dataset/train/2203.jpg 3
-data/dataset/train/2204.jpg 9
-data/dataset/train/2205.jpg 5
-data/dataset/train/2206.jpg 5
-data/dataset/train/2207.jpg 7
-data/dataset/train/2208.jpg 2
-data/dataset/train/2209.jpg 4
-data/dataset/train/2210.jpg 9
-data/dataset/train/2211.jpg 0
-data/dataset/train/2212.jpg 2
-data/dataset/train/2213.jpg 1
-data/dataset/train/2214.jpg 9
-data/dataset/train/2215.jpg 7
-data/dataset/train/2216.jpg 1
-data/dataset/train/2217.jpg 5
-data/dataset/train/2218.jpg 0
-data/dataset/train/2219.jpg 5
-data/dataset/train/2220.jpg 5
-data/dataset/train/2221.jpg 0
-data/dataset/train/2222.jpg 3
-data/dataset/train/2223.jpg 5
-data/dataset/train/2224.jpg 0
-data/dataset/train/2225.jpg 3
-data/dataset/train/2226.jpg 3
-data/dataset/train/2227.jpg 7
-data/dataset/train/2228.jpg 4
-data/dataset/train/2229.jpg 2
-data/dataset/train/2230.jpg 6
-data/dataset/train/2231.jpg 8
-data/dataset/train/2232.jpg 5
-data/dataset/train/2233.jpg 9
-data/dataset/train/2234.jpg 2
-data/dataset/train/2235.jpg 1
-data/dataset/train/2236.jpg 0
-data/dataset/train/2237.jpg 5
-data/dataset/train/2238.jpg 5
-data/dataset/train/2239.jpg 8
-data/dataset/train/2240.jpg 5
-data/dataset/train/2241.jpg 3
-data/dataset/train/2242.jpg 7
-data/dataset/train/2243.jpg 4
-data/dataset/train/2244.jpg 4
-data/dataset/train/2245.jpg 3
-data/dataset/train/2246.jpg 9
-data/dataset/train/2247.jpg 6
-data/dataset/train/2248.jpg 0
-data/dataset/train/2249.jpg 0
-data/dataset/train/2250.jpg 9
-data/dataset/train/2251.jpg 1
-data/dataset/train/2252.jpg 4
-data/dataset/train/2253.jpg 3
-data/dataset/train/2254.jpg 1
-data/dataset/train/2255.jpg 5
-data/dataset/train/2256.jpg 3
-data/dataset/train/2257.jpg 8
-data/dataset/train/2258.jpg 5
-data/dataset/train/2259.jpg 1
-data/dataset/train/2260.jpg 1
-data/dataset/train/2261.jpg 2
-data/dataset/train/2262.jpg 9
-data/dataset/train/2263.jpg 4
-data/dataset/train/2264.jpg 0
-data/dataset/train/2265.jpg 5
-data/dataset/train/2266.jpg 2
-data/dataset/train/2267.jpg 8
-data/dataset/train/2268.jpg 0
-data/dataset/train/2269.jpg 2
-data/dataset/train/2270.jpg 9
-data/dataset/train/2271.jpg 8
-data/dataset/train/2272.jpg 2
-data/dataset/train/2273.jpg 4
-data/dataset/train/2274.jpg 8
-data/dataset/train/2275.jpg 3
-data/dataset/train/2276.jpg 8
-data/dataset/train/2277.jpg 0
-data/dataset/train/2278.jpg 2
-data/dataset/train/2279.jpg 0
-data/dataset/train/2280.jpg 0
-data/dataset/train/2281.jpg 4
-data/dataset/train/2282.jpg 8
-data/dataset/train/2283.jpg 5
-data/dataset/train/2284.jpg 4
-data/dataset/train/2285.jpg 9
-data/dataset/train/2286.jpg 0
-data/dataset/train/2287.jpg 9
-data/dataset/train/2288.jpg 5
-data/dataset/train/2289.jpg 8
-data/dataset/train/2290.jpg 6
-data/dataset/train/2291.jpg 9
-data/dataset/train/2292.jpg 1
-data/dataset/train/2293.jpg 2
-data/dataset/train/2294.jpg 7
-data/dataset/train/2295.jpg 2
-data/dataset/train/2296.jpg 1
-data/dataset/train/2297.jpg 6
-data/dataset/train/2298.jpg 6
-data/dataset/train/2299.jpg 0
-data/dataset/train/2300.jpg 6
-data/dataset/train/2301.jpg 5
-data/dataset/train/2302.jpg 0
-data/dataset/train/2303.jpg 4
-data/dataset/train/2304.jpg 8
-data/dataset/train/2305.jpg 5
-data/dataset/train/2306.jpg 5
-data/dataset/train/2307.jpg 2
-data/dataset/train/2308.jpg 0
-data/dataset/train/2309.jpg 3
-data/dataset/train/2310.jpg 8
-data/dataset/train/2311.jpg 6
-data/dataset/train/2312.jpg 3
-data/dataset/train/2313.jpg 1
-data/dataset/train/2314.jpg 9
-data/dataset/train/2315.jpg 2
-data/dataset/train/2316.jpg 9
-data/dataset/train/2317.jpg 7
-data/dataset/train/2318.jpg 3
-data/dataset/train/2319.jpg 6
-data/dataset/train/2320.jpg 4
-data/dataset/train/2321.jpg 8
-data/dataset/train/2322.jpg 3
-data/dataset/train/2323.jpg 4
-data/dataset/train/2324.jpg 8
-data/dataset/train/2325.jpg 5
-data/dataset/train/2326.jpg 6
-data/dataset/train/2327.jpg 8
-data/dataset/train/2328.jpg 3
-data/dataset/train/2329.jpg 3
-data/dataset/train/2330.jpg 1
-data/dataset/train/2331.jpg 4
-data/dataset/train/2332.jpg 2
-data/dataset/train/2333.jpg 0
-data/dataset/train/2334.jpg 4
-data/dataset/train/2335.jpg 9
-data/dataset/train/2336.jpg 0
-data/dataset/train/2337.jpg 2
-data/dataset/train/2338.jpg 1
-data/dataset/train/2339.jpg 9
-data/dataset/train/2340.jpg 9
-data/dataset/train/2341.jpg 8
-data/dataset/train/2342.jpg 1
-data/dataset/train/2343.jpg 8
-data/dataset/train/2344.jpg 8
-data/dataset/train/2345.jpg 3
-data/dataset/train/2346.jpg 3
-data/dataset/train/2347.jpg 3
-data/dataset/train/2348.jpg 8
-data/dataset/train/2349.jpg 5
-data/dataset/train/2350.jpg 9
-data/dataset/train/2351.jpg 6
-data/dataset/train/2352.jpg 6
-data/dataset/train/2353.jpg 8
-data/dataset/train/2354.jpg 7
-data/dataset/train/2355.jpg 0
-data/dataset/train/2356.jpg 3
-data/dataset/train/2357.jpg 0
-data/dataset/train/2358.jpg 0
-data/dataset/train/2359.jpg 0
-data/dataset/train/2360.jpg 5
-data/dataset/train/2361.jpg 7
-data/dataset/train/2362.jpg 5
-data/dataset/train/2363.jpg 0
-data/dataset/train/2364.jpg 7
-data/dataset/train/2365.jpg 9
-data/dataset/train/2366.jpg 1
-data/dataset/train/2367.jpg 6
-data/dataset/train/2368.jpg 4
-data/dataset/train/2369.jpg 8
-data/dataset/train/2370.jpg 9
-data/dataset/train/2371.jpg 3
-data/dataset/train/2372.jpg 5
-data/dataset/train/2373.jpg 6
-data/dataset/train/2374.jpg 0
-data/dataset/train/2375.jpg 4
-data/dataset/train/2376.jpg 4
-data/dataset/train/2377.jpg 7
-data/dataset/train/2378.jpg 8
-data/dataset/train/2379.jpg 9
-data/dataset/train/2380.jpg 1
-data/dataset/train/2381.jpg 8
-data/dataset/train/2382.jpg 2
-data/dataset/train/2383.jpg 5
-data/dataset/train/2384.jpg 5
-data/dataset/train/2385.jpg 3
-data/dataset/train/2386.jpg 1
-data/dataset/train/2387.jpg 1
-data/dataset/train/2388.jpg 8
-data/dataset/train/2389.jpg 8
-data/dataset/train/2390.jpg 3
-data/dataset/train/2391.jpg 0
-data/dataset/train/2392.jpg 7
-data/dataset/train/2393.jpg 0
-data/dataset/train/2394.jpg 1
-data/dataset/train/2395.jpg 8
-data/dataset/train/2396.jpg 1
-data/dataset/train/2397.jpg 6
-data/dataset/train/2398.jpg 4
-data/dataset/train/2399.jpg 9
-data/dataset/train/2400.jpg 8
-data/dataset/train/2401.jpg 9
-data/dataset/train/2402.jpg 8
-data/dataset/train/2403.jpg 8
-data/dataset/train/2404.jpg 6
-data/dataset/train/2405.jpg 9
-data/dataset/train/2406.jpg 1
-data/dataset/train/2407.jpg 8
-data/dataset/train/2408.jpg 4
-data/dataset/train/2409.jpg 2
-data/dataset/train/2410.jpg 7
-data/dataset/train/2411.jpg 7
-data/dataset/train/2412.jpg 0
-data/dataset/train/2413.jpg 5
-data/dataset/train/2414.jpg 1
-data/dataset/train/2415.jpg 1
-data/dataset/train/2416.jpg 0
-data/dataset/train/2417.jpg 6
-data/dataset/train/2418.jpg 4
-data/dataset/train/2419.jpg 3
-data/dataset/train/2420.jpg 0
-data/dataset/train/2421.jpg 4
-data/dataset/train/2422.jpg 3
-data/dataset/train/2423.jpg 5
-data/dataset/train/2424.jpg 1
-data/dataset/train/2425.jpg 6
-data/dataset/train/2426.jpg 3
-data/dataset/train/2427.jpg 3
-data/dataset/train/2428.jpg 4
-data/dataset/train/2429.jpg 4
-data/dataset/train/2430.jpg 5
-data/dataset/train/2431.jpg 6
-data/dataset/train/2432.jpg 9
-data/dataset/train/2433.jpg 8
-data/dataset/train/2434.jpg 3
-data/dataset/train/2435.jpg 3
-data/dataset/train/2436.jpg 1
-data/dataset/train/2437.jpg 0
-data/dataset/train/2438.jpg 2
-data/dataset/train/2439.jpg 1
-data/dataset/train/2440.jpg 4
-data/dataset/train/2441.jpg 4
-data/dataset/train/2442.jpg 4
-data/dataset/train/2443.jpg 8
-data/dataset/train/2444.jpg 4
-data/dataset/train/2445.jpg 9
-data/dataset/train/2446.jpg 0
-data/dataset/train/2447.jpg 9
-data/dataset/train/2448.jpg 9
-data/dataset/train/2449.jpg 5
-data/dataset/train/2450.jpg 0
-data/dataset/train/2451.jpg 6
-data/dataset/train/2452.jpg 0
-data/dataset/train/2453.jpg 5
-data/dataset/train/2454.jpg 0
-data/dataset/train/2455.jpg 3
-data/dataset/train/2456.jpg 9
-data/dataset/train/2457.jpg 8
-data/dataset/train/2458.jpg 3
-data/dataset/train/2459.jpg 6
-data/dataset/train/2460.jpg 1
-data/dataset/train/2461.jpg 9
-data/dataset/train/2462.jpg 4
-data/dataset/train/2463.jpg 1
-data/dataset/train/2464.jpg 6
-data/dataset/train/2465.jpg 4
-data/dataset/train/2466.jpg 5
-data/dataset/train/2467.jpg 4
-data/dataset/train/2468.jpg 1
-data/dataset/train/2469.jpg 6
-data/dataset/train/2470.jpg 8
-data/dataset/train/2471.jpg 5
-data/dataset/train/2472.jpg 9
-data/dataset/train/2473.jpg 4
-data/dataset/train/2474.jpg 5
-data/dataset/train/2475.jpg 3
-data/dataset/train/2476.jpg 8
-data/dataset/train/2477.jpg 8
-data/dataset/train/2478.jpg 1
-data/dataset/train/2479.jpg 0
-data/dataset/train/2480.jpg 6
-data/dataset/train/2481.jpg 8
-data/dataset/train/2482.jpg 9
-data/dataset/train/2483.jpg 0
-data/dataset/train/2484.jpg 5
-data/dataset/train/2485.jpg 6
-data/dataset/train/2486.jpg 2
-data/dataset/train/2487.jpg 4
-data/dataset/train/2488.jpg 9
-data/dataset/train/2489.jpg 3
-data/dataset/train/2490.jpg 2
-data/dataset/train/2491.jpg 6
-data/dataset/train/2492.jpg 8
-data/dataset/train/2493.jpg 5
-data/dataset/train/2494.jpg 9
-data/dataset/train/2495.jpg 2
-data/dataset/train/2496.jpg 3
-data/dataset/train/2497.jpg 1
-data/dataset/train/2498.jpg 6
-data/dataset/train/2499.jpg 3
-data/dataset/train/2500.jpg 6
-data/dataset/train/2501.jpg 2
-data/dataset/train/2502.jpg 7
-data/dataset/train/2503.jpg 2
-data/dataset/train/2504.jpg 1
-data/dataset/train/2505.jpg 2
-data/dataset/train/2506.jpg 0
-data/dataset/train/2507.jpg 3
-data/dataset/train/2508.jpg 0
-data/dataset/train/2509.jpg 4
-data/dataset/train/2510.jpg 8
-data/dataset/train/2511.jpg 5
-data/dataset/train/2512.jpg 0
-data/dataset/train/2513.jpg 8
-data/dataset/train/2514.jpg 5
-data/dataset/train/2515.jpg 2
-data/dataset/train/2516.jpg 7
-data/dataset/train/2517.jpg 8
-data/dataset/train/2518.jpg 1
-data/dataset/train/2519.jpg 5
-data/dataset/train/2520.jpg 9
-data/dataset/train/2521.jpg 8
-data/dataset/train/2522.jpg 0
-data/dataset/train/2523.jpg 9
-data/dataset/train/2524.jpg 0
-data/dataset/train/2525.jpg 9
-data/dataset/train/2526.jpg 3
-data/dataset/train/2527.jpg 9
-data/dataset/train/2528.jpg 5
-data/dataset/train/2529.jpg 7
-data/dataset/train/2530.jpg 9
-data/dataset/train/2531.jpg 6
-data/dataset/train/2532.jpg 0
-data/dataset/train/2533.jpg 7
-data/dataset/train/2534.jpg 1
-data/dataset/train/2535.jpg 5
-data/dataset/train/2536.jpg 5
-data/dataset/train/2537.jpg 9
-data/dataset/train/2538.jpg 5
-data/dataset/train/2539.jpg 4
-data/dataset/train/2540.jpg 6
-data/dataset/train/2541.jpg 2
-data/dataset/train/2542.jpg 4
-data/dataset/train/2543.jpg 5
-data/dataset/train/2544.jpg 9
-data/dataset/train/2545.jpg 7
-data/dataset/train/2546.jpg 4
-data/dataset/train/2547.jpg 2
-data/dataset/train/2548.jpg 2
-data/dataset/train/2549.jpg 9
-data/dataset/train/2550.jpg 9
-data/dataset/train/2551.jpg 6
-data/dataset/train/2552.jpg 2
-data/dataset/train/2553.jpg 1
-data/dataset/train/2554.jpg 3
-data/dataset/train/2555.jpg 7
-data/dataset/train/2556.jpg 1
-data/dataset/train/2557.jpg 8
-data/dataset/train/2558.jpg 7
-data/dataset/train/2559.jpg 9
-data/dataset/train/2560.jpg 1
-data/dataset/train/2561.jpg 8
-data/dataset/train/2562.jpg 9
-data/dataset/train/2563.jpg 3
-data/dataset/train/2564.jpg 7
-data/dataset/train/2565.jpg 7
-data/dataset/train/2566.jpg 7
-data/dataset/train/2567.jpg 1
-data/dataset/train/2568.jpg 7
-data/dataset/train/2569.jpg 4
-data/dataset/train/2570.jpg 4
-data/dataset/train/2571.jpg 0
-data/dataset/train/2572.jpg 2
-data/dataset/train/2573.jpg 4
-data/dataset/train/2574.jpg 5
-data/dataset/train/2575.jpg 2
-data/dataset/train/2576.jpg 8
-data/dataset/train/2577.jpg 9
-data/dataset/train/2578.jpg 6
-data/dataset/train/2579.jpg 8
-data/dataset/train/2580.jpg 6
-data/dataset/train/2581.jpg 0
-data/dataset/train/2582.jpg 7
-data/dataset/train/2583.jpg 7
-data/dataset/train/2584.jpg 5
-data/dataset/train/2585.jpg 0
-data/dataset/train/2586.jpg 1
-data/dataset/train/2587.jpg 9
-data/dataset/train/2588.jpg 6
-data/dataset/train/2589.jpg 0
-data/dataset/train/2590.jpg 4
-data/dataset/train/2591.jpg 9
-data/dataset/train/2592.jpg 2
-data/dataset/train/2593.jpg 2
-data/dataset/train/2594.jpg 6
-data/dataset/train/2595.jpg 7
-data/dataset/train/2596.jpg 1
-data/dataset/train/2597.jpg 0
-data/dataset/train/2598.jpg 5
-data/dataset/train/2599.jpg 0
-data/dataset/train/2600.jpg 7
-data/dataset/train/2601.jpg 2
-data/dataset/train/2602.jpg 8
-data/dataset/train/2603.jpg 6
-data/dataset/train/2604.jpg 3
-data/dataset/train/2605.jpg 6
-data/dataset/train/2606.jpg 1
-data/dataset/train/2607.jpg 7
-data/dataset/train/2608.jpg 4
-data/dataset/train/2609.jpg 8
-data/dataset/train/2610.jpg 7
-data/dataset/train/2611.jpg 4
-data/dataset/train/2612.jpg 1
-data/dataset/train/2613.jpg 7
-data/dataset/train/2614.jpg 8
-data/dataset/train/2615.jpg 2
-data/dataset/train/2616.jpg 4
-data/dataset/train/2617.jpg 4
-data/dataset/train/2618.jpg 4
-data/dataset/train/2619.jpg 4
-data/dataset/train/2620.jpg 1
-data/dataset/train/2621.jpg 8
-data/dataset/train/2622.jpg 6
-data/dataset/train/2623.jpg 7
-data/dataset/train/2624.jpg 2
-data/dataset/train/2625.jpg 9
-data/dataset/train/2626.jpg 4
-data/dataset/train/2627.jpg 5
-data/dataset/train/2628.jpg 0
-data/dataset/train/2629.jpg 6
-data/dataset/train/2630.jpg 3
-data/dataset/train/2631.jpg 8
-data/dataset/train/2632.jpg 8
-data/dataset/train/2633.jpg 2
-data/dataset/train/2634.jpg 0
-data/dataset/train/2635.jpg 7
-data/dataset/train/2636.jpg 2
-data/dataset/train/2637.jpg 4
-data/dataset/train/2638.jpg 0
-data/dataset/train/2639.jpg 3
-data/dataset/train/2640.jpg 1
-data/dataset/train/2641.jpg 0
-data/dataset/train/2642.jpg 8
-data/dataset/train/2643.jpg 1
-data/dataset/train/2644.jpg 7
-data/dataset/train/2645.jpg 7
-data/dataset/train/2646.jpg 2
-data/dataset/train/2647.jpg 6
-data/dataset/train/2648.jpg 3
-data/dataset/train/2649.jpg 1
-data/dataset/train/2650.jpg 2
-data/dataset/train/2651.jpg 7
-data/dataset/train/2652.jpg 0
-data/dataset/train/2653.jpg 0
-data/dataset/train/2654.jpg 0
-data/dataset/train/2655.jpg 6
-data/dataset/train/2656.jpg 2
-data/dataset/train/2657.jpg 7
-data/dataset/train/2658.jpg 2
-data/dataset/train/2659.jpg 8
-data/dataset/train/2660.jpg 3
-data/dataset/train/2661.jpg 6
-data/dataset/train/2662.jpg 3
-data/dataset/train/2663.jpg 0
-data/dataset/train/2664.jpg 9
-data/dataset/train/2665.jpg 7
-data/dataset/train/2666.jpg 3
-data/dataset/train/2667.jpg 5
-data/dataset/train/2668.jpg 4
-data/dataset/train/2669.jpg 9
-data/dataset/train/2670.jpg 6
-data/dataset/train/2671.jpg 4
-data/dataset/train/2672.jpg 5
-data/dataset/train/2673.jpg 0
-data/dataset/train/2674.jpg 6
-data/dataset/train/2675.jpg 8
-data/dataset/train/2676.jpg 4
-data/dataset/train/2677.jpg 0
-data/dataset/train/2678.jpg 4
-data/dataset/train/2679.jpg 4
-data/dataset/train/2680.jpg 0
-data/dataset/train/2681.jpg 4
-data/dataset/train/2682.jpg 1
-data/dataset/train/2683.jpg 6
-data/dataset/train/2684.jpg 4
-data/dataset/train/2685.jpg 3
-data/dataset/train/2686.jpg 7
-data/dataset/train/2687.jpg 1
-data/dataset/train/2688.jpg 3
-data/dataset/train/2689.jpg 6
-data/dataset/train/2690.jpg 4
-data/dataset/train/2691.jpg 1
-data/dataset/train/2692.jpg 1
-data/dataset/train/2693.jpg 5
-data/dataset/train/2694.jpg 6
-data/dataset/train/2695.jpg 3
-data/dataset/train/2696.jpg 8
-data/dataset/train/2697.jpg 3
-data/dataset/train/2698.jpg 4
-data/dataset/train/2699.jpg 1
-data/dataset/train/2700.jpg 7
-data/dataset/train/2701.jpg 4
-data/dataset/train/2702.jpg 9
-data/dataset/train/2703.jpg 8
-data/dataset/train/2704.jpg 8
-data/dataset/train/2705.jpg 4
-data/dataset/train/2706.jpg 5
-data/dataset/train/2707.jpg 5
-data/dataset/train/2708.jpg 6
-data/dataset/train/2709.jpg 7
-data/dataset/train/2710.jpg 3
-data/dataset/train/2711.jpg 9
-data/dataset/train/2712.jpg 1
-data/dataset/train/2713.jpg 0
-data/dataset/train/2714.jpg 5
-data/dataset/train/2715.jpg 3
-data/dataset/train/2716.jpg 7
-data/dataset/train/2717.jpg 0
-data/dataset/train/2718.jpg 1
-data/dataset/train/2719.jpg 1
-data/dataset/train/2720.jpg 8
-data/dataset/train/2721.jpg 3
-data/dataset/train/2722.jpg 2
-data/dataset/train/2723.jpg 0
-data/dataset/train/2724.jpg 5
-data/dataset/train/2725.jpg 9
-data/dataset/train/2726.jpg 6
-data/dataset/train/2727.jpg 3
-data/dataset/train/2728.jpg 8
-data/dataset/train/2729.jpg 1
-data/dataset/train/2730.jpg 0
-data/dataset/train/2731.jpg 4
-data/dataset/train/2732.jpg 6
-data/dataset/train/2733.jpg 2
-data/dataset/train/2734.jpg 4
-data/dataset/train/2735.jpg 8
-data/dataset/train/2736.jpg 3
-data/dataset/train/2737.jpg 4
-data/dataset/train/2738.jpg 2
-data/dataset/train/2739.jpg 1
-data/dataset/train/2740.jpg 9
-data/dataset/train/2741.jpg 1
-data/dataset/train/2742.jpg 7
-data/dataset/train/2743.jpg 9
-data/dataset/train/2744.jpg 5
-data/dataset/train/2745.jpg 7
-data/dataset/train/2746.jpg 6
-data/dataset/train/2747.jpg 1
-data/dataset/train/2748.jpg 5
-data/dataset/train/2749.jpg 8
-data/dataset/train/2750.jpg 8
-data/dataset/train/2751.jpg 2
-data/dataset/train/2752.jpg 6
-data/dataset/train/2753.jpg 4
-data/dataset/train/2754.jpg 6
-data/dataset/train/2755.jpg 3
-data/dataset/train/2756.jpg 1
-data/dataset/train/2757.jpg 6
-data/dataset/train/2758.jpg 4
-data/dataset/train/2759.jpg 0
-data/dataset/train/2760.jpg 3
-data/dataset/train/2761.jpg 9
-data/dataset/train/2762.jpg 8
-data/dataset/train/2763.jpg 4
-data/dataset/train/2764.jpg 0
-data/dataset/train/2765.jpg 8
-data/dataset/train/2766.jpg 4
-data/dataset/train/2767.jpg 3
-data/dataset/train/2768.jpg 9
-data/dataset/train/2769.jpg 7
-data/dataset/train/2770.jpg 1
-data/dataset/train/2771.jpg 1
-data/dataset/train/2772.jpg 7
-data/dataset/train/2773.jpg 5
-data/dataset/train/2774.jpg 1
-data/dataset/train/2775.jpg 9
-data/dataset/train/2776.jpg 4
-data/dataset/train/2777.jpg 4
-data/dataset/train/2778.jpg 2
-data/dataset/train/2779.jpg 4
-data/dataset/train/2780.jpg 8
-data/dataset/train/2781.jpg 6
-data/dataset/train/2782.jpg 7
-data/dataset/train/2783.jpg 1
-data/dataset/train/2784.jpg 3
-data/dataset/train/2785.jpg 0
-data/dataset/train/2786.jpg 7
-data/dataset/train/2787.jpg 3
-data/dataset/train/2788.jpg 5
-data/dataset/train/2789.jpg 8
-data/dataset/train/2790.jpg 1
-data/dataset/train/2791.jpg 4
-data/dataset/train/2792.jpg 2
-data/dataset/train/2793.jpg 3
-data/dataset/train/2794.jpg 4
-data/dataset/train/2795.jpg 8
-data/dataset/train/2796.jpg 8
-data/dataset/train/2797.jpg 8
-data/dataset/train/2798.jpg 4
-data/dataset/train/2799.jpg 8
-data/dataset/train/2800.jpg 1
-data/dataset/train/2801.jpg 8
-data/dataset/train/2802.jpg 9
-data/dataset/train/2803.jpg 3
-data/dataset/train/2804.jpg 0
-data/dataset/train/2805.jpg 6
-data/dataset/train/2806.jpg 0
-data/dataset/train/2807.jpg 2
-data/dataset/train/2808.jpg 9
-data/dataset/train/2809.jpg 7
-data/dataset/train/2810.jpg 3
-data/dataset/train/2811.jpg 7
-data/dataset/train/2812.jpg 0
-data/dataset/train/2813.jpg 1
-data/dataset/train/2814.jpg 3
-data/dataset/train/2815.jpg 5
-data/dataset/train/2816.jpg 9
-data/dataset/train/2817.jpg 3
-data/dataset/train/2818.jpg 0
-data/dataset/train/2819.jpg 5
-data/dataset/train/2820.jpg 0
-data/dataset/train/2821.jpg 5
-data/dataset/train/2822.jpg 8
-data/dataset/train/2823.jpg 7
-data/dataset/train/2824.jpg 3
-data/dataset/train/2825.jpg 6
-data/dataset/train/2826.jpg 2
-data/dataset/train/2827.jpg 8
-data/dataset/train/2828.jpg 0
-data/dataset/train/2829.jpg 0
-data/dataset/train/2830.jpg 9
-data/dataset/train/2831.jpg 3
-data/dataset/train/2832.jpg 0
-data/dataset/train/2833.jpg 5
-data/dataset/train/2834.jpg 8
-data/dataset/train/2835.jpg 1
-data/dataset/train/2836.jpg 1
-data/dataset/train/2837.jpg 2
-data/dataset/train/2838.jpg 6
-data/dataset/train/2839.jpg 6
-data/dataset/train/2840.jpg 6
-data/dataset/train/2841.jpg 8
-data/dataset/train/2842.jpg 6
-data/dataset/train/2843.jpg 6
-data/dataset/train/2844.jpg 3
-data/dataset/train/2845.jpg 3
-data/dataset/train/2846.jpg 9
-data/dataset/train/2847.jpg 5
-data/dataset/train/2848.jpg 4
-data/dataset/train/2849.jpg 3
-data/dataset/train/2850.jpg 3
-data/dataset/train/2851.jpg 1
-data/dataset/train/2852.jpg 8
-data/dataset/train/2853.jpg 1
-data/dataset/train/2854.jpg 5
-data/dataset/train/2855.jpg 2
-data/dataset/train/2856.jpg 6
-data/dataset/train/2857.jpg 0
-data/dataset/train/2858.jpg 7
-data/dataset/train/2859.jpg 9
-data/dataset/train/2860.jpg 3
-data/dataset/train/2861.jpg 2
-data/dataset/train/2862.jpg 7
-data/dataset/train/2863.jpg 1
-data/dataset/train/2864.jpg 7
-data/dataset/train/2865.jpg 6
-data/dataset/train/2866.jpg 1
-data/dataset/train/2867.jpg 6
-data/dataset/train/2868.jpg 2
-data/dataset/train/2869.jpg 6
-data/dataset/train/2870.jpg 6
-data/dataset/train/2871.jpg 7
-data/dataset/train/2872.jpg 0
-data/dataset/train/2873.jpg 4
-data/dataset/train/2874.jpg 9
-data/dataset/train/2875.jpg 3
-data/dataset/train/2876.jpg 2
-data/dataset/train/2877.jpg 5
-data/dataset/train/2878.jpg 0
-data/dataset/train/2879.jpg 8
-data/dataset/train/2880.jpg 6
-data/dataset/train/2881.jpg 2
-data/dataset/train/2882.jpg 6
-data/dataset/train/2883.jpg 7
-data/dataset/train/2884.jpg 4
-data/dataset/train/2885.jpg 2
-data/dataset/train/2886.jpg 1
-data/dataset/train/2887.jpg 1
-data/dataset/train/2888.jpg 0
-data/dataset/train/2889.jpg 3
-data/dataset/train/2890.jpg 5
-data/dataset/train/2891.jpg 5
-data/dataset/train/2892.jpg 2
-data/dataset/train/2893.jpg 6
-data/dataset/train/2894.jpg 2
-data/dataset/train/2895.jpg 1
-data/dataset/train/2896.jpg 8
-data/dataset/train/2897.jpg 0
-data/dataset/train/2898.jpg 3
-data/dataset/train/2899.jpg 4
-data/dataset/train/2900.jpg 3
-data/dataset/train/2901.jpg 4
-data/dataset/train/2902.jpg 2
-data/dataset/train/2903.jpg 9
-data/dataset/train/2904.jpg 2
-data/dataset/train/2905.jpg 8
-data/dataset/train/2906.jpg 9
-data/dataset/train/2907.jpg 6
-data/dataset/train/2908.jpg 2
-data/dataset/train/2909.jpg 0
-data/dataset/train/2910.jpg 6
-data/dataset/train/2911.jpg 4
-data/dataset/train/2912.jpg 5
-data/dataset/train/2913.jpg 4
-data/dataset/train/2914.jpg 7
-data/dataset/train/2915.jpg 8
-data/dataset/train/2916.jpg 1
-data/dataset/train/2917.jpg 6
-data/dataset/train/2918.jpg 3
-data/dataset/train/2919.jpg 4
-data/dataset/train/2920.jpg 2
-data/dataset/train/2921.jpg 9
-data/dataset/train/2922.jpg 4
-data/dataset/train/2923.jpg 3
-data/dataset/train/2924.jpg 5
-data/dataset/train/2925.jpg 1
-data/dataset/train/2926.jpg 2
-data/dataset/train/2927.jpg 6
-data/dataset/train/2928.jpg 0
-data/dataset/train/2929.jpg 1
-data/dataset/train/2930.jpg 1
-data/dataset/train/2931.jpg 0
-data/dataset/train/2932.jpg 2
-data/dataset/train/2933.jpg 6
-data/dataset/train/2934.jpg 9
-data/dataset/train/2935.jpg 9
-data/dataset/train/2936.jpg 0
-data/dataset/train/2937.jpg 1
-data/dataset/train/2938.jpg 2
-data/dataset/train/2939.jpg 4
-data/dataset/train/2940.jpg 6
-data/dataset/train/2941.jpg 7
-data/dataset/train/2942.jpg 6
-data/dataset/train/2943.jpg 1
-data/dataset/train/2944.jpg 1
-data/dataset/train/2945.jpg 7
-data/dataset/train/2946.jpg 7
-data/dataset/train/2947.jpg 8
-data/dataset/train/2948.jpg 7
-data/dataset/train/2949.jpg 6
-data/dataset/train/2950.jpg 5
-data/dataset/train/2951.jpg 1
-data/dataset/train/2952.jpg 7
-data/dataset/train/2953.jpg 0
-data/dataset/train/2954.jpg 0
-data/dataset/train/2955.jpg 9
-data/dataset/train/2956.jpg 2
-data/dataset/train/2957.jpg 1
-data/dataset/train/2958.jpg 6
-data/dataset/train/2959.jpg 2
-data/dataset/train/2960.jpg 2
-data/dataset/train/2961.jpg 5
-data/dataset/train/2962.jpg 8
-data/dataset/train/2963.jpg 5
-data/dataset/train/2964.jpg 2
-data/dataset/train/2965.jpg 7
-data/dataset/train/2966.jpg 8
-data/dataset/train/2967.jpg 4
-data/dataset/train/2968.jpg 0
-data/dataset/train/2969.jpg 9
-data/dataset/train/2970.jpg 0
-data/dataset/train/2971.jpg 8
-data/dataset/train/2972.jpg 1
-data/dataset/train/2973.jpg 3
-data/dataset/train/2974.jpg 8
-data/dataset/train/2975.jpg 2
-data/dataset/train/2976.jpg 8
-data/dataset/train/2977.jpg 2
-data/dataset/train/2978.jpg 0
-data/dataset/train/2979.jpg 6
-data/dataset/train/2980.jpg 3
-data/dataset/train/2981.jpg 8
-data/dataset/train/2982.jpg 7
-data/dataset/train/2983.jpg 8
-data/dataset/train/2984.jpg 2
-data/dataset/train/2985.jpg 6
-data/dataset/train/2986.jpg 6
-data/dataset/train/2987.jpg 6
-data/dataset/train/2988.jpg 0
-data/dataset/train/2989.jpg 4
-data/dataset/train/2990.jpg 5
-data/dataset/train/2991.jpg 3
-data/dataset/train/2992.jpg 4
-data/dataset/train/2993.jpg 1
-data/dataset/train/2994.jpg 1
-data/dataset/train/2995.jpg 9
-data/dataset/train/2996.jpg 7
-data/dataset/train/2997.jpg 0
-data/dataset/train/2998.jpg 6
-data/dataset/train/2999.jpg 2
-data/dataset/train/3000.jpg 1
-data/dataset/train/3001.jpg 4
-data/dataset/train/3002.jpg 2
-data/dataset/train/3003.jpg 7
-data/dataset/train/3004.jpg 7
-data/dataset/train/3005.jpg 1
-data/dataset/train/3006.jpg 8
-data/dataset/train/3007.jpg 3
-data/dataset/train/3008.jpg 8
-data/dataset/train/3009.jpg 7
-data/dataset/train/3010.jpg 9
-data/dataset/train/3011.jpg 8
-data/dataset/train/3012.jpg 7
-data/dataset/train/3013.jpg 2
-data/dataset/train/3014.jpg 7
-data/dataset/train/3015.jpg 9
-data/dataset/train/3016.jpg 7
-data/dataset/train/3017.jpg 2
-data/dataset/train/3018.jpg 2
-data/dataset/train/3019.jpg 3
-data/dataset/train/3020.jpg 6
-data/dataset/train/3021.jpg 3
-data/dataset/train/3022.jpg 3
-data/dataset/train/3023.jpg 9
-data/dataset/train/3024.jpg 1
-data/dataset/train/3025.jpg 1
-data/dataset/train/3026.jpg 4
-data/dataset/train/3027.jpg 8
-data/dataset/train/3028.jpg 0
-data/dataset/train/3029.jpg 9
-data/dataset/train/3030.jpg 7
-data/dataset/train/3031.jpg 5
-data/dataset/train/3032.jpg 2
-data/dataset/train/3033.jpg 8
-data/dataset/train/3034.jpg 8
-data/dataset/train/3035.jpg 3
-data/dataset/train/3036.jpg 6
-data/dataset/train/3037.jpg 3
-data/dataset/train/3038.jpg 0
-data/dataset/train/3039.jpg 8
-data/dataset/train/3040.jpg 2
-data/dataset/train/3041.jpg 2
-data/dataset/train/3042.jpg 5
-data/dataset/train/3043.jpg 9
-data/dataset/train/3044.jpg 2
-data/dataset/train/3045.jpg 6
-data/dataset/train/3046.jpg 8
-data/dataset/train/3047.jpg 3
-data/dataset/train/3048.jpg 2
-data/dataset/train/3049.jpg 8
-data/dataset/train/3050.jpg 3
-data/dataset/train/3051.jpg 3
-data/dataset/train/3052.jpg 1
-data/dataset/train/3053.jpg 1
-data/dataset/train/3054.jpg 3
-data/dataset/train/3055.jpg 0
-data/dataset/train/3056.jpg 1
-data/dataset/train/3057.jpg 8
-data/dataset/train/3058.jpg 4
-data/dataset/train/3059.jpg 1
-data/dataset/train/3060.jpg 5
-data/dataset/train/3061.jpg 8
-data/dataset/train/3062.jpg 1
-data/dataset/train/3063.jpg 5
-data/dataset/train/3064.jpg 8
-data/dataset/train/3065.jpg 0
-data/dataset/train/3066.jpg 7
-data/dataset/train/3067.jpg 8
-data/dataset/train/3068.jpg 7
-data/dataset/train/3069.jpg 5
-data/dataset/train/3070.jpg 9
-data/dataset/train/3071.jpg 5
-data/dataset/train/3072.jpg 5
-data/dataset/train/3073.jpg 3
-data/dataset/train/3074.jpg 0
-data/dataset/train/3075.jpg 7
-data/dataset/train/3076.jpg 8
-data/dataset/train/3077.jpg 4
-data/dataset/train/3078.jpg 5
-data/dataset/train/3079.jpg 1
-data/dataset/train/3080.jpg 6
-data/dataset/train/3081.jpg 4
-data/dataset/train/3082.jpg 2
-data/dataset/train/3083.jpg 4
-data/dataset/train/3084.jpg 4
-data/dataset/train/3085.jpg 7
-data/dataset/train/3086.jpg 7
-data/dataset/train/3087.jpg 9
-data/dataset/train/3088.jpg 7
-data/dataset/train/3089.jpg 2
-data/dataset/train/3090.jpg 5
-data/dataset/train/3091.jpg 8
-data/dataset/train/3092.jpg 5
-data/dataset/train/3093.jpg 8
-data/dataset/train/3094.jpg 5
-data/dataset/train/3095.jpg 3
-data/dataset/train/3096.jpg 0
-data/dataset/train/3097.jpg 9
-data/dataset/train/3098.jpg 7
-data/dataset/train/3099.jpg 2
-data/dataset/train/3100.jpg 0
-data/dataset/train/3101.jpg 6
-data/dataset/train/3102.jpg 8
-data/dataset/train/3103.jpg 4
-data/dataset/train/3104.jpg 0
-data/dataset/train/3105.jpg 7
-data/dataset/train/3106.jpg 3
-data/dataset/train/3107.jpg 7
-data/dataset/train/3108.jpg 6
-data/dataset/train/3109.jpg 8
-data/dataset/train/3110.jpg 4
-data/dataset/train/3111.jpg 7
-data/dataset/train/3112.jpg 0
-data/dataset/train/3113.jpg 0
-data/dataset/train/3114.jpg 4
-data/dataset/train/3115.jpg 0
-data/dataset/train/3116.jpg 6
-data/dataset/train/3117.jpg 7
-data/dataset/train/3118.jpg 8
-data/dataset/train/3119.jpg 1
-data/dataset/train/3120.jpg 3
-data/dataset/train/3121.jpg 8
-data/dataset/train/3122.jpg 1
-data/dataset/train/3123.jpg 7
-data/dataset/train/3124.jpg 3
-data/dataset/train/3125.jpg 6
-data/dataset/train/3126.jpg 1
-data/dataset/train/3127.jpg 1
-data/dataset/train/3128.jpg 6
-data/dataset/train/3129.jpg 6
-data/dataset/train/3130.jpg 9
-data/dataset/train/3131.jpg 8
-data/dataset/train/3132.jpg 0
-data/dataset/train/3133.jpg 8
-data/dataset/train/3134.jpg 2
-data/dataset/train/3135.jpg 7
-data/dataset/train/3136.jpg 7
-data/dataset/train/3137.jpg 1
-data/dataset/train/3138.jpg 3
-data/dataset/train/3139.jpg 0
-data/dataset/train/3140.jpg 3
-data/dataset/train/3141.jpg 0
-data/dataset/train/3142.jpg 7
-data/dataset/train/3143.jpg 8
-data/dataset/train/3144.jpg 7
-data/dataset/train/3145.jpg 6
-data/dataset/train/3146.jpg 5
-data/dataset/train/3147.jpg 2
-data/dataset/train/3148.jpg 6
-data/dataset/train/3149.jpg 7
-data/dataset/train/3150.jpg 5
-data/dataset/train/3151.jpg 5
-data/dataset/train/3152.jpg 8
-data/dataset/train/3153.jpg 9
-data/dataset/train/3154.jpg 7
-data/dataset/train/3155.jpg 3
-data/dataset/train/3156.jpg 2
-data/dataset/train/3157.jpg 4
-data/dataset/train/3158.jpg 8
-data/dataset/train/3159.jpg 3
-data/dataset/train/3160.jpg 9
-data/dataset/train/3161.jpg 5
-data/dataset/train/3162.jpg 7
-data/dataset/train/3163.jpg 6
-data/dataset/train/3164.jpg 2
-data/dataset/train/3165.jpg 6
-data/dataset/train/3166.jpg 7
-data/dataset/train/3167.jpg 3
-data/dataset/train/3168.jpg 8
-data/dataset/train/3169.jpg 5
-data/dataset/train/3170.jpg 1
-data/dataset/train/3171.jpg 8
-data/dataset/train/3172.jpg 9
-data/dataset/train/3173.jpg 2
-data/dataset/train/3174.jpg 6
-data/dataset/train/3175.jpg 1
-data/dataset/train/3176.jpg 4
-data/dataset/train/3177.jpg 2
-data/dataset/train/3178.jpg 7
-data/dataset/train/3179.jpg 4
-data/dataset/train/3180.jpg 0
-data/dataset/train/3181.jpg 4
-data/dataset/train/3182.jpg 4
-data/dataset/train/3183.jpg 8
-data/dataset/train/3184.jpg 9
-data/dataset/train/3185.jpg 7
-data/dataset/train/3186.jpg 9
-data/dataset/train/3187.jpg 2
-data/dataset/train/3188.jpg 6
-data/dataset/train/3189.jpg 8
-data/dataset/train/3190.jpg 2
-data/dataset/train/3191.jpg 6
-data/dataset/train/3192.jpg 0
-data/dataset/train/3193.jpg 6
-data/dataset/train/3194.jpg 3
-data/dataset/train/3195.jpg 4
-data/dataset/train/3196.jpg 1
-data/dataset/train/3197.jpg 5
-data/dataset/train/3198.jpg 6
-data/dataset/train/3199.jpg 7
-data/dataset/train/3200.jpg 5
-data/dataset/train/3201.jpg 0
-data/dataset/train/3202.jpg 7
-data/dataset/train/3203.jpg 6
-data/dataset/train/3204.jpg 2
-data/dataset/train/3205.jpg 0
-data/dataset/train/3206.jpg 5
-data/dataset/train/3207.jpg 1
-data/dataset/train/3208.jpg 1
-data/dataset/train/3209.jpg 3
-data/dataset/train/3210.jpg 7
-data/dataset/train/3211.jpg 3
-data/dataset/train/3212.jpg 8
-data/dataset/train/3213.jpg 8
-data/dataset/train/3214.jpg 7
-data/dataset/train/3215.jpg 5
-data/dataset/train/3216.jpg 9
-data/dataset/train/3217.jpg 9
-data/dataset/train/3218.jpg 5
-data/dataset/train/3219.jpg 5
-data/dataset/train/3220.jpg 4
-data/dataset/train/3221.jpg 0
-data/dataset/train/3222.jpg 7
-data/dataset/train/3223.jpg 1
-data/dataset/train/3224.jpg 4
-data/dataset/train/3225.jpg 6
-data/dataset/train/3226.jpg 0
-data/dataset/train/3227.jpg 9
-data/dataset/train/3228.jpg 9
-data/dataset/train/3229.jpg 4
-data/dataset/train/3230.jpg 6
-data/dataset/train/3231.jpg 8
-data/dataset/train/3232.jpg 6
-data/dataset/train/3233.jpg 5
-data/dataset/train/3234.jpg 7
-data/dataset/train/3235.jpg 8
-data/dataset/train/3236.jpg 0
-data/dataset/train/3237.jpg 2
-data/dataset/train/3238.jpg 7
-data/dataset/train/3239.jpg 6
-data/dataset/train/3240.jpg 2
-data/dataset/train/3241.jpg 4
-data/dataset/train/3242.jpg 8
-data/dataset/train/3243.jpg 1
-data/dataset/train/3244.jpg 0
-data/dataset/train/3245.jpg 4
-data/dataset/train/3246.jpg 8
-data/dataset/train/3247.jpg 0
-data/dataset/train/3248.jpg 7
-data/dataset/train/3249.jpg 5
-data/dataset/train/3250.jpg 8
-data/dataset/train/3251.jpg 7
-data/dataset/train/3252.jpg 7
-data/dataset/train/3253.jpg 5
-data/dataset/train/3254.jpg 5
-data/dataset/train/3255.jpg 2
-data/dataset/train/3256.jpg 7
-data/dataset/train/3257.jpg 6
-data/dataset/train/3258.jpg 2
-data/dataset/train/3259.jpg 2
-data/dataset/train/3260.jpg 0
-data/dataset/train/3261.jpg 3
-data/dataset/train/3262.jpg 6
-data/dataset/train/3263.jpg 2
-data/dataset/train/3264.jpg 0
-data/dataset/train/3265.jpg 3
-data/dataset/train/3266.jpg 9
-data/dataset/train/3267.jpg 4
-data/dataset/train/3268.jpg 5
-data/dataset/train/3269.jpg 4
-data/dataset/train/3270.jpg 4
-data/dataset/train/3271.jpg 1
-data/dataset/train/3272.jpg 2
-data/dataset/train/3273.jpg 5
-data/dataset/train/3274.jpg 7
-data/dataset/train/3275.jpg 0
-data/dataset/train/3276.jpg 5
-data/dataset/train/3277.jpg 0
-data/dataset/train/3278.jpg 2
-data/dataset/train/3279.jpg 5
-data/dataset/train/3280.jpg 0
-data/dataset/train/3281.jpg 4
-data/dataset/train/3282.jpg 8
-data/dataset/train/3283.jpg 0
-data/dataset/train/3284.jpg 2
-data/dataset/train/3285.jpg 7
-data/dataset/train/3286.jpg 2
-data/dataset/train/3287.jpg 7
-data/dataset/train/3288.jpg 2
-data/dataset/train/3289.jpg 3
-data/dataset/train/3290.jpg 4
-data/dataset/train/3291.jpg 7
-data/dataset/train/3292.jpg 1
-data/dataset/train/3293.jpg 2
-data/dataset/train/3294.jpg 3
-data/dataset/train/3295.jpg 4
-data/dataset/train/3296.jpg 2
-data/dataset/train/3297.jpg 2
-data/dataset/train/3298.jpg 3
-data/dataset/train/3299.jpg 9
-data/dataset/train/3300.jpg 9
-data/dataset/train/3301.jpg 2
-data/dataset/train/3302.jpg 8
-data/dataset/train/3303.jpg 0
-data/dataset/train/3304.jpg 4
-data/dataset/train/3305.jpg 0
-data/dataset/train/3306.jpg 0
-data/dataset/train/3307.jpg 1
-data/dataset/train/3308.jpg 9
-data/dataset/train/3309.jpg 3
-data/dataset/train/3310.jpg 9
-data/dataset/train/3311.jpg 0
-data/dataset/train/3312.jpg 8
-data/dataset/train/3313.jpg 3
-data/dataset/train/3314.jpg 9
-data/dataset/train/3315.jpg 4
-data/dataset/train/3316.jpg 7
-data/dataset/train/3317.jpg 9
-data/dataset/train/3318.jpg 1
-data/dataset/train/3319.jpg 5
-data/dataset/train/3320.jpg 8
-data/dataset/train/3321.jpg 1
-data/dataset/train/3322.jpg 3
-data/dataset/train/3323.jpg 6
-data/dataset/train/3324.jpg 2
-data/dataset/train/3325.jpg 4
-data/dataset/train/3326.jpg 8
-data/dataset/train/3327.jpg 6
-data/dataset/train/3328.jpg 3
-data/dataset/train/3329.jpg 3
-data/dataset/train/3330.jpg 0
-data/dataset/train/3331.jpg 0
-data/dataset/train/3332.jpg 0
-data/dataset/train/3333.jpg 3
-data/dataset/train/3334.jpg 6
-data/dataset/train/3335.jpg 1
-data/dataset/train/3336.jpg 6
-data/dataset/train/3337.jpg 8
-data/dataset/train/3338.jpg 6
-data/dataset/train/3339.jpg 7
-data/dataset/train/3340.jpg 3
-data/dataset/train/3341.jpg 0
-data/dataset/train/3342.jpg 0
-data/dataset/train/3343.jpg 5
-data/dataset/train/3344.jpg 8
-data/dataset/train/3345.jpg 8
-data/dataset/train/3346.jpg 8
-data/dataset/train/3347.jpg 6
-data/dataset/train/3348.jpg 1
-data/dataset/train/3349.jpg 0
-data/dataset/train/3350.jpg 8
-data/dataset/train/3351.jpg 7
-data/dataset/train/3352.jpg 8
-data/dataset/train/3353.jpg 5
-data/dataset/train/3354.jpg 8
-data/dataset/train/3355.jpg 7
-data/dataset/train/3356.jpg 0
-data/dataset/train/3357.jpg 7
-data/dataset/train/3358.jpg 2
-data/dataset/train/3359.jpg 7
-data/dataset/train/3360.jpg 1
-data/dataset/train/3361.jpg 5
-data/dataset/train/3362.jpg 5
-data/dataset/train/3363.jpg 8
-data/dataset/train/3364.jpg 3
-data/dataset/train/3365.jpg 2
-data/dataset/train/3366.jpg 8
-data/dataset/train/3367.jpg 5
-data/dataset/train/3368.jpg 9
-data/dataset/train/3369.jpg 9
-data/dataset/train/3370.jpg 2
-data/dataset/train/3371.jpg 0
-data/dataset/train/3372.jpg 6
-data/dataset/train/3373.jpg 7
-data/dataset/train/3374.jpg 1
-data/dataset/train/3375.jpg 8
-data/dataset/train/3376.jpg 8
-data/dataset/train/3377.jpg 8
-data/dataset/train/3378.jpg 7
-data/dataset/train/3379.jpg 2
-data/dataset/train/3380.jpg 0
-data/dataset/train/3381.jpg 9
-data/dataset/train/3382.jpg 7
-data/dataset/train/3383.jpg 9
-data/dataset/train/3384.jpg 6
-data/dataset/train/3385.jpg 9
-data/dataset/train/3386.jpg 4
-data/dataset/train/3387.jpg 1
-data/dataset/train/3388.jpg 4
-data/dataset/train/3389.jpg 7
-data/dataset/train/3390.jpg 2
-data/dataset/train/3391.jpg 5
-data/dataset/train/3392.jpg 2
-data/dataset/train/3393.jpg 6
-data/dataset/train/3394.jpg 2
-data/dataset/train/3395.jpg 9
-data/dataset/train/3396.jpg 0
-data/dataset/train/3397.jpg 7
-data/dataset/train/3398.jpg 1
-data/dataset/train/3399.jpg 9
-data/dataset/train/3400.jpg 7
-data/dataset/train/3401.jpg 6
-data/dataset/train/3402.jpg 5
-data/dataset/train/3403.jpg 3
-data/dataset/train/3404.jpg 8
-data/dataset/train/3405.jpg 4
-data/dataset/train/3406.jpg 9
-data/dataset/train/3407.jpg 3
-data/dataset/train/3408.jpg 9
-data/dataset/train/3409.jpg 5
-data/dataset/train/3410.jpg 7
-data/dataset/train/3411.jpg 5
-data/dataset/train/3412.jpg 1
-data/dataset/train/3413.jpg 3
-data/dataset/train/3414.jpg 3
-data/dataset/train/3415.jpg 6
-data/dataset/train/3416.jpg 6
-data/dataset/train/3417.jpg 7
-data/dataset/train/3418.jpg 5
-data/dataset/train/3419.jpg 3
-data/dataset/train/3420.jpg 5
-data/dataset/train/3421.jpg 5
-data/dataset/train/3422.jpg 8
-data/dataset/train/3423.jpg 7
-data/dataset/train/3424.jpg 7
-data/dataset/train/3425.jpg 4
-data/dataset/train/3426.jpg 6
-data/dataset/train/3427.jpg 5
-data/dataset/train/3428.jpg 5
-data/dataset/train/3429.jpg 6
-data/dataset/train/3430.jpg 4
-data/dataset/train/3431.jpg 8
-data/dataset/train/3432.jpg 3
-data/dataset/train/3433.jpg 0
-data/dataset/train/3434.jpg 9
-data/dataset/train/3435.jpg 2
-data/dataset/train/3436.jpg 3
-data/dataset/train/3437.jpg 2
-data/dataset/train/3438.jpg 2
-data/dataset/train/3439.jpg 7
-data/dataset/train/3440.jpg 4
-data/dataset/train/3441.jpg 0
-data/dataset/train/3442.jpg 7
-data/dataset/train/3443.jpg 1
-data/dataset/train/3444.jpg 4
-data/dataset/train/3445.jpg 8
-data/dataset/train/3446.jpg 1
-data/dataset/train/3447.jpg 4
-data/dataset/train/3448.jpg 7
-data/dataset/train/3449.jpg 8
-data/dataset/train/3450.jpg 2
-data/dataset/train/3451.jpg 0
-data/dataset/train/3452.jpg 7
-data/dataset/train/3453.jpg 2
-data/dataset/train/3454.jpg 0
-data/dataset/train/3455.jpg 2
-data/dataset/train/3456.jpg 2
-data/dataset/train/3457.jpg 2
-data/dataset/train/3458.jpg 2
-data/dataset/train/3459.jpg 3
-data/dataset/train/3460.jpg 0
-data/dataset/train/3461.jpg 5
-data/dataset/train/3462.jpg 2
-data/dataset/train/3463.jpg 3
-data/dataset/train/3464.jpg 2
-data/dataset/train/3465.jpg 8
-data/dataset/train/3466.jpg 0
-data/dataset/train/3467.jpg 0
-data/dataset/train/3468.jpg 8
-data/dataset/train/3469.jpg 4
-data/dataset/train/3470.jpg 6
-data/dataset/train/3471.jpg 4
-data/dataset/train/3472.jpg 8
-data/dataset/train/3473.jpg 3
-data/dataset/train/3474.jpg 5
-data/dataset/train/3475.jpg 1
-data/dataset/train/3476.jpg 3
-data/dataset/train/3477.jpg 9
-data/dataset/train/3478.jpg 1
-data/dataset/train/3479.jpg 4
-data/dataset/train/3480.jpg 9
-data/dataset/train/3481.jpg 6
-data/dataset/train/3482.jpg 7
-data/dataset/train/3483.jpg 4
-data/dataset/train/3484.jpg 0
-data/dataset/train/3485.jpg 0
-data/dataset/train/3486.jpg 2
-data/dataset/train/3487.jpg 5
-data/dataset/train/3488.jpg 6
-data/dataset/train/3489.jpg 2
-data/dataset/train/3490.jpg 5
-data/dataset/train/3491.jpg 6
-data/dataset/train/3492.jpg 5
-data/dataset/train/3493.jpg 1
-data/dataset/train/3494.jpg 7
-data/dataset/train/3495.jpg 9
-data/dataset/train/3496.jpg 2
-data/dataset/train/3497.jpg 6
-data/dataset/train/3498.jpg 7
-data/dataset/train/3499.jpg 3
-data/dataset/train/3500.jpg 0
-data/dataset/train/3501.jpg 2
-data/dataset/train/3502.jpg 8
-data/dataset/train/3503.jpg 1
-data/dataset/train/3504.jpg 0
-data/dataset/train/3505.jpg 9
-data/dataset/train/3506.jpg 9
-data/dataset/train/3507.jpg 7
-data/dataset/train/3508.jpg 8
-data/dataset/train/3509.jpg 4
-data/dataset/train/3510.jpg 6
-data/dataset/train/3511.jpg 9
-data/dataset/train/3512.jpg 7
-data/dataset/train/3513.jpg 7
-data/dataset/train/3514.jpg 5
-data/dataset/train/3515.jpg 8
-data/dataset/train/3516.jpg 8
-data/dataset/train/3517.jpg 7
-data/dataset/train/3518.jpg 5
-data/dataset/train/3519.jpg 3
-data/dataset/train/3520.jpg 5
-data/dataset/train/3521.jpg 5
-data/dataset/train/3522.jpg 0
-data/dataset/train/3523.jpg 8
-data/dataset/train/3524.jpg 9
-data/dataset/train/3525.jpg 7
-data/dataset/train/3526.jpg 2
-data/dataset/train/3527.jpg 1
-data/dataset/train/3528.jpg 4
-data/dataset/train/3529.jpg 7
-data/dataset/train/3530.jpg 1
-data/dataset/train/3531.jpg 0
-data/dataset/train/3532.jpg 2
-data/dataset/train/3533.jpg 3
-data/dataset/train/3534.jpg 2
-data/dataset/train/3535.jpg 2
-data/dataset/train/3536.jpg 9
-data/dataset/train/3537.jpg 4
-data/dataset/train/3538.jpg 7
-data/dataset/train/3539.jpg 7
-data/dataset/train/3540.jpg 0
-data/dataset/train/3541.jpg 5
-data/dataset/train/3542.jpg 0
-data/dataset/train/3543.jpg 8
-data/dataset/train/3544.jpg 8
-data/dataset/train/3545.jpg 6
-data/dataset/train/3546.jpg 8
-data/dataset/train/3547.jpg 5
-data/dataset/train/3548.jpg 6
-data/dataset/train/3549.jpg 0
-data/dataset/train/3550.jpg 7
-data/dataset/train/3551.jpg 3
-data/dataset/train/3552.jpg 0
-data/dataset/train/3553.jpg 2
-data/dataset/train/3554.jpg 2
-data/dataset/train/3555.jpg 5
-data/dataset/train/3556.jpg 2
-data/dataset/train/3557.jpg 0
-data/dataset/train/3558.jpg 7
-data/dataset/train/3559.jpg 7
-data/dataset/train/3560.jpg 7
-data/dataset/train/3561.jpg 1
-data/dataset/train/3562.jpg 5
-data/dataset/train/3563.jpg 2
-data/dataset/train/3564.jpg 1
-data/dataset/train/3565.jpg 8
-data/dataset/train/3566.jpg 5
-data/dataset/train/3567.jpg 2
-data/dataset/train/3568.jpg 4
-data/dataset/train/3569.jpg 8
-data/dataset/train/3570.jpg 7
-data/dataset/train/3571.jpg 7
-data/dataset/train/3572.jpg 6
-data/dataset/train/3573.jpg 7
-data/dataset/train/3574.jpg 1
-data/dataset/train/3575.jpg 0
-data/dataset/train/3576.jpg 9
-data/dataset/train/3577.jpg 5
-data/dataset/train/3578.jpg 3
-data/dataset/train/3579.jpg 9
-data/dataset/train/3580.jpg 3
-data/dataset/train/3581.jpg 5
-data/dataset/train/3582.jpg 0
-data/dataset/train/3583.jpg 7
-data/dataset/train/3584.jpg 4
-data/dataset/train/3585.jpg 2
-data/dataset/train/3586.jpg 0
-data/dataset/train/3587.jpg 1
-data/dataset/train/3588.jpg 6
-data/dataset/train/3589.jpg 5
-data/dataset/train/3590.jpg 9
-data/dataset/train/3591.jpg 3
-data/dataset/train/3592.jpg 2
-data/dataset/train/3593.jpg 8
-data/dataset/train/3594.jpg 5
-data/dataset/train/3595.jpg 7
-data/dataset/train/3596.jpg 3
-data/dataset/train/3597.jpg 1
-data/dataset/train/3598.jpg 2
-data/dataset/train/3599.jpg 0
-data/dataset/train/3600.jpg 8
-data/dataset/train/3601.jpg 1
-data/dataset/train/3602.jpg 8
-data/dataset/train/3603.jpg 5
-data/dataset/train/3604.jpg 6
-data/dataset/train/3605.jpg 9
-data/dataset/train/3606.jpg 3
-data/dataset/train/3607.jpg 3
-data/dataset/train/3608.jpg 8
-data/dataset/train/3609.jpg 0
-data/dataset/train/3610.jpg 4
-data/dataset/train/3611.jpg 2
-data/dataset/train/3612.jpg 0
-data/dataset/train/3613.jpg 6
-data/dataset/train/3614.jpg 4
-data/dataset/train/3615.jpg 2
-data/dataset/train/3616.jpg 3
-data/dataset/train/3617.jpg 4
-data/dataset/train/3618.jpg 5
-data/dataset/train/3619.jpg 9
-data/dataset/train/3620.jpg 1
-data/dataset/train/3621.jpg 1
-data/dataset/train/3622.jpg 9
-data/dataset/train/3623.jpg 4
-data/dataset/train/3624.jpg 7
-data/dataset/train/3625.jpg 6
-data/dataset/train/3626.jpg 4
-data/dataset/train/3627.jpg 1
-data/dataset/train/3628.jpg 0
-data/dataset/train/3629.jpg 0
-data/dataset/train/3630.jpg 7
-data/dataset/train/3631.jpg 7
-data/dataset/train/3632.jpg 0
-data/dataset/train/3633.jpg 7
-data/dataset/train/3634.jpg 8
-data/dataset/train/3635.jpg 0
-data/dataset/train/3636.jpg 5
-data/dataset/train/3637.jpg 6
-data/dataset/train/3638.jpg 4
-data/dataset/train/3639.jpg 4
-data/dataset/train/3640.jpg 8
-data/dataset/train/3641.jpg 9
-data/dataset/train/3642.jpg 7
-data/dataset/train/3643.jpg 4
-data/dataset/train/3644.jpg 9
-data/dataset/train/3645.jpg 5
-data/dataset/train/3646.jpg 3
-data/dataset/train/3647.jpg 7
-data/dataset/train/3648.jpg 2
-data/dataset/train/3649.jpg 4
-data/dataset/train/3650.jpg 1
-data/dataset/train/3651.jpg 9
-data/dataset/train/3652.jpg 7
-data/dataset/train/3653.jpg 8
-data/dataset/train/3654.jpg 1
-data/dataset/train/3655.jpg 3
-data/dataset/train/3656.jpg 9
-data/dataset/train/3657.jpg 3
-data/dataset/train/3658.jpg 6
-data/dataset/train/3659.jpg 7
-data/dataset/train/3660.jpg 8
-data/dataset/train/3661.jpg 6
-data/dataset/train/3662.jpg 5
-data/dataset/train/3663.jpg 6
-data/dataset/train/3664.jpg 7
-data/dataset/train/3665.jpg 9
-data/dataset/train/3666.jpg 9
-data/dataset/train/3667.jpg 7
-data/dataset/train/3668.jpg 0
-data/dataset/train/3669.jpg 6
-data/dataset/train/3670.jpg 2
-data/dataset/train/3671.jpg 3
-data/dataset/train/3672.jpg 4
-data/dataset/train/3673.jpg 2
-data/dataset/train/3674.jpg 9
-data/dataset/train/3675.jpg 5
-data/dataset/train/3676.jpg 3
-data/dataset/train/3677.jpg 9
-data/dataset/train/3678.jpg 2
-data/dataset/train/3679.jpg 8
-data/dataset/train/3680.jpg 8
-data/dataset/train/3681.jpg 6
-data/dataset/train/3682.jpg 0
-data/dataset/train/3683.jpg 4
-data/dataset/train/3684.jpg 1
-data/dataset/train/3685.jpg 9
-data/dataset/train/3686.jpg 3
-data/dataset/train/3687.jpg 3
-data/dataset/train/3688.jpg 5
-data/dataset/train/3689.jpg 1
-data/dataset/train/3690.jpg 5
-data/dataset/train/3691.jpg 5
-data/dataset/train/3692.jpg 9
-data/dataset/train/3693.jpg 2
-data/dataset/train/3694.jpg 8
-data/dataset/train/3695.jpg 5
-data/dataset/train/3696.jpg 5
-data/dataset/train/3697.jpg 9
-data/dataset/train/3698.jpg 5
-data/dataset/train/3699.jpg 4
-data/dataset/train/3700.jpg 6
-data/dataset/train/3701.jpg 7
-data/dataset/train/3702.jpg 3
-data/dataset/train/3703.jpg 5
-data/dataset/train/3704.jpg 4
-data/dataset/train/3705.jpg 2
-data/dataset/train/3706.jpg 3
-data/dataset/train/3707.jpg 9
-data/dataset/train/3708.jpg 4
-data/dataset/train/3709.jpg 8
-data/dataset/train/3710.jpg 1
-data/dataset/train/3711.jpg 9
-data/dataset/train/3712.jpg 2
-data/dataset/train/3713.jpg 6
-data/dataset/train/3714.jpg 2
-data/dataset/train/3715.jpg 4
-data/dataset/train/3716.jpg 8
-data/dataset/train/3717.jpg 8
-data/dataset/train/3718.jpg 7
-data/dataset/train/3719.jpg 7
-data/dataset/train/3720.jpg 3
-data/dataset/train/3721.jpg 9
-data/dataset/train/3722.jpg 3
-data/dataset/train/3723.jpg 9
-data/dataset/train/3724.jpg 6
-data/dataset/train/3725.jpg 8
-data/dataset/train/3726.jpg 2
-data/dataset/train/3727.jpg 6
-data/dataset/train/3728.jpg 9
-data/dataset/train/3729.jpg 0
-data/dataset/train/3730.jpg 4
-data/dataset/train/3731.jpg 4
-data/dataset/train/3732.jpg 5
-data/dataset/train/3733.jpg 7
-data/dataset/train/3734.jpg 0
-data/dataset/train/3735.jpg 4
-data/dataset/train/3736.jpg 6
-data/dataset/train/3737.jpg 4
-data/dataset/train/3738.jpg 1
-data/dataset/train/3739.jpg 3
-data/dataset/train/3740.jpg 1
-data/dataset/train/3741.jpg 6
-data/dataset/train/3742.jpg 7
-data/dataset/train/3743.jpg 8
-data/dataset/train/3744.jpg 8
-data/dataset/train/3745.jpg 9
-data/dataset/train/3746.jpg 7
-data/dataset/train/3747.jpg 0
-data/dataset/train/3748.jpg 5
-data/dataset/train/3749.jpg 7
-data/dataset/train/3750.jpg 3
-data/dataset/train/3751.jpg 6
-data/dataset/train/3752.jpg 0
-data/dataset/train/3753.jpg 4
-data/dataset/train/3754.jpg 0
-data/dataset/train/3755.jpg 3
-data/dataset/train/3756.jpg 6
-data/dataset/train/3757.jpg 8
-data/dataset/train/3758.jpg 8
-data/dataset/train/3759.jpg 8
-data/dataset/train/3760.jpg 0
-data/dataset/train/3761.jpg 2
-data/dataset/train/3762.jpg 3
-data/dataset/train/3763.jpg 2
-data/dataset/train/3764.jpg 8
-data/dataset/train/3765.jpg 8
-data/dataset/train/3766.jpg 1
-data/dataset/train/3767.jpg 4
-data/dataset/train/3768.jpg 1
-data/dataset/train/3769.jpg 1
-data/dataset/train/3770.jpg 6
-data/dataset/train/3771.jpg 3
-data/dataset/train/3772.jpg 2
-data/dataset/train/3773.jpg 2
-data/dataset/train/3774.jpg 8
-data/dataset/train/3775.jpg 0
-data/dataset/train/3776.jpg 0
-data/dataset/train/3777.jpg 4
-data/dataset/train/3778.jpg 1
-data/dataset/train/3779.jpg 3
-data/dataset/train/3780.jpg 2
-data/dataset/train/3781.jpg 7
-data/dataset/train/3782.jpg 0
-data/dataset/train/3783.jpg 6
-data/dataset/train/3784.jpg 7
-data/dataset/train/3785.jpg 9
-data/dataset/train/3786.jpg 9
-data/dataset/train/3787.jpg 6
-data/dataset/train/3788.jpg 7
-data/dataset/train/3789.jpg 0
-data/dataset/train/3790.jpg 9
-data/dataset/train/3791.jpg 9
-data/dataset/train/3792.jpg 8
-data/dataset/train/3793.jpg 4
-data/dataset/train/3794.jpg 8
-data/dataset/train/3795.jpg 3
-data/dataset/train/3796.jpg 4
-data/dataset/train/3797.jpg 0
-data/dataset/train/3798.jpg 9
-data/dataset/train/3799.jpg 6
-data/dataset/train/3800.jpg 6
-data/dataset/train/3801.jpg 4
-data/dataset/train/3802.jpg 3
-data/dataset/train/3803.jpg 8
-data/dataset/train/3804.jpg 4
-data/dataset/train/3805.jpg 3
-data/dataset/train/3806.jpg 6
-data/dataset/train/3807.jpg 9
-data/dataset/train/3808.jpg 6
-data/dataset/train/3809.jpg 4
-data/dataset/train/3810.jpg 7
-data/dataset/train/3811.jpg 4
-data/dataset/train/3812.jpg 7
-data/dataset/train/3813.jpg 8
-data/dataset/train/3814.jpg 8
-data/dataset/train/3815.jpg 2
-data/dataset/train/3816.jpg 2
-data/dataset/train/3817.jpg 8
-data/dataset/train/3818.jpg 8
-data/dataset/train/3819.jpg 0
-data/dataset/train/3820.jpg 1
-data/dataset/train/3821.jpg 5
-data/dataset/train/3822.jpg 8
-data/dataset/train/3823.jpg 9
-data/dataset/train/3824.jpg 8
+10_left,0
+10_right,0
+13_left,0
+13_right,0
+15_left,1
+15_right,2
+16_left,4
+16_right,4
+17_left,0
+17_right,1
+19_left,0
+19_right,0
+20_left,0
+20_right,0
+21_left,0
+21_right,0
+22_left,0
+22_right,0
+23_left,0
+23_right,0
+25_left,0
+25_right,0
+30_left,1
+30_right,2
+31_left,0
+31_right,0
+33_left,0
+33_right,0
+36_left,1
+36_right,0
+40_left,2
+40_right,0
+41_left,0
+41_right,0
+42_left,0
+42_right,0
+46_left,0
+46_right,0
+47_left,0
+47_right,0
+49_left,0
+49_right,0
+51_left,2
+51_right,0
+52_left,0
+52_right,0
+54_left,2
+54_right,2
+56_left,0
+56_right,0
+57_left,0
+57_right,0
+58_left,0
+58_right,0
+59_left,0
+59_right,0
+60_left,0
+60_right,0
+62_left,0
+62_right,0
+64_left,0
+64_right,0
+65_left,0
+65_right,0
+66_left,0
+66_right,0
+67_left,0
+67_right,0
+70_left,0
+70_right,0
+72_left,0
+72_right,0
+73_left,0
+73_right,0
+74_left,0
+74_right,0
+75_left,0
+75_right,0
+78_left,2
+78_right,2
+79_left,2
+79_right,2
+81_left,0
+81_right,0
+82_left,2
+82_right,2
+84_left,0
+84_right,0
+95_left,0
+95_right,0
+99_left,3
+99_right,3
+100_left,0
+100_right,0
+102_left,0
+102_right,0
+104_left,0
+104_right,0
+108_left,0
+108_right,0
+111_left,0
+111_right,0
+114_left,1
+114_right,1
+115_left,0
+115_right,0
+117_left,0
+117_right,0
+119_left,0
+119_right,0
+122_left,0
+122_right,0
+125_left,0
+125_right,0
+129_left,2
+129_right,2
+140_left,0
+140_right,0
+145_left,0
+145_right,0
+149_left,0
+149_right,0
+155_left,0
+155_right,2
+156_left,0
+156_right,0
+157_left,0
+157_right,0
+159_left,0
+159_right,0
+161_left,0
+161_right,0
+162_left,0
+162_right,0
+163_left,3
+163_right,3
+164_left,0
+164_right,0
+167_left,0
+167_right,0
+169_left,0
+169_right,0
+170_left,0
+170_right,0
+172_left,2
+172_right,2
+174_left,0
+174_right,0
+177_left,0
+177_right,0
+178_left,1
+178_right,1
+179_left,0
+179_right,0
+184_left,2
+184_right,2
+186_left,0
+186_right,0
+190_left,0
+190_right,0
+192_left,2
+192_right,2
+194_left,0
+194_right,0
+195_left,2
+195_right,2
+197_left,0
+197_right,0
+199_left,0
+199_right,0
+203_left,0
+203_right,0
+204_left,0
+204_right,1
+208_left,0
+208_right,0
+210_left,0
+210_right,0
+211_left,0
+211_right,0
+214_left,1
+214_right,0
+216_left,0
+216_right,0
+217_left,4
+217_right,4
+218_left,0
+218_right,0
+219_left,2
+219_right,0
+222_left,0
+222_right,0
+224_left,0
+224_right,0
+225_left,0
+225_right,0
+227_left,1
+227_right,0
+229_left,0
+229_right,2
+231_left,1
+231_right,0
+232_left,0
+232_right,0
+234_left,0
+234_right,0
+236_left,0
+236_right,0
+239_left,2
+239_right,2
+240_left,0
+240_right,1
+241_left,0
+241_right,0
+242_left,0
+242_right,0
+244_left,0
+244_right,0
+249_left,0
+249_right,0
+252_left,0
+252_right,0
+256_left,0
+256_right,0
+257_left,2
+257_right,2
+258_left,0
+258_right,0
+259_left,0
+259_right,0
+260_left,0
+260_right,0
+263_left,0
+263_right,0
+264_left,2
+264_right,2
+274_left,0
+274_right,0
+277_left,0
+277_right,0
+279_left,0
+279_right,0
+280_left,0
+280_right,0
+283_left,2
+283_right,2
+286_left,2
+286_right,2
+288_left,0
+288_right,0
+289_left,0
+289_right,0
+294_left,4
+294_right,4
+299_left,0
+299_right,0
+301_left,0
+301_right,1
+307_left,0
+307_right,0
+310_left,0
+310_right,0
+311_left,0
+311_right,0
+314_left,0
+314_right,0
+316_left,0
+316_right,0
+317_left,2
+317_right,2
+318_left,0
+318_right,0
+320_left,1
+320_right,2
+322_left,0
+322_right,0
+323_left,0
+323_right,0
+325_left,2
+325_right,2
+326_left,4
+326_right,4
+328_left,2
+328_right,3
+329_left,0
+329_right,0
+330_left,0
+330_right,0
+333_left,0
+333_right,0
+337_left,0
+337_right,2
+338_left,0
+338_right,0
+343_left,0
+343_right,0
+348_left,1
+348_right,1
+349_left,0
+349_right,0
+352_left,3
+352_right,3
+355_left,0
+355_right,0
+356_left,0
+356_right,0
+358_left,0
+358_right,0
+360_left,2
+360_right,2
+363_left,0
+363_right,0
+364_left,0
+364_right,0
+367_left,4
+367_right,4
+374_left,0
+374_right,1
+375_left,2
+375_right,0
+376_left,0
+376_right,0
+378_left,2
+378_right,2
+380_left,0
+380_right,0
+381_left,0
+381_right,0
+384_left,0
+384_right,0
+386_left,0
+386_right,0
+389_left,0
+389_right,0
+391_left,2
+391_right,3
+393_left,0
+393_right,1
+395_left,0
+395_right,0
+396_left,2
+396_right,2
+398_left,0
+398_right,0
+399_left,0
+399_right,0
+400_left,0
+400_right,0
+404_left,0
+404_right,0
+405_left,4
+405_right,4
+406_left,4
+406_right,4
+408_left,0
+408_right,0
+410_left,0
+410_right,0
+412_left,0
+412_right,0
+417_left,1
+417_right,1
+418_left,0
+418_right,0
+419_left,2
+419_right,2
+421_left,1
+421_right,0
+427_left,2
+427_right,2
+428_left,0
+428_right,0
+430_left,0
+430_right,0
+431_left,0
+431_right,0
+432_left,0
+432_right,0
+435_left,1
+435_right,1
+437_left,0
+437_right,0
+438_left,0
+438_right,0
+439_left,2
+439_right,4
+444_left,2
+444_right,2
+445_left,0
+445_right,0
+446_left,0
+446_right,0
+448_left,0
+448_right,0
+449_left,0
+449_right,0
+451_left,0
+451_right,0
+456_left,0
+456_right,0
+457_left,0
+457_right,0
+458_left,3
+458_right,4
+460_left,0
+460_right,0
+465_left,0
+465_right,0
+466_left,2
+466_right,2
+467_left,0
+467_right,0
+472_left,0
+472_right,0
+473_left,0
+473_right,0
+482_left,0
+482_right,0
+483_left,0
+483_right,0
+487_left,0
+487_right,1
+489_left,0
+489_right,0
+492_left,0
+492_right,0
+494_left,0
+494_right,0
+495_left,0
+495_right,0
+497_left,0
+497_right,0
+498_left,0
+498_right,0
+502_left,0
+502_right,0
+505_left,0
+505_right,0
+508_left,2
+508_right,2
+509_left,3
+509_right,2
+510_left,2
+510_right,2
+511_left,0
+511_right,0
+513_left,0
+513_right,0
+517_left,0
+517_right,0
+525_left,1
+525_right,1
+527_left,1
+527_right,2
+528_left,0
+528_right,0
+531_left,3
+531_right,3
+532_left,0
+532_right,0
+534_left,2
+534_right,2
+551_left,0
+551_right,0
+554_left,0
+554_right,0
+556_left,0
+556_right,0
+557_left,0
+557_right,0
+558_left,2
+558_right,2
+560_left,1
+560_right,2
+563_left,0
+563_right,0
+566_left,1
+566_right,1
+568_left,0
+568_right,1
+575_left,0
+575_right,0
+579_left,0
+579_right,0
+596_left,0
+596_right,0
+597_left,0
+597_right,0
+599_left,0
+599_right,0
+602_left,0
+602_right,0
+604_left,0
+604_right,0
+607_left,2
+607_right,1
+609_left,3
+609_right,2
+611_left,0
+611_right,0
+613_left,0
+613_right,0
+615_left,0
+615_right,0
+616_left,0
+616_right,0
+617_left,0
+617_right,0
+621_left,0
+621_right,0
+622_left,0
+622_right,0
+623_left,0
+623_right,0
+625_left,0
+625_right,0
+627_left,0
+627_right,0
+632_left,0
+632_right,0
+634_left,0
+634_right,0
+636_left,0
+636_right,0
+639_left,2
+639_right,0
+641_left,0
+641_right,0
+642_left,0
+642_right,0
+643_left,0
+643_right,0
+644_left,0
+644_right,0
+645_left,0
+645_right,0
+650_left,0
+650_right,0
+660_left,2
+660_right,2
+662_left,0
+662_right,0
+666_left,0
+666_right,0
+668_left,0
+668_right,0
+669_left,0
+669_right,1
+670_left,4
+670_right,4
+673_left,0
+673_right,0
+677_left,0
+677_right,0
+678_left,0
+678_right,0
+679_left,3
+679_right,2
+681_left,2
+681_right,2
+682_left,0
+682_right,0
+685_left,2
+685_right,2
+686_left,0
+686_right,0
+687_left,3
+687_right,3
+690_left,0
+690_right,0
+694_left,0
+694_right,0
+696_left,1
+696_right,2
+698_left,0
+698_right,0
+700_left,0
+700_right,0
+702_left,0
+702_right,0
+703_left,0
+703_right,0
+704_left,0
+704_right,0
+706_left,0
+706_right,0
+710_left,0
+710_right,0
+715_left,2
+715_right,2
+717_left,2
+717_right,2
+721_left,0
+721_right,0
+723_left,0
+723_right,0
+728_left,0
+728_right,1
+731_left,0
+731_right,0
+732_left,0
+732_right,0
+733_left,0
+733_right,0
+734_left,0
+734_right,0
+735_left,0
+735_right,0
+736_left,0
+736_right,0
+739_left,0
+739_right,0
+740_left,0
+740_right,0
+743_left,0
+743_right,0
+745_left,0
+745_right,0
+747_left,0
+747_right,0
+752_left,2
+752_right,2
+754_left,0
+754_right,0
+760_left,0
+760_right,0
+761_left,2
+761_right,0
+762_left,0
+762_right,0
+765_left,0
+765_right,0
+766_left,1
+766_right,1
+768_left,0
+768_right,0
+773_left,0
+773_right,0
+780_left,0
+780_right,0
+783_left,0
+783_right,0
+784_left,0
+784_right,0
+787_left,0
+787_right,0
+791_left,0
+791_right,0
+792_left,0
+792_right,0
+793_left,0
+793_right,0
+796_left,0
+796_right,0
+799_left,0
+799_right,0
+800_left,0
+800_right,0
+802_left,0
+802_right,0
+803_left,0
+803_right,0
+805_left,0
+805_right,0
+810_left,0
+810_right,0
+812_left,0
+812_right,0
+814_left,0
+814_right,0
+818_left,2
+818_right,0
+819_left,0
+819_right,0
+820_left,2
+820_right,2
+825_left,0
+825_right,0
+829_left,2
+829_right,2
+831_left,0
+831_right,0
+838_left,0
+838_right,0
+839_left,0
+839_right,0
+842_left,0
+842_right,0
+844_left,0
+844_right,1
+845_left,0
+845_right,0
+851_left,0
+851_right,0
+857_left,2
+857_right,0
+862_left,0
+862_right,0
+863_left,0
+863_right,0
+865_left,2
+865_right,2
+866_left,0
+866_right,0
+869_left,1
+869_right,1
+876_left,0
+876_right,0
+877_left,2
+877_right,2
+878_left,2
+878_right,0
+879_left,0
+879_right,0
+880_left,0
+880_right,0
+885_left,0
+885_right,0
+886_left,0
+886_right,0
+897_left,0
+897_right,0
+899_left,0
+899_right,0
+904_left,2
+904_right,0
+905_left,2
+905_right,2
+906_left,2
+906_right,2
+909_left,0
+909_right,0
+910_left,0
+910_right,0
+912_left,0
+912_right,0
+914_left,0
+914_right,0
+916_left,2
+916_right,0
+917_left,0
+917_right,0
+921_left,0
+921_right,0
+925_left,0
+925_right,0
+928_left,2
+928_right,2
+929_left,0
+929_right,0
+930_left,0
+930_right,0
+931_left,0
+931_right,0
+932_left,3
+932_right,3
+934_left,2
+934_right,2
+935_left,0
+935_right,0
+936_left,4
+936_right,4
+939_left,0
+939_right,0
+940_left,0
+940_right,0
+941_left,0
+941_right,0
+943_left,0
+943_right,0
+945_left,2
+945_right,2
+947_left,2
+947_right,0
+953_left,0
+953_right,0
+958_left,0
+958_right,0
+959_left,0
+959_right,0
+960_left,2
+960_right,2
+963_left,0
+963_right,0
+966_left,0
+966_right,0
+967_left,0
+967_right,0
+968_left,0
+968_right,0
+969_left,0
+969_right,0
+970_left,0
+970_right,0
+971_left,2
+971_right,1
+977_left,0
+977_right,0
+978_left,1
+978_right,1
+979_left,0
+979_right,0
+980_left,0
+980_right,0
+983_left,0
+983_right,0
+985_left,0
+985_right,2
+986_left,4
+986_right,2
+987_left,0
+987_right,0
+990_left,0
+990_right,0
+992_left,1
+992_right,0
+994_left,0
+994_right,0
+997_left,0
+997_right,1
+998_left,0
+998_right,0
+1000_left,0
+1000_right,0
+1002_left,3
+1002_right,2
+1008_left,3
+1008_right,3
+1011_left,0
+1011_right,0
+1012_left,0
+1012_right,0
+1017_left,0
+1017_right,0
+1020_left,1
+1020_right,1
+1021_left,0
+1021_right,0
+1024_left,0
+1024_right,0
+1027_left,1
+1027_right,0
+1029_left,0
+1029_right,0
+1030_left,2
+1030_right,2
+1032_left,2
+1032_right,2
+1034_left,2
+1034_right,2
+1035_left,0
+1035_right,0
+1036_left,1
+1036_right,1
+1037_left,0
+1037_right,2
+1040_left,0
+1040_right,0
+1041_left,0
+1041_right,0
+1042_left,0
+1042_right,0
+1043_left,1
+1043_right,0
+1044_left,0
+1044_right,0
+1047_left,0
+1047_right,0
+1049_left,2
+1049_right,2
+1050_left,2
+1050_right,2
+1051_left,0
+1051_right,0
+1052_left,0
+1052_right,0
+1055_left,0
+1055_right,0
+1056_left,0
+1056_right,0
+1057_left,0
+1057_right,0
+1058_left,0
+1058_right,0
+1059_left,0
+1059_right,0
+1061_left,0
+1061_right,0
+1070_left,0
+1070_right,0
+1073_left,0
+1073_right,0
+1075_left,2
+1075_right,0
+1076_left,2
+1076_right,0
+1077_left,1
+1077_right,1
+1084_left,4
+1084_right,4
+1088_left,0
+1088_right,0
+1092_left,0
+1092_right,0
+1093_left,0
+1093_right,0
+1096_left,0
+1096_right,0
+1098_left,1
+1098_right,2
+1099_left,3
+1099_right,4
+1100_left,1
+1100_right,1
+1102_left,0
+1102_right,0
+1107_left,2
+1107_right,2
+1111_left,2
+1111_right,2
+1113_left,0
+1113_right,0
+1116_left,0
+1116_right,0
+1119_left,0
+1119_right,2
+1120_left,0
+1120_right,0
+1123_left,0
+1123_right,0
+1127_left,0
+1127_right,0
+1131_left,0
+1131_right,0
+1133_left,0
+1133_right,0
+1135_left,0
+1135_right,0
+1136_left,0
+1136_right,0
+1138_left,4
+1138_right,4
+1139_left,1
+1139_right,0
+1140_left,2
+1140_right,2
+1142_left,0
+1142_right,2
+1144_left,0
+1144_right,0
+1145_left,1
+1145_right,2
+1146_left,0
+1146_right,0
+1147_left,0
+1147_right,0
+1152_left,0
+1152_right,2
+1161_left,0
+1161_right,0
+1162_left,3
+1162_right,3
+1165_left,0
+1165_right,0
+1167_left,2
+1167_right,2
+1170_left,0
+1170_right,0
+1172_left,0
+1172_right,0
+1177_left,3
+1177_right,3
+1178_left,2
+1178_right,2
+1179_left,0
+1179_right,0
+1180_left,0
+1180_right,0
+1182_left,0
+1182_right,0
+1188_left,0
+1188_right,0
+1192_left,0
+1192_right,0
+1196_left,3
+1196_right,3
+1197_left,0
+1197_right,0
+1199_left,0
+1199_right,0
+1202_left,0
+1202_right,0
+1204_left,2
+1204_right,2
+1206_left,0
+1206_right,0
+1211_left,0
+1211_right,0
+1212_left,0
+1212_right,0
+1222_left,0
+1222_right,0
+1226_left,1
+1226_right,0
+1228_left,0
+1228_right,0
+1233_left,2
+1233_right,2
+1240_left,0
+1240_right,0
+1242_left,0
+1242_right,0
+1255_left,0
+1255_right,0
+1259_left,2
+1259_right,2
+1260_left,0
+1260_right,0
+1266_left,1
+1266_right,1
+1267_left,0
+1267_right,0
+1269_left,0
+1269_right,0
+1272_left,0
+1272_right,0
+1275_left,0
+1275_right,0
+1277_left,1
+1277_right,0
+1282_left,0
+1282_right,0
+1283_left,1
+1283_right,0
+1285_left,0
+1285_right,0
+1289_left,0
+1289_right,0
+1290_left,2
+1290_right,2
+1292_left,0
+1292_right,0
+1294_left,0
+1294_right,0
+1296_left,2
+1296_right,2
+1297_left,0
+1297_right,0
+1299_left,0
+1299_right,0
+1302_left,0
+1302_right,0
+1305_left,0
+1305_right,0
+1306_left,0
+1306_right,0
+1307_left,0
+1307_right,0
+1309_left,1
+1309_right,0
+1312_left,0
+1312_right,0
+1313_left,0
+1313_right,0
+1316_left,0
+1316_right,0
+1318_left,0
+1318_right,0
+1322_left,0
+1322_right,0
+1324_left,0
+1324_right,2
+1330_left,0
+1330_right,0
+1332_left,0
+1332_right,0
+1333_left,0
+1333_right,0
+1334_left,0
+1334_right,0
+1336_left,0
+1336_right,0
+1343_left,1
+1343_right,1
+1346_left,0
+1346_right,0
+1347_left,0
+1347_right,0
+1348_left,0
+1348_right,0
+1349_left,0
+1349_right,0
+1350_left,4
+1350_right,3
+1351_left,0
+1351_right,0
+1353_left,0
+1353_right,0
+1356_left,0
+1356_right,0
+1357_left,0
+1357_right,0
+1358_left,0
+1358_right,0
+1361_left,0
+1361_right,0
+1362_left,2
+1362_right,2
+1363_left,0
+1363_right,0
+1367_left,2
+1367_right,2
+1369_left,1
+1369_right,1
+1370_left,0
+1370_right,0
+1373_left,0
+1373_right,0
+1374_left,0
+1374_right,1
+1377_left,0
+1377_right,0
+1378_left,0
+1378_right,0
+1387_left,0
+1387_right,0
+1388_left,0
+1388_right,0
+1391_left,3
+1391_right,2
+1393_left,0
+1393_right,0
+1394_left,0
+1394_right,0
+1395_left,0
+1395_right,0
+1396_left,0
+1396_right,0
+1399_left,0
+1399_right,0
+1407_left,2
+1407_right,2
+1408_left,0
+1408_right,0
+1409_left,1
+1409_right,0
+1411_left,0
+1411_right,0
+1412_left,2
+1412_right,0
+1418_left,0
+1418_right,0
+1419_left,2
+1419_right,2
+1420_left,3
+1420_right,3
+1422_left,0
+1422_right,0
+1424_left,0
+1424_right,0
+1425_left,0
+1425_right,0
+1427_left,0
+1427_right,0
+1429_left,0
+1429_right,0
+1430_left,4
+1430_right,4
+1431_left,0
+1431_right,0
+1432_left,0
+1432_right,0
+1439_left,0
+1439_right,0
+1444_left,2
+1444_right,2
+1446_left,0
+1446_right,0
+1449_left,0
+1449_right,0
+1452_left,0
+1452_right,0
+1454_left,1
+1454_right,0
+1469_left,2
+1469_right,2
+1471_left,3
+1471_right,3
+1475_left,2
+1475_right,2
+1478_left,0
+1478_right,0
+1480_left,0
+1480_right,0
+1481_left,0
+1481_right,0
+1487_left,2
+1487_right,0
+1488_left,0
+1488_right,0
+1492_left,0
+1492_right,0
+1493_left,0
+1493_right,0
+1495_left,2
+1495_right,2
+1496_left,2
+1496_right,2
+1497_left,0
+1497_right,0
+1499_left,0
+1499_right,0
+1500_left,2
+1500_right,0
+1501_left,2
+1501_right,2
+1502_left,0
+1502_right,0
+1504_left,0
+1504_right,0
+1505_left,2
+1505_right,0
+1506_left,0
+1506_right,0
+1507_left,0
+1507_right,0
+1508_left,0
+1508_right,0
+1509_left,0
+1509_right,2
+1513_left,0
+1513_right,0
+1514_left,0
+1514_right,0
+1516_left,0
+1516_right,0
+1520_left,1
+1520_right,1
+1524_left,0
+1524_right,0
+1526_left,2
+1526_right,0
+1527_left,2
+1527_right,0
+1528_left,0
+1528_right,0
+1530_left,2
+1530_right,2
+1532_left,1
+1532_right,0
+1536_left,2
+1536_right,2
+1540_left,2
+1540_right,1
+1541_left,2
+1541_right,2
+1544_left,2
+1544_right,1
+1550_left,0
+1550_right,0
+1551_left,0
+1551_right,0
+1552_left,2
+1552_right,2
+1557_left,0
+1557_right,2
+1563_left,0
+1563_right,0
+1569_left,0
+1569_right,0
+1570_left,1
+1570_right,0
+1574_left,0
+1574_right,0
+1579_left,0
+1579_right,0
+1586_left,0
+1586_right,0
+1588_left,0
+1588_right,0
+1589_left,0
+1589_right,0
+1592_left,1
+1592_right,1
+1595_left,0
+1595_right,0
+1596_left,0
+1596_right,0
+1599_left,2
+1599_right,2
+1600_left,0
+1600_right,0
+1607_left,2
+1607_right,2
+1608_left,0
+1608_right,0
+1609_left,0
+1609_right,0
+1610_left,0
+1610_right,0
+1611_left,0
+1611_right,0
+1614_left,2
+1614_right,2
+1624_left,0
+1624_right,0
+1630_left,0
+1630_right,0
+1632_left,2
+1632_right,2
+1634_left,0
+1634_right,0
+1636_left,2
+1636_right,2
+1638_left,0
+1638_right,0
+1639_left,3
+1639_right,3
+1640_left,3
+1640_right,2
+1641_left,0
+1641_right,0
+1643_left,0
+1643_right,0
+1649_left,0
+1649_right,0
+1650_left,0
+1650_right,0
+1651_left,0
+1651_right,0
+1655_left,0
+1655_right,0
+1658_left,1
+1658_right,0
+1659_left,0
+1659_right,0
+1660_left,0
+1660_right,0
+1663_left,4
+1663_right,4
+1666_left,1
+1666_right,1
+1667_left,0
+1667_right,0
+1669_left,0
+1669_right,1
+1672_left,0
+1672_right,0
+1673_left,0
+1673_right,0
+1674_left,0
+1674_right,0
+1675_left,2
+1675_right,2
+1678_left,0
+1678_right,0
+1680_left,0
+1680_right,0
+1687_left,2
+1687_right,2
+1688_left,0
+1688_right,0
+1689_left,0
+1689_right,1
+1696_left,0
+1696_right,0
+1698_left,0
+1698_right,0
+1702_left,0
+1702_right,0
+1706_left,0
+1706_right,0
+1710_left,0
+1710_right,0
+1713_left,0
+1713_right,0
+1718_left,0
+1718_right,0
+1719_left,0
+1719_right,0
+1722_left,0
+1722_right,0
+1724_left,0
+1724_right,0
+1727_left,0
+1727_right,0
+1732_left,2
+1732_right,2
+1733_left,0
+1733_right,0
+1736_left,0
+1736_right,0
+1737_left,0
+1737_right,0
+1741_left,0
+1741_right,0
+1742_left,0
+1742_right,0
+1743_left,2
+1743_right,2
+1744_left,0
+1744_right,0
+1749_left,0
+1749_right,0
+1751_left,0
+1751_right,0
+1752_left,2
+1752_right,2
+1754_left,0
+1754_right,0
+1756_left,0
+1756_right,0
+1759_left,0
+1759_right,0
+1763_left,0
+1763_right,0
+1764_left,0
+1764_right,0
+1765_left,0
+1765_right,0
+1766_left,0
+1766_right,0
+1769_left,0
+1769_right,0
+1771_left,0
+1771_right,0
+1772_left,0
+1772_right,0
+1775_left,0
+1775_right,0
+1776_left,1
+1776_right,1
+1777_left,0
+1777_right,0
+1779_left,0
+1779_right,2
+1785_left,1
+1785_right,0
+1786_left,0
+1786_right,0
+1793_left,0
+1793_right,0
+1799_left,0
+1799_right,0
+1801_left,0
+1801_right,0
+1802_left,0
+1802_right,0
+1803_left,0
+1803_right,0
+1808_left,0
+1808_right,0
+1810_left,0
+1810_right,0
+1817_left,0
+1817_right,1
+1823_left,0
+1823_right,0
+1826_left,0
+1826_right,0
+1827_left,2
+1827_right,2
+1831_left,0
+1831_right,2
+1832_left,0
+1832_right,0
+1833_left,0
+1833_right,1
+1835_left,0
+1835_right,2
+1836_left,0
+1836_right,0
+1839_left,0
+1839_right,0
+1847_left,0
+1847_right,0
+1849_left,0
+1849_right,0
+1851_left,1
+1851_right,2
+1853_left,0
+1853_right,1
+1855_left,0
+1855_right,0
+1856_left,1
+1856_right,1
+1859_left,0
+1859_right,0
+1862_left,0
+1862_right,0
+1867_left,1
+1867_right,1
+1868_left,0
+1868_right,0
+1869_left,0
+1869_right,0
+1872_left,0
+1872_right,0
+1873_left,2
+1873_right,2
+1878_left,0
+1878_right,0
+1880_left,0
+1880_right,0
+1881_left,0
+1881_right,0
+1886_left,0
+1886_right,0
+1887_left,0
+1887_right,0
+1889_left,0
+1889_right,0
+1893_left,2
+1893_right,2
+1905_left,0
+1905_right,0
+1906_left,2
+1906_right,2
+1907_left,0
+1907_right,0
+1910_left,0
+1910_right,0
+1914_left,0
+1914_right,0
+1915_left,0
+1915_right,0
+1916_left,0
+1916_right,0
+1919_left,3
+1919_right,2
+1920_left,2
+1920_right,2
+1926_left,2
+1926_right,2
+1928_left,2
+1928_right,2
+1929_left,0
+1929_right,0
+1932_left,1
+1932_right,1
+1933_left,1
+1933_right,2
+1936_left,0
+1936_right,0
+1940_left,0
+1940_right,0
+1941_left,4
+1941_right,2
+1943_left,0
+1943_right,0
+1947_left,2
+1947_right,2
+1953_left,0
+1953_right,0
+1955_left,0
+1955_right,0
+1959_left,0
+1959_right,0
+1960_left,0
+1960_right,2
+1965_left,2
+1965_right,2
+1967_left,0
+1967_right,0
+1971_left,0
+1971_right,0
+1972_left,0
+1972_right,0
+1974_left,0
+1974_right,0
+1977_left,0
+1977_right,0
+1981_left,2
+1981_right,0
+1982_left,0
+1982_right,0
+1985_left,0
+1985_right,0
+1986_left,0
+1986_right,1
+1987_left,2
+1987_right,2
+1988_left,0
+1988_right,0
+1991_left,0
+1991_right,0
+1997_left,0
+1997_right,0
+1999_left,1
+1999_right,0
+2000_left,0
+2000_right,0
+2001_left,2
+2001_right,2
+2007_left,0
+2007_right,0
+2008_left,0
+2008_right,0
+2010_left,2
+2010_right,1
+2011_left,2
+2011_right,2
+2014_left,0
+2014_right,0
+2015_left,0
+2015_right,0
+2016_left,4
+2016_right,3
+2029_left,0
+2029_right,2
+2030_left,2
+2030_right,0
+2031_left,2
+2031_right,4
+2034_left,1
+2034_right,1
+2035_left,0
+2035_right,0
+2036_left,0
+2036_right,0
+2041_left,0
+2041_right,0
+2046_left,0
+2046_right,0
+2047_left,2
+2047_right,2
+2048_left,0
+2048_right,0
+2053_left,0
+2053_right,2
+2054_left,0
+2054_right,0
+2058_left,0
+2058_right,0
+2059_left,0
+2059_right,0
+2062_left,0
+2062_right,0
+2063_left,0
+2063_right,0
+2065_left,2
+2065_right,2
+2066_left,0
+2066_right,0
+2071_left,0
+2071_right,0
+2077_left,0
+2077_right,0
+2078_left,0
+2078_right,0
+2079_left,0
+2079_right,0
+2080_left,0
+2080_right,0
+2081_left,2
+2081_right,2
+2084_left,0
+2084_right,0
+2086_left,0
+2086_right,0
+2087_left,0
+2087_right,0
+2092_left,0
+2092_right,0
+2094_left,2
+2094_right,2
+2095_left,0
+2095_right,0
+2096_left,0
+2096_right,0
+2097_left,0
+2097_right,0
+2099_left,0
+2099_right,2
+2102_left,0
+2102_right,0
+2106_left,1
+2106_right,1
+2107_left,2
+2107_right,2
+2108_left,0
+2108_right,0
+2110_left,0
+2110_right,0
+2113_left,0
+2113_right,0
+2117_left,0
+2117_right,0
+2121_left,0
+2121_right,0
+2123_left,0
+2123_right,0
+2124_left,0
+2124_right,0
+2125_left,0
+2125_right,0
+2129_left,1
+2129_right,1
+2131_left,2
+2131_right,0
+2132_left,2
+2132_right,3
+2133_left,0
+2133_right,0
+2134_left,0
+2134_right,0
+2136_left,0
+2136_right,0
+2138_left,0
+2138_right,0
+2139_left,0
+2139_right,0
+2140_left,0
+2140_right,0
+2141_left,0
+2141_right,0
+2144_left,0
+2144_right,0
+2149_left,0
+2149_right,0
+2155_left,1
+2155_right,0
+2157_left,0
+2157_right,0
+2159_left,0
+2159_right,0
+2161_left,1
+2161_right,2
+2163_left,0
+2163_right,0
+2164_left,0
+2164_right,0
+2168_left,1
+2168_right,0
+2169_left,0
+2169_right,0
+2174_left,0
+2174_right,0
+2179_left,0
+2179_right,0
+2180_left,2
+2180_right,2
+2181_left,0
+2181_right,0
+2182_left,0
+2182_right,0
+2185_left,0
+2185_right,0
+2188_left,0
+2188_right,0
+2190_left,0
+2190_right,0
+2191_left,0
+2191_right,0
+2192_left,0
+2192_right,1
+2194_left,2
+2194_right,0
+2199_left,0
+2199_right,0
+2200_left,0
+2200_right,0
+2203_left,0
+2203_right,0
+2204_left,0
+2204_right,0
+2205_left,2
+2205_right,2
+2217_left,0
+2217_right,0
+2218_left,0
+2218_right,0
+2222_left,0
+2222_right,0
+2223_left,0
+2223_right,0
+2226_left,0
+2226_right,0
+2227_left,0
+2227_right,0
+2228_left,0
+2228_right,0
+2229_left,0
+2229_right,0
+2230_left,0
+2230_right,0
+2231_left,0
+2231_right,0
+2232_left,0
+2232_right,2
+2233_left,1
+2233_right,1
+2236_left,0
+2236_right,0
+2239_left,0
+2239_right,0
+2243_left,0
+2243_right,0
+2246_left,0
+2246_right,0
+2247_left,0
+2247_right,0
+2248_left,0
+2248_right,0
+2249_left,2
+2249_right,2
+2252_left,0
+2252_right,0
+2256_left,0
+2256_right,0
+2257_left,0
+2257_right,0
+2258_left,0
+2258_right,0
+2261_left,0
+2261_right,1
+2262_left,0
+2262_right,0
+2264_left,0
+2264_right,2
+2270_left,0
+2270_right,0
+2272_left,2
+2272_right,2
+2273_left,0
+2273_right,2
+2274_left,0
+2274_right,0
+2275_left,3
+2275_right,2
+2284_left,0
+2284_right,0
+2285_left,0
+2285_right,0
+2286_left,0
+2286_right,0
+2288_left,0
+2288_right,0
+2290_left,0
+2290_right,0
+2294_left,1
+2294_right,1
+2296_left,0
+2296_right,0
+2297_left,0
+2297_right,0
+2302_left,0
+2302_right,0
+2303_left,0
+2303_right,0
+2305_left,0
+2305_right,0
+2307_left,0
+2307_right,0
+2315_left,0
+2315_right,2
+2318_left,0
+2318_right,1
+2320_left,0
+2320_right,0
+2322_left,0
+2322_right,0
+2323_left,0
+2323_right,0
+2329_left,0
+2329_right,0
+2332_left,0
+2332_right,0
+2334_left,0
+2334_right,0
+2336_left,0
+2336_right,0
+2337_left,0
+2337_right,0
+2338_left,4
+2338_right,4
+2339_left,0
+2339_right,0
+2341_left,0
+2341_right,0
+2343_left,0
+2343_right,0
+2350_left,0
+2350_right,0
+2351_left,0
+2351_right,0
+2353_left,0
+2353_right,0
+2354_left,0
+2354_right,0
+2355_left,0
+2355_right,0
+2356_left,0
+2356_right,0
+2357_left,2
+2357_right,2
+2358_left,0
+2358_right,0
+2359_left,2
+2359_right,1
+2361_left,0
+2361_right,0
+2362_left,0
+2362_right,0
+2363_left,0
+2363_right,0
+2368_left,0
+2368_right,0
+2369_left,2
+2369_right,0
+2372_left,0
+2372_right,0
+2378_left,0
+2378_right,0
+2379_left,0
+2379_right,0
+2382_left,1
+2382_right,1
+2384_left,0
+2384_right,0
+2389_left,0
+2389_right,0
+2399_left,0
+2399_right,0
+2401_left,0
+2401_right,0
+2404_left,0
+2404_right,0
+2405_left,0
+2405_right,0
+2407_left,2
+2407_right,2
+2408_left,0
+2408_right,0
+2413_left,0
+2413_right,0
+2418_left,0
+2418_right,0
+2421_left,0
+2421_right,0
+2423_left,1
+2423_right,1
+2424_left,2
+2424_right,2
+2425_left,0
+2425_right,0
+2430_left,1
+2430_right,0
+2432_left,0
+2432_right,0
+2433_left,0
+2433_right,1
+2435_left,0
+2435_right,0
+2436_left,0
+2436_right,0
+2437_left,0
+2437_right,0
+2439_left,0
+2439_right,0
+2441_left,0
+2441_right,0
+2443_left,0
+2443_right,0
+2447_left,2
+2447_right,2
+2448_left,0
+2448_right,0
+2450_left,0
+2450_right,0
+2451_left,0
+2451_right,0
+2453_left,2
+2453_right,2
+2458_left,0
+2458_right,0
+2462_left,0
+2462_right,0
+2465_left,0
+2465_right,0
+2468_left,2
+2468_right,2
+2470_left,2
+2470_right,2
+2479_left,0
+2479_right,0
+2483_left,0
+2483_right,0
+2488_left,1
+2488_right,1
+2489_left,2
+2489_right,2
+2491_left,0
+2491_right,0
+2495_left,0
+2495_right,1
+2496_left,4
+2496_right,3
+2497_left,0
+2497_right,0
+2500_left,0
+2500_right,0
+2502_left,0
+2502_right,0
+2503_left,0
+2503_right,0
+2505_left,0
+2505_right,0
+2508_left,2
+2508_right,2
+2515_left,0
+2515_right,0
+2516_left,0
+2516_right,1
+2517_left,0
+2517_right,0
+2521_left,0
+2521_right,0
+2525_left,1
+2525_right,0
+2528_left,0
+2528_right,0
+2529_left,0
+2529_right,0
+2530_left,0
+2530_right,0
+2531_left,1
+2531_right,1
+2532_left,3
+2532_right,3
+2533_left,0
+2533_right,0
+2534_left,0
+2534_right,0
+2535_left,0
+2535_right,0
+2536_left,2
+2536_right,2
+2537_left,0
+2537_right,0
+2539_left,0
+2539_right,0
+2541_left,0
+2541_right,0
+2544_left,0
+2544_right,0
+2545_left,2
+2545_right,2
+2548_left,2
+2548_right,2
+2549_left,0
+2549_right,0
+2550_left,0
+2550_right,0
+2551_left,0
+2551_right,0
+2553_left,2
+2553_right,2
+2554_left,0
+2554_right,0
+2556_left,0
+2556_right,0
+2558_left,0
+2558_right,0
+2561_left,2
+2561_right,2
+2562_left,0
+2562_right,0
+2564_left,0
+2564_right,0
+2566_left,0
+2566_right,0
+2576_left,0
+2576_right,0
+2577_left,3
+2577_right,3
+2578_left,0
+2578_right,0
+2582_left,0
+2582_right,0
+2588_left,0
+2588_right,0
+2589_left,0
+2589_right,0
+2593_left,0
+2593_right,0
+2597_left,0
+2597_right,0
+2598_left,0
+2598_right,0
+2599_left,0
+2599_right,0
+2604_left,0
+2604_right,0
+2605_left,0
+2605_right,0
+2606_left,0
+2606_right,0
+2607_left,0
+2607_right,0
+2610_left,2
+2610_right,2
+2613_left,2
+2613_right,2
+2622_left,0
+2622_right,0
+2623_left,2
+2623_right,1
+2628_left,2
+2628_right,2
+2629_left,1
+2629_right,1
+2630_left,0
+2630_right,0
+2631_left,0
+2631_right,0
+2633_left,0
+2633_right,0
+2635_left,0
+2635_right,0
+2640_left,0
+2640_right,2
+2641_left,0
+2641_right,0
+2642_left,0
+2642_right,0
+2643_left,0
+2643_right,0
+2646_left,0
+2646_right,0
+2648_left,2
+2648_right,2
+2650_left,0
+2650_right,0
+2652_left,2
+2652_right,0
+2655_left,0
+2655_right,0
+2656_left,0
+2656_right,0
+2660_left,0
+2660_right,0
+2662_left,0
+2662_right,0
+2664_left,0
+2664_right,0
+2666_left,0
+2666_right,0
+2668_left,2
+2668_right,2
+2669_left,0
+2669_right,0
+2670_left,0
+2670_right,2
+2675_left,0
+2675_right,0
+2676_left,0
+2676_right,0
+2677_left,0
+2677_right,0
+2678_left,0
+2678_right,0
+2683_left,0
+2683_right,0
+2684_left,0
+2684_right,0
+2687_left,0
+2687_right,0
+2689_left,0
+2689_right,0
+2691_left,1
+2691_right,0
+2693_left,0
+2693_right,0
+2695_left,0
+2695_right,0
+2697_left,0
+2697_right,0
+2701_left,0
+2701_right,0
+2702_left,0
+2702_right,0
+2703_left,0
+2703_right,0
+2705_left,2
+2705_right,0
+2706_left,2
+2706_right,2
+2710_left,0
+2710_right,0
+2712_left,0
+2712_right,0
+2714_left,2
+2714_right,2
+2721_left,0
+2721_right,0
+2724_left,0
+2724_right,0
+2726_left,0
+2726_right,0
+2728_left,0
+2728_right,0
+2729_left,2
+2729_right,2
+2731_left,0
+2731_right,0
+2734_left,0
+2734_right,0
+2735_left,0
+2735_right,0
+2736_left,0
+2736_right,0
+2743_left,0
+2743_right,0
+2744_left,0
+2744_right,0
+2749_left,0
+2749_right,0
+2754_left,0
+2754_right,0
+2755_left,0
+2755_right,0
+2756_left,2
+2756_right,2
+2758_left,0
+2758_right,0
+2765_left,0
+2765_right,0
+2767_left,3
+2767_right,3
+2768_left,0
+2768_right,0
+2774_left,0
+2774_right,0
+2776_left,0
+2776_right,0
+2778_left,0
+2778_right,0
+2780_left,0
+2780_right,0
+2785_left,0
+2785_right,0
+2791_left,0
+2791_right,0
+2793_left,0
+2793_right,0
+2794_left,0
+2794_right,0
+2795_left,2
+2795_right,0
+2796_left,0
+2796_right,0
+2798_left,2
+2798_right,2
+2801_left,0
+2801_right,0
+2802_left,0
+2802_right,1
+2804_left,4
+2804_right,4
+2806_left,0
+2806_right,0
+2807_left,0
+2807_right,0
+2810_left,4
+2810_right,4
+2812_left,0
+2812_right,0
+2813_left,0
+2813_right,0
+2814_left,0
+2814_right,0
+2815_left,0
+2815_right,0
+2817_left,0
+2817_right,0
+2818_left,0
+2818_right,0
+2820_left,0
+2820_right,0
+2823_left,0
+2823_right,0
+2824_left,0
+2824_right,0
+2826_left,0
+2826_right,0
+2829_left,0
+2829_right,0
+2830_left,0
+2830_right,0
+2831_left,0
+2831_right,0
+2838_left,0
+2838_right,0
+2839_left,0
+2839_right,0
+2840_left,0
+2840_right,0
+2842_left,0
+2842_right,0
+2844_left,1
+2844_right,1
+2846_left,0
+2846_right,0
+2847_left,0
+2847_right,0
+2848_left,0
+2848_right,0
+2851_left,0
+2851_right,0
+2853_left,0
+2853_right,0
+2857_left,0
+2857_right,0
+2858_left,1
+2858_right,1
+2859_left,0
+2859_right,0
+2860_left,0
+2860_right,0
+2862_left,3
+2862_right,3
+2865_left,0
+2865_right,0
+2869_left,0
+2869_right,0
+2872_left,2
+2872_right,2
+2874_left,0
+2874_right,0
+2877_left,1
+2877_right,1
+2879_left,0
+2879_right,0
+2880_left,2
+2880_right,4
+2881_left,0
+2881_right,0
+2886_left,0
+2886_right,0
+2887_left,0
+2887_right,0
+2888_left,0
+2888_right,0
+2889_left,0
+2889_right,0
+2893_left,0
+2893_right,0
+2895_left,0
+2895_right,0
+2897_left,0
+2897_right,0
+2901_left,2
+2901_right,3
+2903_left,2
+2903_right,2
+2905_left,0
+2905_right,0
+2908_left,0
+2908_right,0
+2910_left,0
+2910_right,0
+2911_left,0
+2911_right,0
+2916_left,4
+2916_right,4
+2918_left,0
+2918_right,0
+2923_left,0
+2923_right,0
+2933_left,0
+2933_right,0
+2946_left,2
+2946_right,2
+2947_left,0
+2947_right,0
+2949_left,0
+2949_right,1
+2952_left,0
+2952_right,0
+2953_left,1
+2953_right,0
+2954_left,0
+2954_right,0
+2956_left,1
+2956_right,1
+2957_left,0
+2957_right,0
+2961_left,0
+2961_right,0
+2962_left,2
+2962_right,2
+2963_left,0
+2963_right,0
+2964_left,0
+2964_right,0
+2965_left,0
+2965_right,1
+2966_left,2
+2966_right,2
+2969_left,0
+2969_right,0
+2970_left,4
+2970_right,4
+2972_left,1
+2972_right,1
+2973_left,0
+2973_right,0
+2976_left,0
+2976_right,0
+2978_left,0
+2978_right,0
+2980_left,0
+2980_right,0
+2982_left,0
+2982_right,0
+2984_left,0
+2984_right,0
+2986_left,0
+2986_right,0
+2990_left,0
+2990_right,0
+2992_left,2
+2992_right,2
+2996_left,0
+2996_right,0
+2997_left,0
+2997_right,0
+2999_left,0
+2999_right,0
+3000_left,0
+3000_right,0
+3001_left,0
+3001_right,0
+3011_left,0
+3011_right,0
+3017_left,1
+3017_right,0
+3018_left,0
+3018_right,1
+3020_left,0
+3020_right,0
+3021_left,0
+3021_right,0
+3022_left,0
+3022_right,0
+3023_left,0
+3023_right,0
+3026_left,2
+3026_right,2
+3029_left,2
+3029_right,2
+3031_left,2
+3031_right,2
+3034_left,0
+3034_right,0
+3040_left,0
+3040_right,0
+3043_left,0
+3043_right,0
+3053_left,0
+3053_right,0
+3058_left,0
+3058_right,0
+3059_left,2
+3059_right,2
+3060_left,1
+3060_right,0
+3061_left,1
+3061_right,0
+3062_left,0
+3062_right,0
+3064_left,4
+3064_right,4
+3065_left,0
+3065_right,0
+3067_left,0
+3067_right,0
+3070_left,0
+3070_right,2
+3072_left,0
+3072_right,0
+3074_left,2
+3074_right,0
+3076_left,0
+3076_right,0
+3078_left,0
+3078_right,0
+3080_left,0
+3080_right,0
+3082_left,0
+3082_right,0
+3088_left,4
+3088_right,2
+3089_left,0
+3089_right,0
+3094_left,1
+3094_right,0
+3096_left,3
+3096_right,3
+3100_left,0
+3100_right,0
+3101_left,2
+3101_right,2
+3103_left,0
+3103_right,0
+3104_left,2
+3104_right,2
+3106_left,0
+3106_right,0
+3112_left,0
+3112_right,0
+3114_left,0
+3114_right,0
+3116_left,0
+3116_right,0
+3121_left,0
+3121_right,0
+3123_left,0
+3123_right,0
+3124_left,1
+3124_right,1
+3130_left,0
+3130_right,0
+3135_left,0
+3135_right,0
+3139_left,1
+3139_right,2
+3141_left,0
+3141_right,0
+3142_left,0
+3142_right,0
+3144_left,0
+3144_right,0
+3146_left,0
+3146_right,0
+3148_left,0
+3148_right,0
+3149_left,0
+3149_right,0
+3159_left,0
+3159_right,0
+3160_left,0
+3160_right,0
+3163_left,2
+3163_right,2
+3166_left,2
+3166_right,2
+3167_left,0
+3167_right,0
+3170_left,0
+3170_right,0
+3174_left,0
+3174_right,0
+3177_left,0
+3177_right,0
+3185_left,0
+3185_right,0
+3189_left,0
+3189_right,1
+3192_left,3
+3192_right,2
+3194_left,2
+3194_right,2
+3196_left,0
+3196_right,0
+3197_left,1
+3197_right,2
+3202_left,2
+3202_right,2
+3204_left,0
+3204_right,0
+3211_left,0
+3211_right,0
+3212_left,0
+3212_right,0
+3213_left,2
+3213_right,2
+3216_left,2
+3216_right,1
+3220_left,2
+3220_right,2
+3224_left,0
+3224_right,0
+3227_left,0
+3227_right,0
+3228_left,0
+3228_right,0
+3232_left,0
+3232_right,0
+3237_left,2
+3237_right,1
+3241_left,0
+3241_right,0
+3249_left,0
+3249_right,0
+3250_left,2
+3250_right,2
+3251_left,0
+3251_right,0
+3265_left,2
+3265_right,2
+3266_left,0
+3266_right,0
+3267_left,2
+3267_right,2
+3271_left,2
+3271_right,1
+3273_left,0
+3273_right,0
+3275_left,2
+3275_right,2
+3276_left,2
+3276_right,2
+3280_left,0
+3280_right,0
+3283_left,0
+3283_right,0
+3284_left,0
+3284_right,0
+3286_left,0
+3286_right,0
+3287_left,3
+3287_right,3
+3290_left,0
+3290_right,0
+3295_left,2
+3295_right,2
+3296_left,0
+3296_right,0
+3298_left,0
+3298_right,0
+3300_left,2
+3300_right,2
+3301_left,2
+3301_right,2
+3303_left,0
+3303_right,1
+3305_left,0
+3305_right,0
+3306_left,0
+3306_right,0
+3307_left,3
+3307_right,3
+3308_left,0
+3308_right,0
+3312_left,0
+3312_right,0
+3317_left,2
+3317_right,3
+3319_left,0
+3319_right,0
+3320_left,2
+3320_right,0
+3321_left,0
+3321_right,0
+3324_left,0
+3324_right,0
+3325_left,0
+3325_right,0
+3326_left,0
+3326_right,0
+3327_left,0
+3327_right,0
+3329_left,0
+3329_right,0
+3331_left,0
+3331_right,0
+3332_left,0
+3332_right,0
+3333_left,0
+3333_right,0
+3334_left,2
+3334_right,2
+3335_left,0
+3335_right,0
+3337_left,0
+3337_right,0
+3339_left,1
+3339_right,1
+3341_left,0
+3341_right,0
+3343_left,3
+3343_right,3
+3344_left,0
+3344_right,0
+3345_left,0
+3345_right,0
+3346_left,0
+3346_right,0
+3347_left,0
+3347_right,0
+3348_left,0
+3348_right,0
+3355_left,0
+3355_right,0
+3356_left,2
+3356_right,2
+3358_left,0
+3358_right,0
+3359_left,0
+3359_right,0
+3365_left,0
+3365_right,0
+3370_left,0
+3370_right,0
+3371_left,4
+3371_right,4
+3372_left,0
+3372_right,2
+3375_left,0
+3375_right,0
+3376_left,0
+3376_right,0
+3378_left,0
+3378_right,0
+3379_left,3
+3379_right,3
+3381_left,0
+3381_right,0
+3382_left,0
+3382_right,0
+3385_left,0
+3385_right,0
+3387_left,0
+3387_right,0
+3391_left,0
+3391_right,0
+3393_left,0
+3393_right,0
+3395_left,0
+3395_right,0
+3397_left,1
+3397_right,1
+3400_left,0
+3400_right,0
+3401_left,0
+3401_right,0
+3405_left,0
+3405_right,0
+3406_left,0
+3406_right,0
+3408_left,2
+3408_right,0
+3412_left,4
+3412_right,4
+3413_left,0
+3413_right,0
+3415_left,0
+3415_right,0
+3416_left,0
+3416_right,0
+3417_left,0
+3417_right,0
+3418_left,4
+3418_right,2
+3419_left,0
+3419_right,0
+3420_left,2
+3420_right,2
+3422_left,3
+3422_right,3
+3423_left,0
+3423_right,0
+3429_left,0
+3429_right,0
+3432_left,2
+3432_right,2
+3434_left,0
+3434_right,0
+3439_left,0
+3439_right,0
+3440_left,0
+3440_right,0
+3444_left,3
+3444_right,3
+3446_left,2
+3446_right,2
+3447_left,0
+3447_right,0
+3449_left,0
+3449_right,0
+3451_left,0
+3451_right,0
+3453_left,0
+3453_right,0
+3454_left,2
+3454_right,2
+3459_left,1
+3459_right,1
+3461_left,0
+3461_right,0
+3462_left,0
+3462_right,0
+3464_left,0
+3464_right,1
+3468_left,0
+3468_right,0
+3469_left,0
+3469_right,0
+3472_left,0
+3472_right,0
+3473_left,0
+3473_right,0
+3478_left,0
+3478_right,0
+3479_left,0
+3479_right,0
+3485_left,2
+3485_right,2
+3491_left,0
+3491_right,0
+3496_left,0
+3496_right,0
+3501_left,4
+3501_right,0
+3506_left,0
+3506_right,0
+3508_left,0
+3508_right,0
+3509_left,0
+3509_right,0
+3511_left,0
+3511_right,0
+3513_left,0
+3513_right,0
+3515_left,1
+3515_right,0
+3518_left,0
+3518_right,0
+3519_left,0
+3519_right,0
+3520_left,0
+3520_right,0
+3523_left,3
+3523_right,2
+3525_left,2
+3525_right,2
+3526_left,1
+3526_right,0
+3527_left,0
+3527_right,0
+3530_left,0
+3530_right,0
+3531_left,0
+3531_right,0
+3533_left,0
+3533_right,2
+3541_left,0
+3541_right,0
+3542_left,0
+3542_right,0
+3543_left,0
+3543_right,0
+3553_left,0
+3553_right,0
+3554_left,2
+3554_right,2
+3557_left,0
+3557_right,0
+3558_left,0
+3558_right,0
+3560_left,2
+3560_right,2
+3562_left,2
+3562_right,2
+3563_left,4
+3563_right,4
+3564_left,0
+3564_right,0
+3567_left,0
+3567_right,0
+3569_left,0
+3569_right,0
+3570_left,3
+3570_right,3
+3572_left,0
+3572_right,0
+3575_left,0
+3575_right,0
+3578_left,0
+3578_right,0
+3579_left,0
+3579_right,0
+3580_left,0
+3580_right,0
+3581_left,0
+3581_right,0
+3585_left,0
+3585_right,0
+3587_left,1
+3587_right,1
+3592_left,0
+3592_right,0
+3593_left,0
+3593_right,0
+3595_left,0
+3595_right,0
+3598_left,0
+3598_right,0
+3600_left,0
+3600_right,0
+3601_left,0
+3601_right,0
+3605_left,1
+3605_right,1
+3606_left,2
+3606_right,2
+3607_left,0
+3607_right,0
+3608_left,0
+3608_right,0
+3610_left,0
+3610_right,0
+3611_left,0
+3611_right,4
+3612_left,1
+3612_right,0
+3614_left,2
+3614_right,2
+3615_left,0
+3615_right,0
+3619_left,0
+3619_right,0
+3621_left,0
+3621_right,0
+3622_left,1
+3622_right,1
+3623_left,0
+3623_right,0
+3634_left,0
+3634_right,0
+3636_left,2
+3636_right,0
+3639_left,0
+3639_right,0
+3640_left,0
+3640_right,0
+3641_left,0
+3641_right,0
+3643_left,0
+3643_right,0
+3646_left,0
+3646_right,0
+3648_left,2
+3648_right,2
+3650_left,0
+3650_right,0
+3651_left,0
+3651_right,0
+3652_left,0
+3652_right,0
+3653_left,0
+3653_right,0
+3654_left,0
+3654_right,0
+3655_left,2
+3655_right,0
+3657_left,0
+3657_right,0
+3660_left,0
+3660_right,0
+3661_left,0
+3661_right,0
+3662_left,0
+3662_right,0
+3671_left,1
+3671_right,0
+3673_left,0
+3673_right,0
+3677_left,0
+3677_right,0
+3682_left,2
+3682_right,2
+3687_left,0
+3687_right,0
+3688_left,1
+3688_right,0
+3692_left,0
+3692_right,0
+3693_left,0
+3693_right,0
+3695_left,0
+3695_right,0
+3697_left,0
+3697_right,0
+3698_left,0
+3698_right,0
+3699_left,0
+3699_right,0
+3700_left,0
+3700_right,0
+3703_left,2
+3703_right,0
+3706_left,0
+3706_right,0
+3708_left,0
+3708_right,0
+3710_left,0
+3710_right,0
