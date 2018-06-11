@@ -26,6 +26,7 @@ def fashionDatasetPrep(root):
                 io.imsave(img_path, img.numpy())
                 f.write(img_path + ' ' + str(label.item()) + '\n')
 
+
 def diaretDatasetPrep():
     for mode in ('train', 'eval'):
         with open('C:\\Users\\HU SHIHE\\Desktop\\' + mode + '.csv') as csvfile:
@@ -40,4 +41,24 @@ def diaretDatasetPrep():
                 img = trans(img)
                 img.save(os.path.join('C:\\Users\\HU SHIHE\\ML\\data\\dataset\\' + mode, line[0] + '.jpeg'))
 
-# diaretDatasetPrep()
+
+def selectSample():
+    trans = T.Compose([
+        T.Grayscale(),
+        T.Resize(512),
+        T.CenterCrop(512),
+    ])
+    for mode in ('train', 'eval'):
+        with open(os.path.join('data/dataset/', mode + '.csv')) as csvfile:
+            data = list(csv.reader(csvfile, delimiter=','))
+            num = 100
+            img_path = []
+            for i in range(5):
+                img_path = list(filter(lambda x: int(x[1]) == i, data))[:num][0]
+                for path in img_path:
+                    img = Image.open(os.path.join('C:\\Users\\HU SHIHE\\Downloads\\train', path + '.jpeg'))
+                    img = trans(img)
+                    img.save(os.path.join('C:\\Users\\HU SHIHE\\ML\\data\\dataset\\' + mode, path + '.jpeg')) 
+
+
+selectSample()
