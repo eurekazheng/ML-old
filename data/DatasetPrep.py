@@ -5,6 +5,7 @@ from torchvision import transforms as T
 from PIL import Image
 import csv
 
+
 def fashionDatasetPrep(root):
     train_set = (
         mnist.read_image_file(os.path.join(root, 'train-images-idx3-ubyte')),
@@ -68,4 +69,4 @@ def selectSample():
                     img.save(os.path.join('C:\\Users\\HU SHIHE\\ML\\data\\dataset\\' + mode, fn + '.jpeg'))
 
 
-selectSample()
+# selectSample()

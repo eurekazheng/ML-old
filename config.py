@@ -5,14 +5,14 @@ class DefaultConfig(object):
     env = 'main'  # visdom 环境
     model = 'DiaretNet'  # 使用的模型，名字必须与models/__init__.py中的名字一致
 
-    img_root = 'data\\dataset'
-    label_root = 'data\\dataset'
+    img_root = 'data/dataset'
+    label_root = 'data/dataset'
     load_model_path = None  # 'checkpoints/model.pth'  加载预训练的模型的路径，为None代表不加载
 
-    batch_size = 64  # batch size
+    batch_size = 50  # batch size
     use_gpu = False  # use GPU or not
     num_workers = 4  # how many workers for loading data
-    print_freq = 5  # print info every N batch
+    print_freq = 1  # print info every N batch
 
     debug_file = '/tmp/debug'  # if os.path.exists(debug_file): enter ipdb
     result_file = 'result.csv'

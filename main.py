@@ -57,7 +57,6 @@ def train(**kwargs):
         lm.reset()
         cm.reset()
         for i, (img, label) in enumerate(train_dataloader):
-            print('Batch {b}'.format(b=i))
             input = Variable(img)
             target = Variable(label)
             optimizer.zero_grad()
@@ -69,6 +68,7 @@ def train(**kwargs):
             cm.add(output.data, target.data)
             #  Visualize loss, accuracy, and confusion matrix
             if i % opt.print_freq == opt.print_freq - 1:
+                print(label)
                 viz.plot('Train Loss', lm.value()[0])
                 acc = np.matrix.trace(cm.value()) / np.sum(cm.value())
                 viz.plot('Train Accuracy', acc)
