@@ -1,6 +1,5 @@
 import warnings
 
-
 class DefaultConfig(object):
     env = 'main'  # visdom 环境
     model = 'DiaretNet'  # 使用的模型，名字必须与models/__init__.py中的名字一致
